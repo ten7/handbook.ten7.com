@@ -8,7 +8,7 @@ The handbook is a simple static site that's powered by [Jekyll](https://jekyllrb
 
 ## Changes?
 
-If you have any suggestions for making an official change to one of our company policies, [please create a pull request](https://github.com/ten7/handbook.ten7.com/pulls) and explain the change. 
+If you have any suggestions for making an official change to this handbook, [please create a pull request](https://github.com/ten7/handbook.ten7.com/pulls) and explain the suggested change. 
 
 ## License
 
