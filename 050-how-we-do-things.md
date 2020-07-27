@@ -1,8 +1,6 @@
 ---
-title: 'How we do things'
-image_align: left
+title: 'How We Do Things'
 ---
-# How we do things
 
 ## Working Remotely
 

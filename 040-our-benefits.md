@@ -1,7 +1,6 @@
 ---
-title: 'Our benefits'
+title: 'Our Benefits'
 ---
-# Our benefits
 
 Taking care of our employees is a top priority for us. Here’s a list of TEN7 benefits we’re
 excited to offer.

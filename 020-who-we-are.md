@@ -1,9 +1,8 @@
 ---
-title: 'Who we are'
+title: 'Who We Are'
 ---
 
-# Who we are
-TEN7 is a full-service interactive strategy and web development firm focusing on Drupal. We create and care for Drupal-powered websites. But we are so much more than that! TEN7 is a team of hard-working, brilliant, kind individuals who wake up each morning striving to do our best.
+[TEN7](https://ten7.com/) is a full-service interactive strategy and web development firm focusing on Drupal. We create and care for Drupal-powered websites. But we are so much more than that! TEN7 is a team of hard-working, brilliant, kind individuals who wake up each morning striving to do our best.
 
 We ask for help, we ask questions and we challenge each other.
 

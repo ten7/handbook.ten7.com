@@ -1,13 +1,12 @@
 ---
 title: Welcome
 ---
-# Welcome
 
 Hopefully by now you know we like you! We see you as a part of this team. Please ask us as many questions as you like. Make mistakes! We all make them—it’s how we learn and continually improve. Try new things and have them fail. And, please share your opinion! We thrive on learning from each other. Don’t be afraid to ask for help. We’re a close-knit team and work to support one another!
 
 We’ve put together this handbook so you have the tools and knowledge to be set up for success and you can get to know us better.
 
-## Your First Day Duties
+## Your First Day's Duties
 
 Your first day at TEN7 is easy: set up your computer, read this handbook, read a few articles and watch some videos—that’s it!
 

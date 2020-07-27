@@ -1,2 +1,21 @@
-title: TEN7 Employee Handbook
-url: "https://handbook.ten7.com"
+# Setup
+title: 'TEN7 Employee Handbook'
+tagline: 'We&rsquo;re so glad you&rsquo;re here.'
+url: 'https://handbook.ten7.com'
+description: ''
+baseurl: ''
+permalink: pretty
+
+# About/contact
+author:
+  name: Ivan Stegic
+  url: https://ten7.com/
+  email: ivan@ten7.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version: 1.0.4
+google_analytics_id: UA-1719985-9

@@ -1,8 +1,6 @@
 ---
-title: 'How to quit'
+title: 'How To Quit'
 ---
-
-# How to quit
 
 We know, you’re just starting, and we’re already talking about your leaving! But we believe in being honest and open, even about your leaving TEN7. Things change, life happens, and there are any number of reasons why someone may need to leave TEN7. People get nervous and embarrassed that they're thinking of leaving. This sometimes leads to a clumsy exit process. Please remember that we've pretty much been through it all and all we ask for is honesty and open communication during these transitions. TEN7 may sometimes seem like a family, but it's certainly not a cult, and we realize that people will come and go.
 
