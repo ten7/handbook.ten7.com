@@ -14,4 +14,3 @@ This handbook is divided into eight sections. We hope you'll read them all. Plea
 * [Performance](060-performance.md)
 * [How to quit](070-how-to-quit.md)
 * [Legalese](080-legalese.md)
-

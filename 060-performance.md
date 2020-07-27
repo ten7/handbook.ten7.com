@@ -1,9 +1,7 @@
 ---
 title: Performance
-summary: We understand the importance of feedback, and you’ll likely hear a lot of it during your first few weeks on the job.
-image_align: left
 ---
-## PERFORMANCE
+# Performance
 
 You’re probably wondering, “How will I know if I’m doing a good job and meeting expectations?”
 

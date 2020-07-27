@@ -1,24 +1,24 @@
 ---
-title: 'How We Do Things'
+title: 'How we do things'
 image_align: left
 ---
-## HOW WE DO THINGS
+# How we do things
 
-### Working Remotely
+## Working Remotely
 
 TEN7 is a completely distributed company; we have no central office space. Though most of us live in the Minneapolis, Minnesota area, we all work from home (or various coffee shops).
 
 It took some trial and error, but we have this distributed office thing down. We depend on several tools to help us communicate and be virtually present to each other. The most important rule of thumb is that it’s better to over communicate than under communicate. Post on Slack, share your status on the #attendance channel, jump on Zoom (preferably using video)—do whatever you need to in order to be virtually known.
 
-#### Flexible Hours
+### Flexible Hours
 
 We typically work during normal business hours: 8 a.m. to 5 p.m.-ish CST. That’s a big “ish.” We trust each other to put in 40 working hours a week, whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, just keep everyone apprised of your status on Slack.
 
-#### Slack
+### Slack
 
 Slack is the tool we use daily for team and project communication. We’ve installed a ton of custom emoji packs in Slack, to keep things from getting too serious. You’ll be using the Slack status, and Slack channels.
 
-#### Slack Status
+### Slack Status
 
 Set your status on Slack using the following:
 
@@ -26,9 +26,9 @@ Set your status on Slack using the following:
 * Away (lunch, out for a walk, at an appointment, etc)
 * Out (completely out of the office, PTO)
 * Meeting
-* Beverage break
+* Focusing
 
-#### Slack Channels
+### Slack Channels
 
 In Slack, topics are called “channels.” We have several types of channels: internal for everyone, internal for teams or topics, and channels for discussing client projects. With channels, it’s easy to scan them to see if there’s new information to pay attention to. 
 
@@ -43,37 +43,37 @@ Here’s a cheat sheet for our most commonly used channels:
 
 To learn more about how we use Slack, listen to our podcast episode [“Blueprint Series #2: Slack.”](https://ten7.com/blog/post/episode-032-blueprint-series-2-slack)
 
-#### Zoom Video Conferencing
+### Zoom Video Conferencing
 
 While we can do a lot of things over Slack, there are some things you just can’t do. We have a loose rule: if there are more than three back-and-forths on an issue in Slack, we take the conversation to Zoom to hash it out. We encourage regular check-in meetings over Zoom as well, as it’s just nice to see the faces of your coworkers if you’re staring at a screen all day.
 
 Another thing that Zoom conferencing is great for is screen sharing. We share screens to review documents, presentations, or code. And I’m sure some of us are still pointing at the screen with our fingers.
 
-#### IRL
+### IRL
 
 Being remote can be great (puppy time, yay!), but we also know it’s important to come together in person. If you live close to another TEN7 team member, we encourage you to grab a coffee or a meal together! Otherwise, we have in-person meet-ups a few times a year. Sometimes it will be a working session and other times it will be a meal, because we all understand the importance of good food (by the way, check out the **\#food** Slack channel).
 
 For more information on working for a distributed company, read Yonder’s post [“The Anatomy of a Successful Remote Worker.”](https://www.yonder.io/post/anatomy-of-successful-remote-worker)
 
-### Time Tracking
+## Time Tracking
 
 We use JIRA for issue tracking, but we also use it for time tracking and more importantly, client billing. If we make a code commit, the requirement is, there’s an issue in JIRA that maps to the code change. It’s easy for us to stick to that, because if we make a code change and there’s no issue associated with it, we can’t bill for it. We pull your hours and explanation of work and include it in the invoice to clients. Reporting is available at the account, project, team and user levels, which makes it invaluable for managing projects and client billing.
 
 Time entry is important. And accurate time entry is even more important. We challenge each other to enter time daily to ensure accuracy. While billable hours for clients are crucial, it’s also important to accurately log time spent on internal TEN7 work, such as meetings and administrative tasks. We’re always looking for ways to become more efficient and accountable, and time tracking helps us do that.
 
-#### Workweek Time Period
+### Workweek Time Period
 
 Use [Tempo](https://www.tempo.io/jira-project-management-tool) (in JIRA) to submit your hours (including any paid time off) on a weekly basis. The Tempo workweek starts on Sunday at 12:00:00 a.m. and ends on Saturday 11:59:59 p.m. Please submit your hours first thing Monday morning, at least before the staff meeting at 11:00 a.m. CST.
 
-#### Billable Time Expectations
+### Billable Time Expectations
 
 The 40-hour workweek is split up into the following buckets: 
 
-##### Billable Client Hours
+#### Billable Client Hours
 
 If you’re doing billable work on a project for a client, you should have around 30 billable hours per week. Sometimes, billable work on internal projects where TEN7 is the client is approved, such as development work on the ten7.com website. 
 
-##### Internal Hours
+#### Internal Hours
 
 The remaining 10 hours could be spent on activities such as:
 
@@ -87,11 +87,11 @@ We’re all adults, and we trust each other to use good judgment.
 
 We hope you’ll spend 10% of your workweek giving back to the community by contributing your talents—whether design, development, content or otherwise—to open source projects.
 
-#### JIRA Issues for Internal Tasks
+### JIRA Issues for Internal Tasks
 
 All internal hours should be tracked to issues under the TEN7 Internal project in JIRA. For example, you’d use issue T7IN-65 to enter holiday time for when the TEN7 office is closed, and T7IN-12 for PTO time. As always, ask if you have questions on how to do this!
 
-### Meetings
+## Meetings
 
 We don’t believe in meetings for meetings’ sake. We’ll only hold meetings if we have a goal, if we need to meet with a client, or if it’s more efficient to hash things out in a meeting vs. doing it over Slack.
 
@@ -99,23 +99,23 @@ We have a weekly company meeting each Monday at 11 a.m. CST. Ivan will share upd
 
 If you’re a part of an Agile team, you’ll also have a daily [standup](https://en.wikipedia.org/wiki/Stand-up_meeting). These happen at 9:30 a.m. CST sharp over Zoom.
 
-### Money Things
+## Money Things
 
-#### Getting Paid
+### Getting Paid
 
 Payroll is processed biweekly and your salary will be direct deposited every other Friday. When you receive your first paycheck, please verify that taxes, insurance, and 401(k), were accurately deducted. 
 
 We use [Gusto](https:// gusto.com/) to keep track of payroll - you’ll receive an invitation to setup your account for direct deposit.
 
-#### Business Expenses
+### Business Expenses
 
 You’ll receive a [corporate American Express](https://brex.com/) card to use on any TEN7 business-related expenses like travel, conferences, client lunches and so on. We don’t have hard and fast rules about things like _per diems; we just ask that you use your best judgement and keep expenses reasonable. It’s always okay to ask if you’re unsure.
 
-### Tools
+## Tools
 
 Here are the core tools we use at TEN7. Take some time to review and familiarize yourself with them.
 
-#### Project and Business Management
+### Project and Business Management
 
 <table>
     <tbody>
@@ -157,7 +157,7 @@ Here are the core tools we use at TEN7. Take some time to review and familiarize
     </tbody>
 </table>
 
-#### Communication
+### Communication
 
 <table>
     <tbody>
@@ -174,7 +174,7 @@ Here are the core tools we use at TEN7. Take some time to review and familiarize
     </tbody>
 </table>
 
-#### Client Support
+### Client Support
 
 <table>
     <tbody>
@@ -191,6 +191,6 @@ Here are the core tools we use at TEN7. Take some time to review and familiarize
     </tbody>
 </table>
 
-### Website Accessibility
+## Website Accessibility
 
 We’re building things for humans, and the people who use the sites we make are all different. Some of us are visually impaired, others are hard of hearing. Every single thing we build will be experienced uniquely and we should always keep in mind that these experiences should be accessible. We strive for WCAG accessibility in everything we do. It’s not a checkbox to be completed, it’s a continual improvement of our products. And it’s not something that a developer does once and forgets about. It’s a goal that each and every one of us needs to continually champion for the user, in every line of code we write, in every design we publish, and in every minute of support we spend on behalf of our clients.
