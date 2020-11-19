@@ -69,9 +69,7 @@ Minneapolis, MN 55402
 
 Our social media accounts:
 * [LinkedIn](https://www.linkedin.com/company/ten-7-interactive-llc/)
-* [Instagram](https://www.instagram.com/ten7interactive/)
 * [Twitter](http://twitter.com/TEN7)
-* [Facebook](https://www.facebook.com/ten7interactive/)
 
 We publish a new podcast episode bi-weekly: [ten7.com/podcast](https://ten7.com/podcast)
 
