@@ -15,28 +15,27 @@ For health coverage, you can either participate in TEN7’s pre-tax group health
 
 Choose either
 **TEN7’s Group Health Insurance**
-TEN7 covers 100% of your monthly premium, and when selecting Group Health, you have the option to choose one of two available plans:
+TEN7 covers 100% of the employee's monthly premium. You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis. When selecting Group Health, you have the option to choose one of two available plans:
 
 * **Health Savings Account (HSA) Option**<br/>
-[BlueAccess HSA Silver $4000 Plan 645](2019_BlueAccess_HSA_Silver_$4000_Plan_645_M00649R01_508.pdf)
+[2021: BlueAccess HSA Silver $4250 Plan 645 - (HDHP)
+](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/bcbs/plans/2021/bcbs_blueaccess_hsa_silver_4250_plan_645_hdhp.pdf)
     * If you proceed with the HSA plan, TEN7 will send you a link to [Lively](https://livelyme.com/) to set up HSA contributions, which are deducted from each paycheck. 
 * **PPO Option**<br/>
-[BlueAccess GOLD $1000 Plan 637](2019_BlueAccess_Gold_$1000_Plan_637_M00640R01_508.pdf)
+[2021: BlueAccess Gold $1000 Plan 637](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/bcbs/plans/2021/bcbs_blueaccess_gold_1000_plan_637.pdf)
 
 or
 
 **Individual Coverage**<br/>
-TEN7 provides a stipend of up to $450 per month, on a post-tax basis. You buy healthcare coverage on the individual market through our partner, [Gravie](http://gravie.com/). 
-
-Not sure which coverage makes sense for your healthcare needs? TEN7 offers [Gravie’s concierge services](https://www.gravie.com/) to all employees to help you figure it out. Please call them, they’re awesome!
+TEN7 provides a stipend of up to $450 per month, on a post-tax basis. You buy healthcare coverage on the individual market and show us what you spent. We will re-imburse you for that spend every payroll period. 
 
 ### Dental
 
-100% of your monthly premium for group dental coverage through Delta Dental of Minnesota’s Delta Dental PPO Plus Premier plan is covered by TEN7.
+TEN7 covers 100% of the employee's monthly premium for [2021: Delta Dental PPO plus Premier Dental Access](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/delta/plans/2019/delta_delta_dental_ppo_plus_premier_dental_access.pdf). You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis.
 
 ### Vision
 
-Group vision coverage on the [Premier Enhanced Plan](https://www.bluecrossmn.com/healthy/public/portalcomponents/PublicContentServlet?contentId=P11GA_16223992) through Blue Cross Blue Shield of MN is paid for 100% by TEN7.
+TEN7 covers 100% of the employee's monthly premium for group vision coverage on the [2021: MN Premier Enhanced Eyewear Plan Opt II B](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/bcbs/plans/2019/bcbs_mn_premier_enhanced_eyewear_plan_opt_ii_b.pdf) through Blue Cross Blue Shield.
 
 ## Holidays
 
@@ -101,24 +100,11 @@ Upon hire, you can opt in to our 401(k) plan that has a 4% match, and no vesting
 
 ## Life Insurance
 
-You’ll receive SmartChoice Life and Accidental Death & Dismemberment coverage for up to $50,000 from Reliance Standard Life Insurance Company. 
-
-You may purchase additional coverage up to $200,000 at your own expense.
-
-## Short-Term Disability
-
-You’ll also receive SmartChoice Short Term Disability coverage from Reliance Standard Life Insurance Company. The plan provides 60% of your earnings, up to a $7,500 maximum monthly benefit.
-
-## Additional Discounts
-
-Through Principal Life Insurance, TEN7 offers discounts on laser vision correction, a hearing aid program, will and legal document assistance, beneficiary support as well as a few others. See the [Additional Discount](TEN7-Principal-Ins-Co-Additional-Benefits.pdf) document for details.
-
-Please note: these services are independent of TEN7 healthcare benefits and any costs incurred will not count towards the annual deductible. However, it may be possible to use HSA funds towards the medical procedures. Check out the [current HSA eligibility policy](https://livelyme.com/whats-eligible/) for details.
+You’ll receive [$50,000 Basic Life insurance](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/principal/plans/2017/principal_mn_principal_life_50000.pdf) from Principal. You may purchase additional coverage at your own expense.
 
 ## Professional Development
 
 TEN7 encourages employees to keep learning and growing professionally. You'll receive a $1,500 annual stipend, plus two additional paid days off to use towards a conference or an educational experience of your choosing (including books).
-* Visit the following Confluence page for step-by-step process to [request time off for Professional Development](https://teamten7.atlassian.net/wiki/x/6wDx). 
 
 ## Technology Stipend
 
