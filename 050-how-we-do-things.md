@@ -55,13 +55,13 @@ For more information on working for a distributed company, read Yonder’s post 
 
 ## Time Tracking
 
-We use JIRA for issue tracking, but we also use it for time tracking and more importantly, client billing. If we make a code commit, the requirement is, there’s an issue in JIRA that maps to the code change. It’s easy for us to stick to that, because if we make a code change and there’s no issue associated with it, we can’t bill for it. We pull your hours and explanation of work and include it in the invoice to clients. Reporting is available at the account, project, team and user levels, which makes it invaluable for managing projects and client billing.
+We use JIRA for issue tracking, but we use Harvest for time tracking and more importantly, client billing. If we make a code commit, the requirement is, there’s an issue in JIRA that maps to corresponding Harvest project. It’s easy for us to stick to that, because if we make a code change and there’s Harvest entry associated with it, we can’t bill for it. We pull your hours and explanation of work and include it in the invoice to clients. Reporting is available at the account, project, team and user levels, which makes it invaluable for managing projects and client billing.
 
 Time entry is important. And accurate time entry is even more important. We challenge each other to enter time daily to ensure accuracy. While billable hours for clients are crucial, it’s also important to accurately log time spent on internal TEN7 work, such as meetings and administrative tasks. We’re always looking for ways to become more efficient and accountable, and time tracking helps us do that.
 
 ### Workweek Time Period
 
-Use [Tempo](https://www.tempo.io/jira-project-management-tool) (in JIRA) to submit your hours (including any paid time off) on a weekly basis. The Tempo workweek starts on Sunday at 12:00:00 a.m. and ends on Saturday 11:59:59 p.m. Please submit your hours first thing Monday morning, at least before the staff meeting at 11:00 a.m. CST.
+Use Harvest to submit your hours (including any paid time off) on a weekly basis. The Harvest workweek starts on Sunday at 12:00:00 a.m. and ends on Saturday 11:59:59 p.m. Please submit your hours first thing Monday morning, at least before the staff meeting at 9:30 a.m. CST.
 
 ### Billable Time Expectations
 
@@ -85,15 +85,15 @@ We’re all adults, and we trust each other to use good judgment.
 
 We hope you’ll spend 10% of your workweek giving back to the community by contributing your talents—whether design, development, content or otherwise—to open source projects.
 
-### JIRA Issues for Internal Tasks
+### Harvest Project for Internal Tasks
 
-All internal hours should be tracked to issues under the TEN7 Internal project in JIRA. For example, you’d use issue T7IN-65 to enter holiday time for when the TEN7 office is closed, and T7IN-12 for PTO time. As always, ask if you have questions on how to do this!
+All internal hours should be tracked to tasks under the TEN7 Company Operations project in Harvest. As always, ask if you have questions on how to do this!
 
 ## Meetings
 
 We don’t believe in meetings for meetings’ sake. We’ll only hold meetings if we have a goal, if we need to meet with a client, or if it’s more efficient to hash things out in a meeting vs. doing it over Slack.
 
-We have a weekly company meeting each Monday at 11 a.m. CST. Ivan will share updates, the team can connect, and anyone can bring any topic to the table.
+We have a weekly company meeting each Monday at 10 a.m. CST. Ivan will share updates, the team can connect, and anyone can bring any topic to the table.
 
 If you’re a part of an Agile team, you’ll also have a daily [standup](https://en.wikipedia.org/wiki/Stand-up_meeting). These happen at 9:30 a.m. CST sharp over Zoom.
 
@@ -123,9 +123,9 @@ Here are the core tools we use at TEN7. Take some time to review and familiarize
             <td><a href="http://teamten7.atlassian.net">http://teamten7.atlassian.net</a></td>
         </tr>
         <tr>
-            <td>Tempo for JIRA</td>
+            <td>Harvest</td>
             <td>Time tracker</td>
-            <td>Tempo tab in JIRA</td>
+           <td><a href="https://ten7.harvestapp.com">https://ten7.harvestapp.com</a></td>
         </tr>
         <tr>
             <td>1Password</td>
@@ -136,11 +136,6 @@ Here are the core tools we use at TEN7. Take some time to review and familiarize
             <td>Hubspot</td>
             <td>CRM and Marketing</td>
             <td><a href="http://app.hubspot.com">http://app.hubspot.com</a></td>
-        </tr>
-        <tr>
-            <td>InVision</td>
-            <td>Design mockups &amp; prototypes</td>
-            <td><a href="https://projects.invisionapp.com">https://projects.invisionapp.com</a></td>
         </tr>
         <tr>
             <td>Google Calendar</td>
