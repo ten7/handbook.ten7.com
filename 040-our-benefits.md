@@ -58,7 +58,7 @@ PTO is time for rest, travel and stepping away from your computer. Upon hire, yo
 * You may use PTO for vacation, personal days and sick days.
 * If you need more paid time off than you’ve earned, it’s okay for you to take a few days in advance of earning them, as long as it’s approved beforehand.
 * PTO increases are reviewed annually.
-* PTO resets at the beginning of the calendar year (doesn’t roll over).
+* Any PTO you have remaining at the end of the year will roll over to the following year and will continue to accrue only until you've reached your avaialable maximum. As an example, let's say you have 10 days of available PTO per year. If, at the end of X year, you have 5 days remaining, those 5 days will roll over to the following year and will continue to accrue until you've accrued 10 total days for that year (your maximum).
 
 In addition to your PTO days, you have two paid days off annually to use for professional development. You can find additional details about this in the Professional Development section of this handbook.
 
@@ -66,15 +66,15 @@ In addition to your PTO days, you have two paid days off annually to use for pro
 
 When you need to take time off, communicate with your teammates to make sure nothing slips through the cracks while you’re out.
 
-To request time off, you will log in to your Gusto account and enter the dates needed for PTO. Once you receive an email that your request has been approved, please set up a calendar invite and invite Hermie (hermie@ten7.com) so everyone else knows you are out. 
+To request time off, you will log in to your Gusto account and enter the dates needed for PTO. Once you receive an email that your request has been approved, a calendar invite will automatically be set up for you, so everyone else can see you'll be out. 
 
-If you need to edit or delete your PTO request, adjust the Gusto request and the calendar invite.
+If you need to edit or delete your PTO request, adjust the Gusto request.
 
-Visit the following confluence page for the step-by-step process to [request PTO](https://teamten7.atlassian.net/wiki/x/6wDx). 
+Visit the following Google Drive document for the step-by-step process to [request PTO](https://drive.google.com/drive/u/1/folders/12uAPtkLc4Ek8JMxPoo63-M0rflV8j6r0). 
 
-### Logging PTO in JIRA
+### Logging PTO in Harvest
 
-Log your PTO time using issue [T7IN-12](https://teamten7.atlassian.net/browse/T7IN-12).
+Log your PTO time using the "TEN7 Time Off" project in Harvest. 
 
 ## Parental Leave
 
@@ -97,6 +97,11 @@ If you’re called to serve on a jury, you’ll receive your full pay for up to 
 Upon hire, you can opt in to our 401(k) plan that has a 4% match, and no vesting period. You can also [roll over funds](https://success.guideline.com/hc/en-us/articles/360007550292-Rollover-other-accounts-into-your-Guideline-401-k-) from other eligible accounts. When determining your 401(k) contribution amount, take into account what you’ve contributed during the calendar year so far, so you don’t go over the IRS contribution maximum.
 
 [Guideline](https://www.guideline.com/) can help you with 401(k) issues as well.
+
+## Gusto Cashout
+
+This is a free, no-fee way to access up to $500 between paydays. Use [Cashout](https://app.gusto.com/ten-7-interactive-llc/employee/cashout/overview) to cover an unexpected expense or manage large bills.
+
 
 ## Life Insurance
 
