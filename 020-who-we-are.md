@@ -1,6 +1,5 @@
----
-title: 'Who We Are'
----
+
+## 'Who We Are'
 
 [TEN7](https://ten7.com/) is a full-service interactive strategy and web development firm focusing on Drupal. We create and care for Drupal-powered websites. But we are so much more than that! TEN7 is a team of hard-working, brilliant, kind individuals who wake up each morning striving to do our best.
 
@@ -32,7 +31,7 @@ It's correct to write:
 * T7 (for short)
 * But mentions of the website are in lowercase (ten7.com)
 
-The rule of thumb is that "TEN7" should always be written in CAPS with NO space between the "TEN" and the number "7"—please don’t use lower case, and don’t add spaces. The "TEN7" wordmark is geared to resemble the logo as closely as possible.
+The rule of thumb is that "TEN7" should always be written in CAPS with NO space between the "TEN" and the number "7"—please don’t use lowercase, and don’t add spaces. The "TEN7" wordmark is geared to resemble the logo as closely as possible.
 
 Exception: Our company’s legal name is **Ten 7 Interactive, LLC**., but this will only be used on legal documents like signed contracts. Ivan talks about our company’s origin in episode 21 of our podcast [“TEN7’s Origins.”](https://ten7.com/blog/post/episode-021-ten7s-origins)
 
@@ -48,7 +47,7 @@ Our official font is Adrianna by [Chank Diesel](https://en.wikipedia.org/wiki/Ch
 
 ## Our Template
 
-When you start a new document in Google Docs, please use [the TEN7 template](https://docs.google.com/document/u/0/?ftv=1&tgif=d). It’s preset with styles for H1, H2, H3 that closely match our branding. Note: Adrianna is not a font available in G Suite so we use Montserrat.
+When you start a new document in Google Docs, please use [the TEN7 template](https://docs.google.com/document/u/0/?ftv=1&tgif=d). It’s preset with styles for H1, H2 and H3 that closely match our branding. Note: Adrianna is not a font available in G Suite, so we use Montserrat.
 
 ## Our Contact Info
 
@@ -60,7 +59,7 @@ Our main phone number is:<br/>
 General email inquiries can be sent to:<br/> 
 >[hi@ten7.com](hi@ten7.com)
 
-The majority of our documents and communication are managed electronically, but should the instance arise, we accept mail at:
+The majority of our documents and communication are managed electronically, but should you need it, we accept mail at:
 
 >TEN7<br/>
 80 S 8th St., Ste. 990 #85756<br/>
