@@ -1,10 +1,9 @@
----
-title: Legalese
----
+
+# Legalese
 
 As you know by now, TEN7 thrives on speaking clearly. This also means including legal language when necessary. The next portion of this handbook includes the formal policies we abide by.
 
-The policies in this handbook do not create a contract between TEN7 and the team, or any contractual obligation by TEN7. The items discussed in this handbook supersede all existing policies, practices and representations, whether verbal or written. The details of the handbook have been developed at the discretion of management and, except for its policy of employment-at-will, may be amended or cancelled at any time, at TEN7’s sole discretion. The only policy that isn’t subject to change is our employment-at will policy permitting you or TEN7 to end our relationship for any reason, at any time.
+The policies in this handbook do not create a contract between TEN7 and the team, or any contractual obligation by TEN7. The items discussed in this handbook supersede all existing policies, practices and representations, whether verbal or written. The details of the handbook have been developed at the discretion of management and, except for its policy of employment-at-will, may be amended or cancelled at any time, at TEN7’s sole discretion. The only policy that isn’t subject to change is our employment-at-will policy permitting you or TEN7 to end our relationship for any reason, at any time.
 
 ## At-Will Employment Status
 
