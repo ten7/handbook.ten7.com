@@ -1,6 +1,5 @@
----
-title: 'Our Culture'
----
+
+## Our Culture
 
 We’re proud of our values. We try to live and breathe them daily. We incorporate them into our work and communication with each other and our clients. They’re our foundation.
 
@@ -8,7 +7,7 @@ We’re proud of our values. We try to live and breathe them daily. We incorpora
 
 ### Honesty
 
-We speak the truth even when it’s bad news. We don’t keep things to ourselves. We promise things we know we can deliver on. We greatly value an honest relationship.
+We speak the truth, even when it’s bad news. We don’t keep things to ourselves. We promise things we know we can deliver on. We greatly value an honest relationship.
 
 ### Mindfulness
 
@@ -62,7 +61,7 @@ Read more about what [we believe and value](https://ten7.com/blog/post/what-ten7
 
 ### DiSC Assessment
 
-If you’re not familiar with the DiSC personality profile tool, you’re about to be! It’s another part of the foundation of TEN7. We have every team member take the assessment. You’ll find out where you are on the DiSC model, how this depicts your work style. You’ll also find out where your other team members are on the DiSC profile, so you’ll learn how to better understand and collaborate with your team members.
+If you’re not familiar with the DiSC personality profile tool, you’re about to be! It’s another part of the foundation of TEN7. We have every team member take the assessment. You’ll find out where you are on the DiSC model and how this depicts your work style. You’ll also find out where other TEN7 team members are on the DiSC profile, so you’ll learn how to better understand and collaborate with your team members.
 
 TEN7 first went through the DiSC assessment for the entire team in 2016, and it’s really helped us iterate our processes and resolve team issues and pain points.
 
