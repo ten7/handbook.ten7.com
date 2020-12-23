@@ -1,27 +1,26 @@
----
-title: 'How We Do Things'
----
+
+# How We Do Things
 
 ## Working Remotely
 
 TEN7 is a completely distributed company; we have no central office space. Though most of us live in the Minneapolis, Minnesota area, we all work from home (or various coffee shops).
 
-It took some trial and error, but we have this distributed office thing down. We depend on several tools to help us communicate and be virtually present to each other. The most important rule of thumb is that it’s better to over communicate than under communicate. Post on Slack, share your status on the #attendance channel, jump on Zoom (preferably using video)—do whatever you need to in order to be virtually known.
+It took some trial and error, but we have this distributed office thing down. We depend on several tools to help us communicate and be virtually present to each other. The most important rule of thumb is that it’s better to over communicate than under communicate. Post on Slack, share your status in the #attendance channel, jump on Zoom (preferably using video)—do whatever you need to in order to be virtually known.
 
 ### Flexible Hours
 
-We typically work during normal business hours: 8 a.m. to 5 p.m.-ish CST. That’s a big “ish.” We trust each other to put in 40 working hours a week, whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, just keep everyone apprised of your status on Slack.
+We typically work during normal business hours: 9 a.m. to 5 p.m.-ish CST. That’s a big “ish.” We trust each other to put in 30 billable hours per week, whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, just keep everyone apprised of your status on Slack.
 
 ### Slack
 
-Slack is the tool we use daily for team and project communication. We’ve installed a ton of custom emoji packs in Slack, to keep things from getting too serious. You’ll be using the Slack status, and Slack channels.
+Slack is the tool we use daily for team and project communication. We’ve installed a ton of custom emoji packs in Slack, to keep things from getting too serious. You’ll be using the Slack status and Slack channels.
 
 ### Slack Status
 
 Set your status on Slack using the following:
 
 * Here (working)
-* Away (lunch, out for a walk, at an appointment, etc)
+* Away (lunch, out for a walk, at an appointment, etc.)
 * Out (completely out of the office, PTO)
 * Meeting
 * Focusing
@@ -33,17 +32,17 @@ In Slack, topics are called “channels.” We have several types of channels: i
 Here’s a cheat sheet for our most commonly used channels:
 
 * **\#attendance:** We use the Slack status function plus a check-in to this channel to let others know our workday presence. It’s a place to add extra detail about what you’re up to. Say hi when you start the day, note when you’re away from keyboard (AFK), back at keyboard (BAK), when you’re leaving to go a meeting, grabbing a cup of coffee or heading out for the day.
-* **\#general:** Mainly used for general company info, team reminders and standup call links.
-* **\#random:** This is the distributed office water cooler; it’s used for—well—the most random things you can imagine. Check out what’s going on in #random when you’re working—there’s almost always something funny going on and it’s a great chance to chat with and get to know other team members.
+* **\#general:** Mainly used for general company info and team reminders.
+* **\#random:** This is the distributed office water cooler; it’s used for, well, the most random things you can imagine. Check out what’s going on in #random when you’re working—there’s almost always something funny going on, and it’s a great chance to chat with and get to know other team members.
 * **Project channels:** Project channels are used internally to discuss work on client projects. If you’re working on client projects, you’ll be invited to each project’s channel. Channel names always start with an underscore before the project name. For example, **\#_pt** is the channel dedicated to Psychology Today.
-* TEN7Care channels: These are project channels that the client has access to. Names start with **\#t7care_**.
+* **TEN7Care channels:** These are project channels that the client has access to. Names start with **\#t7care_**.
 * **Shared channels:** Sometimes a client has their own Slack account, so we’ll connect our accounts together in a shared Slack channel. For example, \#mnhs-ten7 is the Minnesota Historical Society and TEN7 shared channel.
 
 To learn more about how we use Slack, listen to our podcast episode [“Blueprint Series #2: Slack.”](https://ten7.com/blog/post/episode-032-blueprint-series-2-slack)
 
 ### Zoom Video Conferencing
 
-While we can do a lot of things over Slack, there are some things you just can’t do. We have a loose rule: if there are more than three back-and-forths on an issue in Slack, we take the conversation to Zoom to hash it out. We encourage regular check-in meetings over Zoom as well, as it’s just nice to see the faces of your coworkers if you’re staring at a screen all day.
+While we can do a lot of things over Slack, there are some things we just can’t do. We have a loose rule: if there are more than three back-and-forths on an issue in Slack, we take the conversation to Zoom to hash it out. We encourage regular check-in meetings over Zoom as well, as it’s just nice to see the faces of your coworkers if you’re staring at a screen all day.
 
 Another thing that Zoom conferencing is great for is screen sharing. We share screens to review documents, presentations, or code. And I’m sure some of us are still pointing at the screen with our fingers.
 
@@ -55,13 +54,13 @@ For more information on working for a distributed company, read Yonder’s post 
 
 ## Time Tracking
 
-We use JIRA for issue tracking, but we use Harvest for time tracking and more importantly, client billing. If we make a code commit, the requirement is, there’s an issue in JIRA that maps to corresponding Harvest project. It’s easy for us to stick to that, because if we make a code change and there’s Harvest entry associated with it, we can’t bill for it. We pull your hours and explanation of work and include it in the invoice to clients. Reporting is available at the account, project, team and user levels, which makes it invaluable for managing projects and client billing.
+We use JIRA for issue tracking, but we use Harvest for time tracking and — more importantly — client billing. If we make a code commit, the requirement is that there’s an issue in JIRA that maps to the corresponding Harvest project. It’s easy for us to stick to that, because if we make a code change and there isn't a Harvest entry associated with it, we can’t bill for it. We pull your hours and explanation of work and include it in the invoice to clients. Reporting is available at the account, project, team and user levels, which makes it invaluable for managing projects and client billing.
 
-Time entry is important. And accurate time entry is even more important. We challenge each other to enter time daily to ensure accuracy. While billable hours for clients are crucial, it’s also important to accurately log time spent on internal TEN7 work, such as meetings and administrative tasks. We’re always looking for ways to become more efficient and accountable, and time tracking helps us do that.
+Time entry is important. And accurate time entry is even more important. We challenge each other to enter time daily (ideally using the built-in Harvest timer) to ensure accuracy. While billable hours for clients are crucial, it’s also important to accurately log time spent on internal TEN7 work, such as meetings and administrative tasks. We’re always looking for ways to become more efficient and accountable, and time tracking helps us do that.
 
 ### Workweek Time Period
 
-Use Harvest to submit your hours (including any paid time off) on a weekly basis. The Harvest workweek starts on Sunday at 12:00:00 a.m. and ends on Saturday 11:59:59 p.m. Please submit your hours first thing Monday morning, at least before the staff meeting at 9:30 a.m. CST.
+Use Harvest to submit your hours (including any paid time off) on a weekly basis. The Harvest workweek starts on Sunday at 12:00:00 a.m. and ends on Saturday 11:59:59 p.m. Please submit your hours by first thing Monday morning, at least before the staff meeting at 9:30 a.m. CST.
 
 ### Billable Time Expectations
 
@@ -79,7 +78,7 @@ The remaining 10 hours could be spent on activities such as:
 * Contributing to Open Source projects or Drupal on drupal.org
 * Participating in blogging, marketing or podcasts for TEN7
 * Providing estimates for new projects
-* Speaking at and attending conferences and camps.
+* Speaking at and attending conferences and camps
 
 We’re all adults, and we trust each other to use good judgment.
 
@@ -95,13 +94,13 @@ We don’t believe in meetings for meetings’ sake. We’ll only hold meetings 
 
 We have a weekly company meeting each Monday at 10 a.m. CST. Ivan will share updates, the team can connect, and anyone can bring any topic to the table.
 
-If you’re a part of an Agile team, you’ll also have a daily [standup](https://en.wikipedia.org/wiki/Stand-up_meeting). These happen at 9:30 a.m. CST sharp over Zoom.
+You'll also have a daily [standup](https://en.wikipedia.org/wiki/Stand-up_meeting). These happen at 9:30 a.m. CST sharp over Zoom.
 
 ## Money Things
 
 ### Getting Paid
 
-Payroll is processed biweekly and your salary will be direct deposited every other Friday. When you receive your first paycheck, please verify that taxes, insurance, and 401(k), were accurately deducted. 
+Payroll is processed biweekly, and your salary will be direct deposited every other Friday. When you receive your first paycheck, please verify that taxes, insurance, and 401(k), were accurately deducted. 
 
 We use [Gusto](https:// gusto.com/) to keep track of payroll - you’ll receive an invitation to setup your account for direct deposit.
 
