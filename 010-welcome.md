@@ -1,5 +1,5 @@
 
-## Welcome
+# Welcome
 
 Hopefully by now you know we like you! We see you as a part of this team. Please ask us as many questions as you like. Make mistakes! We all make them—it’s how we learn and continually improve. Try new things and fail. And, please share your opinion! We thrive on learning from each other. Don’t be afraid to ask for help. We’re a close-knit team and work to support one another!
 
