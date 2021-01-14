@@ -55,7 +55,7 @@ Personnel files are the property of TEN7. You have the right to periodically rev
 
 ## Termination of Employment
 
-In accordance with the “at-will” status of all TEN7 team members, we retain the right to discharge or release any member at any time and for any reason not prohibited by law. It’s sometimes necessary to release a team member because of poor performance, attendance or punctuality, misconduct, reductions in staff or other business reasons. Upon termination, you’ll meet with a team member and discuss various matters (e.g., 401(k) plan and COBRA options) and return all company property to TEN7.
+In accordance with the “at-will” status of all TEN7 team members, we retain the right to discharge or release any member at any time and for any reason not prohibited by law. It’s sometimes necessary to release a team member because of poor performance, attendance or punctuality, misconduct, reductions in staff or other business reasons. Upon termination, you’ll meet with a team member and discuss various matters (e.g., 401(k) plan and COBRA options) and return all company property to TEN7 within 14 days of termination.
 
 Employees age 65 or older will be provided 30-days’ notice if the termination is because they can no longer meet job requirements.
 
