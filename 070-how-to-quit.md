@@ -29,13 +29,14 @@ We will provide you the details of your last paycheck and when to expect it (thi
 
 ### Turn in Your Stuff
 
-Please mail any TEN7 property/documents to:
+Within 14 days following your notice, please mail any TEN7 property/documents to:
 
 ```
 TEN7
 1904 James Ave S
 Minneapolis, MN 55403
 ```
+This may include things like laptops, cell phones, and other items purchased under the TEN7 tech stipend.
 
 ### Exit Interview
 
