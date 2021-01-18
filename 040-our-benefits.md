@@ -75,6 +75,10 @@ Visit the following Google Drive document for the step-by-step process to [reque
 
 Log your PTO time using the "TEN7 Time Off" project in Harvest. 
 
+## Sick time
+
+In addition to the PTO you accrue, you also receive 6 days (48h) on the first of every year. This is for unplanned time you need to take off because you are sick unexpectedly. 
+
 ## Parental Leave
 
 As a new parent, it’s important that you have time to spend with the new addition to your family. That’s why all new parents who’ve worked at TEN7 for six months may take two weeks paid parental leave. You may then use accumulated PTO and Short Term Disability for additional paid time off, up to 12 weeks. How you schedule the two weeks around the birth is up to you.
