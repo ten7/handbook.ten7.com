@@ -13,7 +13,7 @@ We typically work during normal business hours: 9 a.m. to 5 p.m.-ish CST. That�
 
 ### Slack
 
-Slack is the tool we use daily for team and project communication. We’ve installed a ton of custom emoji packs in Slack, to keep things from getting too serious. You’ll be using the Slack status and Slack channels.
+Slack is the tool we use daily for team and project communication. We’ve installed a ton of custom emoji packs in Slack, to keep things from getting too serious. You’ll be using the Slack status and Slack channels. Please add your profile photo when you first log in.
 
 ### Slack Status
 
