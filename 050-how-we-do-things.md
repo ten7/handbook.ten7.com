@@ -92,9 +92,9 @@ All internal hours should be tracked to tasks under the TEN7 Company Operations 
 
 We don’t believe in meetings for meetings’ sake. We’ll only hold meetings if we have a goal, if we need to meet with a client, or if it’s more efficient to hash things out in a meeting vs. doing it over Slack.
 
-We have a weekly company meeting each Monday at 10 a.m. CST. Ivan will share updates, the team can connect, and anyone can bring any topic to the table.
+We have a weekly company meeting each Monday at 9:30 a.m. CST. Ivan will share updates, the team can connect, and anyone can bring any topic to the table.
 
-You'll also have a daily [standup](https://en.wikipedia.org/wiki/Stand-up_meeting). These happen at 9:30 a.m. CST sharp over Zoom.
+You'll also have a daily [standup](https://en.wikipedia.org/wiki/Stand-up_meeting). These also happen at 9:30 a.m. CST sharp over Zoom.
 
 ## Money Things
 
