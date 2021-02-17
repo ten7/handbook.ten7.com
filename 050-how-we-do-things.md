@@ -11,6 +11,12 @@ It took some trial and error, but we have this distributed office thing down. We
 
 We typically work during normal business hours: 9 a.m. to 5 p.m.-ish CST. That’s a big “ish.” We trust each other to put in 30 billable hours per week, whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, just keep everyone apprised of your status on Slack.
 
+### Side Jobs
+
+We understand that you may want to supplement your income or work on cool projects outside of TEN7, and that’s ok. In fact, we fully support any extracurricular work you might do. The rule of thumb about side jobs is that they shouldn’t negatively affect your work at TEN7. We expect that you’ll make TEN7 your top priority.
+
+If you decide to take on other work because you’re not 100% happy at TEN7, please talk with us about it first, and we’ll do whatever we can to help make things better for you. If it’s for any other reason, and you want to share, we’d love to hear about the neat projects you’re working on. 
+
 ### Slack
 
 Slack is the tool we use daily for team and project communication. We’ve installed a ton of custom emoji packs in Slack, to keep things from getting too serious. You’ll be using the Slack status and Slack channels. Please add your profile photo when you first log in.
