@@ -55,7 +55,6 @@ Our main phone number is:<br/>
 
 >612.868.7884
 
-
 General email inquiries can be sent to:<br/> 
 >[hi@ten7.com](hi@ten7.com)
 
@@ -65,6 +64,7 @@ The majority of our documents and communication are managed electronically, but 
 80 S 8th St., Ste. 990 #85756<br/>
 Minneapolis, MN 55402
 
+Please feel free to reach out to our CEO, Ivan Stegic, as much as you need via Slack, email, or even with a phone call! This could be a random call to say, “Hi!” or one to tell him it’s crazy for you, and that you need help. You name it, he’s available whenever you are. His mobile number is on his [Slack profile.](https://ten7.slack.com/team/U02FLV1A0)
 
 Our social media accounts:
 * [LinkedIn](https://www.linkedin.com/company/ten-7-interactive-llc/)
