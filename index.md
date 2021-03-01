@@ -13,6 +13,8 @@ This handbook is divided into eight sections. We hope you'll read them all. Plea
 * [How To Quit](070-how-to-quit.md)
 * [Legalese](080-legalese.md)
 
+A note: please feel free to reach out to our CEO, Ivan Stegic, as much as you need via Slack, email, or even with a phone call! This could be a random call to say, “Hi!” or to tell him that things are bonkers, and you need help. You name it, he’s available whenever you are. His mobile number is on his [Slack profile.](https://ten7.slack.com/team/U02FLV1A0)
+
 ## Your Signature, Please.
 
 After you've read the handbook, please [fill out a form](https://app.hellosign.com/s/e64684d6) acknowledging that you've done so. Welcome aboard!
