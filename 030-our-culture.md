@@ -3,23 +3,35 @@
 
 We’re proud of our values. We try to live and breathe them daily. We incorporate them into our work and communication with each other and our clients. They’re our foundation.
 
+## Our mission
+
+### Make things that matter. 
+
+## Our vision
+
+### TEN7 is a place where our team, our partners and our customers do the best work of their lives.
+
 ## Our values
 
-### Honesty
+### Be honest
 
-We speak the truth, even when it’s bad news. We don’t keep things to ourselves. We promise things we know we can deliver on. We greatly value an honest relationship.
+Trust first. Tell the truth. We speak plainly and empathetically. We communicate openly. We are humble and respectful.
 
-### Mindfulness
+### Be inclusive
 
-We are aware of our actions and how they affect you and the larger community. We are mindful of your need for quality and timely results. We recognize that we all have something to contribute.
+Our diversity is our strength. We collaborate and work together on things which are accessible and that matter. We are accepting and we believe new ideas are worth exploring.
 
-### Sharing
+### Be open
 
-We are altruists at heart. We share our expertise, processes and experiences to benefit the community. We do so without expectation.
+We are open by default. We are transparent in everything we do. We believe in open technology and in giving back. We share. We make decisions based on data and are ready to adjust, especially in light of new data and circumstances.
 
-### Speaking Plainly
+### Be mindful
 
-We build trust by being patient translators and putting ourselves in your shoes. We help you understand what you want and what you need. We realize jargon is difficult, so we work hard to hire people with empathy.
+We are sensitive, curious and vulnerable. We are considerate of team members and customers. We are  present in all things.
+
+### Be a team
+
+We work as a team. We learn from each other, our opinions matter. Our team is more than the sum of its parts. There is no us and them.
 
 ## Above the Line/Below the Line
 
