@@ -15,23 +15,23 @@ We’re proud of our values. We try to live and breathe them daily. We incorpora
 
 ### Be honest
 
-Trust first. Tell the truth. We speak plainly and empathetically. We communicate openly. We are humble and respectful.
+We speak as candidly, openly, and honestly as possible. We endeavor to be empathetic and connect with those around us. By speaking plainly, we can encourage clear and honest communication. We aspire to start from a position of trust, rather than fear; humility, rather than arrogance; and respect, rather than wariness.
 
 ### Be inclusive
 
-Our diversity is our strength. We collaborate and work together on things which are accessible and that matter. We are accepting and we believe new ideas are worth exploring.
+We recognize that our collective differences make us stronger. Our openness and diversity of ideas and backgrounds allows us to think more widely, cover more ground, and provide stronger solutions that matter to a larger audience. We hope to remain open minded, collecting diverse ideas and perspectives before synthesizing, editing, adapting, and focusing our ideas. More importantly, we seek our common humanity, which allows us to connect and collaborate together.
 
 ### Be open
 
-We are open by default. We are transparent in everything we do. We believe in open technology and in giving back. We share. We make decisions based on data and are ready to adjust, especially in light of new data and circumstances.
+By working in the light, we tend to write better code, create better business practices, and be more equitable with one another. Thus, openness and transparency make us stronger and provide patterns and solutions that others can build on. We choose to be open by default. We opt for transparency. Sharing is an act of gratitude and tends to perpetuate that act. Open is inclusive. Open encourages trust. Open is good.
 
 ### Be mindful
 
-We are sensitive, curious and vulnerable. We are considerate of team members and customers. We are  present in all things.
+Choose to be present, curious, and vulnerable. We want to create a culture where it is safe to be vulnerable, and admit your difficulties, differences, and confusion so that we may learn from one another and become better together. Choose to listen. Try to hear others’ perspectives and ideas. It is easy to close ourselves off from one another, but we want everyone to have a voice. We need to hear one another and stay present with our ideas. Ideas are important. Intention is important. Your voice is important.
 
 ### Be a team
 
-We work as a team. We learn from each other, our opinions matter. Our team is more than the sum of its parts. There is no us and them.
+We recognize that our collective effort is more than just the sum of its parts. By sharing our ideas, learning from one another, and supporting one another, we become stronger both individually and collectively. By opting for trust first, we try not to create an “us” and “them” atmosphere. By opting for openness first, we want to encourage collaboration in all things. It is our goal to empower not only our clients, but each other as well – so that we can be the best we can be and take pride in creating amazing work for our clients.
 
 ## Above the Line/Below the Line
 
