@@ -1,4 +1,4 @@
-
+---
 # Legalese
 
 As you know by now, TEN7 thrives on speaking clearly. This also means including legal language when necessary. The next portion of this handbook includes the formal policies we abide by.
