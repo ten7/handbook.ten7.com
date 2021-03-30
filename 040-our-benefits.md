@@ -79,6 +79,12 @@ Log your PTO time using the "TEN7 Time Off" project in Harvest.
 
 In addition to the PTO you accrue, you also receive 6 days (48h) on the first of every year. This is for unplanned time you need to take off because you are sick unexpectedly. 
 
+## Vaccinations
+
+When it's time to get vaccinated — for COVID, the flu, or MMR — please take the time you need to do so. There's no need to request this time off in Gusto as long as you won't be away for more than 2 hours. Please make sure your time is blocked off on your calendar and then log it in Harvest under TEN7 Time Off 2021 > Vaccinations. 
+
+TEN7 will pay for your transportation costs to and from getting your vaccination: bus, Uber, train, or miles on a car. Please submit your transportation costs/mileage to: receipts@ten7.com, and we'll reimburse you $0.56/mile. 
+
 ## Parental Leave
 
 As a new parent, it’s important that you have time to spend with the new addition to your family. That’s why all new parents who’ve worked at TEN7 for six months may take two weeks paid parental leave. You may then use accumulated PTO and Short Term Disability for additional paid time off, up to 12 weeks. How you schedule the two weeks around the birth is up to you.
