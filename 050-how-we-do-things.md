@@ -19,7 +19,7 @@ If you decide to take on other work because you’re not 100% happy at TEN7, ple
 
 ### Slack
 
-Slack is the tool we use daily for team and project communication. We’ve installed a ton of custom emoji packs in Slack, to keep things from getting too serious. You’ll be using the Slack status and Slack channels. Please add your profile photo when you first log in.
+Slack is the tool we use daily for team and project communication. We’ve installed a ton of custom emoji packs in Slack, to keep things from getting too serious. You’ll be using the Slack status and Slack channels. Please add your profile photo and your personal pronouns in parentheses next to your "full name" when you first log in.
 
 ### Slack Status
 
