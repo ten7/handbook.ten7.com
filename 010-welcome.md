@@ -5,6 +5,8 @@ Hopefully by now you know we like you! We see you as a part of this team. Please
 
 We’ve put together this handbook so you have the tools and knowledge to be set up for success and you can get to know us better.
 
+If you're looking for our Contractor Guide, you can find that [here](https://contractor.ten7.com/). 
+
 ## Your First Day's Duties
 
 Your first day at TEN7 is easy: set up your computer, read this handbook, read a few articles and watch some videos—that’s it!
