@@ -91,7 +91,7 @@ As a new parent, it’s important that you have time to spend with the new addit
 
 ## Sabbatical
 
-We’re excited to offer paid sabbatical leave to long-term TEN7 employees. After you’ve been working at TEN7 as a full-time employee for four years, you can take a four-week paid sabbatical during your fifth year of employment. We encourage you to take this time to go on an adventure, follow a passion, or work on a creative project—just grow and rejuvenate. This benefit repeats for every four years that you’re a full time employee. Listen to our podcast on [Employee Sabbaticals](https://ten7.com/blog/post/episode-016-employee-sabbaticals-and-why-ten7-offers-them) to learn more.
+We’re excited to offer paid sabbatical leave to long-term TEN7 employees. After you’ve been working at TEN7 as a full-time employee for four years, you can take a four-week paid sabbatical during your fifth year of employment. Sabbaticals should be taken within one year of eligibility and won't roll over beyond that time period. We encourage you to take this time to go on an adventure, follow a passion, or work on a creative project—just grow and rejuvenate. This benefit repeats for every four years that you’re a full time employee. Listen to our podcast on [Employee Sabbaticals](https://ten7.com/blog/post/episode-016-employee-sabbaticals-and-why-ten7-offers-them) to learn more.
 
 ## Bereavement
 
