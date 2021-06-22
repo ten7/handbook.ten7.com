@@ -75,9 +75,9 @@ Visit the following Google Drive document for the step-by-step process to [reque
 
 Log your PTO time using the "TEN7 Time Off" project in Harvest. 
 
-## Sick time
+## Personal Wellness time
 
-In addition to the PTO you accrue, you also receive 6 days (48h) on the first of every year. This is for unplanned time you need to take off because you are sick unexpectedly. 
+In addition to the PTO you accrue, you also receive 6 Personal Wellness days (48h) on the first of every year. This is for time you need to take for anything health-related: doctors appts, illness, mental health and/or rest. 
 
 ## Vaccinations
 
