@@ -120,6 +120,9 @@ You’ll receive [$50,000 Basic Life insurance](https://s3.amazonaws.com/hawaiia
 
 TEN7 encourages employees to keep learning and growing professionally. You'll receive a $1,500 annual stipend, plus two additional paid days off to use towards a conference or an educational experience of your choosing (including books).
 
+## Conferences
+If you are presenting at a conference or other event as a TEN7 representative, you can log up to 20 hours of time under the TEN7 Marketing project in Harvest for the time you need to prepare for your presentation. 
+
 ## Technology Stipend
 
 As a distributed agency, we know how important it is to have reliable technology. We expect you to have current and working equipment so you’re able to effectively do your job.
