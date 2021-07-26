@@ -57,7 +57,7 @@ As a distributed agency, we know how important it is to have reliable technology
 We give you an annual $1,500 stipend to use towards technology or work-related services that best suits your needs. The stipend will be deposited on your [PEX](https://www.pexcard.com/) card on a monthly basis, beginning the first full month following your hire date. Please note:
 
 * The equipment or service you buy must be wholly funded by the stipend (i.e. you can’t use a $1,500 stipend towards a $3,000 computer).
-* If you’re a new employee, you may advance ahead on the stipend to purchase a major piece of equipment.
+* If you’re a new employee, you may request an advance to purchase a major piece of equipment.
 * If you use your stipend towards a major piece of equipment like a computer or mobile phone, it will be the property of TEN7 for two years. After that time, you can buy the equipment from TEN7 for $1.
 * If you’re going to use a computer you already own for TEN7 work, you can use the stipend for other technology or work-related things.
 
