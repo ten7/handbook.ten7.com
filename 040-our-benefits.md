@@ -36,6 +36,46 @@ TEN7 covers 100% of the employee's monthly premium for [2021: Delta Dental PPO p
 
 TEN7 covers 100% of the employee's monthly premium for group vision coverage on the [2021: MN Premier Enhanced Eyewear Plan Opt II B](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/bcbs/plans/2019/bcbs_mn_premier_enhanced_eyewear_plan_opt_ii_b.pdf) through Blue Cross Blue Shield.
 
+## Life Insurance
+
+You’ll receive [$50,000 Basic Life insurance](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/principal/plans/2017/principal_mn_principal_life_50000.pdf) from Principal. You may purchase additional coverage at your own expense.
+
+## 401(k)
+
+Upon hire, you can opt in to our 401(k) plan that has a 4% match, and no vesting period. You can also [roll over funds](https://success.guideline.com/hc/en-us/articles/360007550292-Rollover-other-accounts-into-your-Guideline-401-k-) from other eligible accounts. When determining your 401(k) contribution amount, take into account what you’ve contributed during the calendar year so far, so you don’t go over the IRS contribution maximum.
+
+[Guideline](https://www.guideline.com/) can help you with 401(k) issues as well.
+
+## Gusto Cashout
+
+This is a free, no-fee way to access up to $500 between paydays. Use [Cashout](https://app.gusto.com/ten-7-interactive-llc/employee/cashout/overview) to cover an unexpected expense or manage large bills.
+
+## Technology Stipend
+
+As a distributed agency, we know how important it is to have reliable technology. We expect you to have current and working equipment so you’re able to effectively do your job.
+
+We give you an annual $1,500 stipend to use towards technology or work-related services that best suits your needs. The stipend will be deposited on your [PEX](https://www.pexcard.com/) card on a monthly basis, beginning the first full month following your hire date. Please note:
+
+* The equipment or service you buy must be wholly funded by the stipend (i.e. you can’t use a $1,500 stipend towards a $3,000 computer).
+* If you’re a new employee, you may advance ahead on the stipend to purchase a major piece of equipment.
+* If you use your stipend towards a major piece of equipment like a computer or mobile phone, it will be the property of TEN7 for two years. After that time, you can buy the equipment from TEN7 for $1.
+* If you’re going to use a computer you already own for TEN7 work, you can use the stipend for other technology or work-related things.
+
+Examples of appropriate uses of the stipend:
+
+* Computer, tablet, monitor or phone
+* External hard drive, keyboard, mouse, microphone, headset
+* Setting up your home office (buying furniture, etc.)
+* Internet service, cell phone service
+
+TEN7 covers the cost for required software and tools, such as licenses for PHPStorm, the Adobe suite of products, JIRA, etc.
+
+## Carbon Offset
+
+TEN7 cares about our environment. To that end, we purchase an [Employee Renewable Energy Bundle](http://store.b-e-f.org/products/employee-renewable-energy-bundle/) and an [Employee Water Bundle](http://store.b-e-f.org/products/employee-water-bundle/) for every team member. Each quarter, you will receive a Renewable Energy Certificate and a Water Restoration Certificate, and each will note the details of the energy or water program that benefits from the offset.
+
+* Listen to our podcast [episode #53](https://ten7.com/blog/post/episode-053-heather-schrock-bonneville-environmental-foundation) where Ivan interviews the BEF representative who manages our certificates to learn more.
+
 ## Holidays
 
 We offer the following days as paid holidays to enjoy time with family and friends:
@@ -60,20 +100,6 @@ PTO is time for rest, travel and stepping away from your computer. Upon hire, yo
 * Any PTO you have remaining at the end of the year will roll over to the following year and will continue to accrue only until you've reached your avaialable maximum. As an example, let's say you have 10 days of available PTO per year. If, at the end of X year, you have 5 days remaining, those 5 days will roll over to the following year and will continue to accrue until you've accrued 10 total days for that year (your maximum).
 
 In addition to your PTO days, you have two paid days off annually to use for professional development. You can find additional details about this in the Professional Development section of this handbook.
-
-### Planning for Time Off
-
-When you need to take time off, communicate with your teammates to make sure nothing slips through the cracks while you’re out.
-
-To request time off, you will log in to your Gusto account and enter the dates needed for PTO. Once you receive an email that your request has been approved, a calendar invite will automatically be set up for you, so everyone else can see you'll be out. 
-
-If you need to edit or delete your PTO request, adjust the Gusto request.
-
-Visit the following Google Drive document for the step-by-step process to [request PTO](https://drive.google.com/drive/u/1/folders/12uAPtkLc4Ek8JMxPoo63-M0rflV8j6r0). 
-
-### Logging PTO in Harvest
-
-Log your PTO time using the "TEN7 Time Off" project in Harvest. 
 
 ## Personal Wellness time
 
@@ -101,21 +127,6 @@ In the unfortunate event that you experience the loss of a family member or frie
 
 If you’re called to serve on a jury, you’ll receive your full pay for up to five days while you’re serving. However, if jury duty runs longer than five days, TEN7 won’t cover your pay starting on the sixth business day of jury duty.
 
-## 401(k)
-
-Upon hire, you can opt in to our 401(k) plan that has a 4% match, and no vesting period. You can also [roll over funds](https://success.guideline.com/hc/en-us/articles/360007550292-Rollover-other-accounts-into-your-Guideline-401-k-) from other eligible accounts. When determining your 401(k) contribution amount, take into account what you’ve contributed during the calendar year so far, so you don’t go over the IRS contribution maximum.
-
-[Guideline](https://www.guideline.com/) can help you with 401(k) issues as well.
-
-## Gusto Cashout
-
-This is a free, no-fee way to access up to $500 between paydays. Use [Cashout](https://app.gusto.com/ten-7-interactive-llc/employee/cashout/overview) to cover an unexpected expense or manage large bills.
-
-
-## Life Insurance
-
-You’ll receive [$50,000 Basic Life insurance](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/principal/plans/2017/principal_mn_principal_life_50000.pdf) from Principal. You may purchase additional coverage at your own expense.
-
 ## Professional Development
 
 TEN7 encourages employees to keep learning and growing professionally. You'll receive a $1,500 annual stipend, plus two additional paid days off to use towards a conference or an educational experience of your choosing (including books).
@@ -123,28 +134,18 @@ TEN7 encourages employees to keep learning and growing professionally. You'll re
 ### Conferences
 If you are presenting at a conference or other event as a TEN7 representative, you can log up to 20 hours of time under the TEN7 Marketing project in Harvest for the time you need to prepare for your presentation. 
 
-## Technology Stipend
+## Planning for Time Off
 
-As a distributed agency, we know how important it is to have reliable technology. We expect you to have current and working equipment so you’re able to effectively do your job.
+When you need to take time off for any reason, communicate with your teammates to make sure nothing slips through the cracks while you’re out.
 
-We give you an annual $1,500 stipend to use towards technology or work-related services that best suits your needs. The stipend will be deposited on your [PEX](https://www.pexcard.com/) card on a monthly basis, beginning the first full month following your hire date. Please note:
+To request time off, you will log in to your Gusto account and enter the dates needed for PTO, personal wellness, vaccinations, parental leave, sabbatical, bereavement, jury duty or professional development.
 
-* The equipment or service you buy must be wholly funded by the stipend (i.e. you can’t use a $1,500 stipend towards a $3,000 computer).
-* If you’re a new employee, you may advance ahead on the stipend to purchase a major piece of equipment.
-* If you use your stipend towards a major piece of equipment like a computer or mobile phone, it will be the property of TEN7 for two years. After that time, you can buy the equipment from TEN7 for $1.
-* If you’re going to use a computer you already own for TEN7 work, you can use the stipend for other technology or work-related things.
+Once you receive an email that your request has been approved, a calendar invite will automatically be set up for you, so everyone else can see you'll be out. 
 
-Examples of appropriate uses of the stipend:
+If you need to edit or delete your PTO request, adjust the Gusto request.
 
-* Computer, tablet, monitor or phone
-* External hard drive, keyboard, mouse, microphone, headset
-* Setting up your home office (buying furniture, etc.)
-* Internet service, cell phone service
+Visit the following Google Drive document for the step-by-step process to [request PTO](https://drive.google.com/drive/u/1/folders/12uAPtkLc4Ek8JMxPoo63-M0rflV8j6r0). 
 
-TEN7 covers the cost for required software and tools, such as licenses for PHPStorm, the Adobe suite of products, JIRA, etc.
+### Logging PTO in Harvest
 
-## Carbon Offset
-
-TEN7 cares about our environment. To that end, we purchase an [Employee Renewable Energy Bundle](http://store.b-e-f.org/products/employee-renewable-energy-bundle/) and an [Employee Water Bundle](http://store.b-e-f.org/products/employee-water-bundle/) for every team member. Each quarter, you will receive a Renewable Energy Certificate and a Water Restoration Certificate, and each will note the details of the energy or water program that benefits from the offset.
-
-* Listen to our podcast [episode #53](https://ten7.com/blog/post/episode-053-heather-schrock-bonneville-environmental-foundation) where Ivan interviews the BEF representative who manages our certificates to learn more.
+Log your PTO time using the "TEN7 Time Off" project in Harvest, and select the appropriate task depending on why you took the time off. 
