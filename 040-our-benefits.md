@@ -70,6 +70,8 @@ Examples of appropriate uses of the stipend:
 
 TEN7 covers the cost for required software and tools, such as licenses for PHPStorm, the Adobe suite of products, JIRA, etc.
 
+If your computer is on the fritz or in need of repair, TEN7 will provide you with a temporary, loaner laptop at our discretion.
+
 ## Carbon Offset
 
 TEN7 cares about our environment. To that end, we purchase an [Employee Renewable Energy Bundle](http://store.b-e-f.org/products/employee-renewable-energy-bundle/) and an [Employee Water Bundle](http://store.b-e-f.org/products/employee-water-bundle/) for every team member. Each quarter, you will receive a Renewable Energy Certificate and a Water Restoration Certificate, and each will note the details of the energy or water program that benefits from the offset.
