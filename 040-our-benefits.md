@@ -72,6 +72,8 @@ TEN7 covers the cost for required software and tools, such as licenses for PHPSt
 
 If your computer is on the fritz or in need of repair, TEN7 will provide you with a temporary, loaner laptop at our discretion.
 
+In addition, you'll have access to discounts from the Apple Store through TEN7. Contact [@dani](https://ten7.slack.com/team/UKEQ8DH9T) or [@ivan](https://ten7.slack.com/team/U02FLV1A0) in Slack to get signed up.
+
 ## Carbon Offset
 
 TEN7 cares about our environment. To that end, we purchase an [Employee Renewable Energy Bundle](http://store.b-e-f.org/products/employee-renewable-energy-bundle/) and an [Employee Water Bundle](http://store.b-e-f.org/products/employee-water-bundle/) for every team member. Each quarter, you will receive a Renewable Energy Certificate and a Water Restoration Certificate, and each will note the details of the energy or water program that benefits from the offset.
