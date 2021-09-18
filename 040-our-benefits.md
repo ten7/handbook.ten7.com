@@ -58,8 +58,7 @@ We give you an annual $1,500 stipend to use towards technology or work-related s
 
 * The equipment or service you buy must be wholly funded by the stipend (i.e. you can’t use a $1,500 stipend towards a $3,000 computer).
 * If you’re a new employee, you may request an advance to purchase a major piece of equipment.
-* If you use your stipend towards a major piece of equipment like a computer or mobile phone, it will be the property of TEN7 for two years. After that time, you can buy the equipment from TEN7 for $1.
-* If you’re going to use a computer you already own for TEN7 work, you can use the stipend for other technology or work-related things.
+* Any equipment purchased that costs more than $499, is the property of TEN7. 
 
 Examples of appropriate uses of the stipend:
 
@@ -72,7 +71,7 @@ TEN7 covers the cost for required software and tools, such as licenses for PHPSt
 
 If your computer is on the fritz or in need of repair, TEN7 will provide you with a temporary, loaner laptop at our discretion.
 
-In addition, you'll have access to discounts from the Apple Store through TEN7. Contact [@dani](https://ten7.slack.com/team/UKEQ8DH9T) or [@ivan](https://ten7.slack.com/team/U02FLV1A0) in Slack to get signed up.
+In addition, you'll have access to discounts from the Apple Store through TEN7. Contact [@dani](https://ten7.slack.com/team/UKEQ8DH9T) in Slack to get signed up.
 
 ## Carbon Offset
 
