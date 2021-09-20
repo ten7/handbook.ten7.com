@@ -67,7 +67,7 @@ Examples of appropriate uses of the stipend:
 * Setting up your home office (buying furniture, etc.)
 * Internet service, cell phone service
 
-TEN7 covers the cost for required software and tools, such as licenses for PHPStorm, the Adobe suite of products, JIRA, etc.
+TEN7 covers the cost for required software and tools, such as licenses for PHPStorm, the Adobe suite of products, JIRA, etc as well as a professional quality headset.
 
 If your computer is on the fritz or in need of repair, TEN7 will provide you with a temporary, loaner laptop at our discretion.
 
