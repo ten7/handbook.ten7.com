@@ -118,6 +118,8 @@ You’ll receive a [corporate American Express](https://brex.com/) card to use o
 
 Here are the core tools we use at TEN7. Take some time to review and familiarize yourself with them, and [check out our handy diagram here.](https://ten7.com/blog/post/ten7s-tech-stack)
 
+We ask that you please keep all TEN7 tools and their contents separate from any personal tools you might use. Please avoid using your personal email inbox for TEN7 purposes or connecting any personal tools with those of TEN7.
+
 ### Project and Business Management
 
 <table>
