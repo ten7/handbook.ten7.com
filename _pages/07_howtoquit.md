@@ -41,8 +41,8 @@ Within 14 days following your notice, please mail any TEN7 property and document
 
 ```
 TEN7
-1904 James Ave S
-Minneapolis, MN 55403
+9450 SW Gemini Dr #85756
+Beaverton OR 97008-7105
 ```
 This may include things like laptops, cell phones, and other items purchased under the TEN7 tech stipend.
 
