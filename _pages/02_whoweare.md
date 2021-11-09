@@ -8,7 +8,7 @@ opener: Chapter 2 of 8
 # next_title: 
 ---
 
-[TEN7](https://ten7.com/) is a full-service strategy, desgin, development and support company with deep expertise in Drupal. Our mission is to Make Things That Matter. We value being on a team that is honest, inclusive, open and mindful. We promise to always lead with empathy.
+[TEN7](https://ten7.com/) is a full-service strategy, design, development and support company with deep expertise in Drupal. Our mission is to Make Things That Matter. We value being on a team that is honest, inclusive, open and mindful. We promise to always lead with empathy.
 
 We asked our team to share what they would go back and tell themselves as a new hire at TEN7. Here is what a few of us said:
 
