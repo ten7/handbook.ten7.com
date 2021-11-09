@@ -37,7 +37,7 @@ We will provide you the details of your last paycheck and when to expect it (thi
 
 ### Turn in Your Stuff
 
-Within 14 days following your notice, please mail any TEN7 property/documents to:
+Within 14 days following your notice, please mail any TEN7 property and documents to:
 
 ```
 TEN7
