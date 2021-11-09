@@ -1,0 +1,36 @@
+.footer {
+	background: $color-darkpurple;
+	color: #fff;
+	font-size: 0.9375rem;
+	font-weight: normal;
+	line-height: 75%;
+	line-height: 110%;
+	padding: 2rem;
+	
+	a,
+	a:visited {
+		color: $link-color-footer;
+	}
+
+	a:hover {
+		color: $link-footer-hover;
+		text-decoration: underline;
+	}
+}
+
+.ten7-link {
+	align-items: center;
+	display: inline-flex;
+	
+	.footer-logo {
+		margin-right: 0.5rem;
+		stroke: $link-color-footer;
+		stroke-linecap: round;
+		stroke-linejoin: round;
+		stroke-width: 2;
+	}
+
+	.footer-logo-text {
+		color: $link-color-footer;
+	}
+}

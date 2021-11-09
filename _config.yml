@@ -1,17 +1,91 @@
-# Setup
-title: 'TEN7 Employee Handbook'
-tagline: 'We&rsquo;re so glad you&rsquo;re here.'
-url: 'https://handbook.ten7.com'
-description: ''
-baseurl: ''
-permalink: pretty
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-# About/contact
-author:
-  name: Ivan Stegic
-  url: https://ten7.com/
-  email: ivan@ten7.com
+title: "Employee Handbook"
+subtitle: "Version 2.0.0, 11/08/21"
 
-# Gems
+nav:
+  - title: "Start Here"
+    subfolderitems:
+      show_numbers: true
+      items:
+        - title: "Welcome"
+          description: "Word here, and here"
+          url: "/welcome.html"
+        - title: "Who We Are"
+          description: "Word here, and here"
+          url: "/whoweare.html"
+        - title: "Our Culture"
+          description: "Word here, and here"
+          url: "/ourculture.html"
+        - title: "Our Benefits"
+          description: "Word here, and here"
+          url: "/ourbenefits.html"
+        - title: "How We Do Things"
+          description: "Word here, and here"
+          url: "/howwedothings.html"
+        - title: "Performance"
+          description: "Word here, and here"
+          url: "/performance.html"
+        - title: "How To Quit"
+          description: "Word here, and here"
+          url: "/howtoquit.html"
+        - title: "Legalese"
+          description: "Word here, and here"
+          url: "/legalese.html"
+
+# Build settings
+# theme: TBD
 plugins:
-  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  
+markdown: kramdown
+
+collections:
+  pages:
+    output: true
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - assets/_src/
+  - Gemfile
+  - Gemfile.lock
+  - imagemin.js
+  - LICENSE
+  - node_modules/
+  - npm-debug.log
+  - package.json
+  - package-lock.json
+  - README.md
+  - tsconfig.json
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - webpack.config.js
+  - yarn.lock

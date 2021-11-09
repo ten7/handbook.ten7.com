@@ -1,8 +1,107 @@
 ---
 layout: default
 ---
+<section class="content column is-8">
+  <article class="post">
+    
+    <div class="post-opener">
+      <p>{{ page.opener | escape }}</p>
+    </div>
 
-<div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+    </header>
+  
+    <div class="post-content">
+      {{ content }}
+    </div>
+  
+  </article>
+  
+  <div class="progress-bar">
+    <div class="progress-bar-section is-read"></div>
+    
+    {%- if page.url == '/' -%}
+      {% assign is_read = false %}
+    {% else %}
+      {% assign is_read = true %}
+    {% endif %}
+      
+    {% for item in site.pages %}
+      {%- if item.url != '/' and item.url != '/404.html' and item.url != '/feed.xml' -%}
+        <div class="progress-bar-section {% if is_read %}is-read{% endif %}"></div>
+      {%- endif -%}
+      {%- if page.url == item.url -%}
+        {% assign is_read = false %}
+      {%- endif -%}
+    {% endfor %}
+  </div>
+</section>
+
+
+<div class="pager column is-8">
+
+  {% if page.back_title %}
+    {% assign prev_title = page.back_title -%}
+  {% elsif page.previous.title %}
+    {% assign prev_title = page.previous.title -%}
+  {% endif %}
+
+  {% assign prev_url = page.previous.url %}
+
+  {% if page.url == site.pages.first.url %}
+
+    {% if page.back_title %}
+      {% assign prev_title = page.back_title %}
+    {% else %}
+      {% assign prev_title = "Home" -%}
+    {% endif %}
+
+    {% assign prev_url = '/' %}
+
+  {% endif %}
+
+  {% if prev_title %}
+  <div class="pager-previous">
+    <a href="{{ prev_url }}" class="pager-link" title="{{ page.previous.title }}">
+      <span class="pager-arrow pager-arrow--left">
+        <svg width="15" viewBox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M12 5.813H1M5.813 10.625 1 5.812 5.813 1" stroke="#6330F4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </span>
+      <span class="pager-prev-content">
+        <span class="pager-direction">Back:</span>
+        <span class="pager-title">{{ prev_title }}</span>
+      </span>
+    </a>
+  </div>
+  {% endif %}
+
+
+  {% if page.url == '/' %}
+    {% assign sub_title = "Let's Dive In:" %}
+    {% assign next_title = site.pages.first.title %}
+    {% assign next_url = site.pages.first.url %}
+  {% elsif page.next_title %}
+    {% assign sub_title = "Next:" %}
+    {% assign next_title = page.next_title %}
+    {% assign next_url = page.next.url %}
+  {% elsif page.next.title %}
+    {% assign sub_title = "Next:" %}
+    {% assign next_title = page.next.title %}
+    {% assign next_url = page.next.url %}
+  {% endif %}
+  
+  {% if next_title %}
+  <div class="pager-next">
+    <a href="{{ next_url }}" class="pager-link pager-link-next" title="{{ next_title }}">
+      <span class="pager-next-content">
+        <span class="pager-direction">{{ sub_title}}</span>
+        <span class="pager-title">{{ next_title }}</span>
+      </span>
+      <span class="pager-arrow pager-arrow--right">
+        <svg width="15" viewBox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 5.813h11M7.188 1 12 5.813l-4.813 4.812" stroke="#6330F4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </span>
+    </a>
+  </div>
+  {% endif %}
+  
 </div>

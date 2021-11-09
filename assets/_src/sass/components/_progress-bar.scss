@@ -1,0 +1,37 @@
+.progress-bar {
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	bottom: 0;
+	display: flex;
+	height: 0.5rem;
+	left: 0;
+	position: absolute;
+	right: 0;
+
+	&-section {
+		background-color: #f4eee9;
+		flex: 1;
+	}
+	
+	&-section:first-child {
+		border-bottom-left-radius: 5px;
+
+		@include until($tablet) {
+			border-bottom-left-radius: 0;
+			border-bottom-right-radius: 0;
+		}
+	}
+	
+	&-section:last-child {
+		border-bottom-right-radius: 5px;
+
+		@include until($tablet) {
+			border-bottom-left-radius: 0;
+			border-bottom-right-radius: 0;
+		}
+	}
+	
+	.is-read {
+		background-color: #6330f4;
+	}
+}

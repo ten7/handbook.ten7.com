@@ -1,0 +1,130 @@
+.navbar-item .navbar-dropdown {
+	border: 0;
+	border-radius: 5px;
+	box-shadow: 0 0 9px 1px rgb(0 0 0 / 8%);
+	left: -10.3em;
+	overflow: hidden;
+	top: 3.5em;
+	width: 280px;
+}
+
+.navbar-item .navbar-link {
+	color: $color-mediumpurple;
+	font-family: $font-family;
+	font-size: 1.125rem;
+	font-weight: 500;
+
+	&::after {
+		border-color: $color-electricpurple;
+		border-radius: 0;
+		height: 0.525em;
+		top: 1.3em;
+		width: 0.525em;
+	}
+}
+
+.navbar-subitem {
+	border-bottom: 1px solid #f4eee9;
+	display: flex;
+	padding: 1rem;
+
+	&:hover {
+		background-color: $color-mediumpurple;
+	}
+
+	&:hover .navbar-subitem-icon {
+		background-color: #fff;
+		color: $color-mediumpurple;
+	}
+
+	&:hover .navbar-subitem-title {
+		color: #fff;
+	}
+
+	&:hover .navbar-subitem-description {
+		color: #fff;
+	}
+
+	&-icon {
+		align-items: center;
+		background-color: #ece6ff;
+		border-radius: 52px;
+		color: $color-mediumpurple;
+		display: flex;
+		flex-shrink: 0;
+		font-size: 1rem;
+		height: 29px;
+		justify-content: center;
+		margin-right: 0.5rem;
+		width: 29px;
+	}
+
+	&-title {
+		color: $color-mediumpurple;
+		display: block;
+		font-size: 1.125rem;
+	}
+
+	&-description {
+		color: $color-dustylavender;
+		font-size: 0.875rem;
+	}
+}
+
+
+@media screen and (max-width: 1023px) {
+	.navbar-menu.is-active {
+		display: block;
+		left: 0;
+		padding: 0;
+		position: absolute;
+		top: 6.28rem;
+		width: 100%;
+	}
+	
+	.navbar-subitem .navbar-subitem-description {
+		font-size: 1rem;
+	}
+
+	.navbar-subitem .navbar-subitem-title {
+		font-size: 1.5rem;
+	}
+
+	.navbar-subitem .navbar-subitem-content {
+		margin-left: 5px;
+	}
+
+	.navbar-subitem-icon {
+		align-items: center;
+		background-color: #ece6ff;
+		border-radius: 52px;
+		color: #270066;
+		display: box;
+		display: flexbox;
+		display: flex;
+		font-size: 1.5rem;
+		height: 50px;
+		justify-content: center;
+		margin-right: 0.5rem;
+		padding-bottom: 0.06rem;
+		width: 50px;
+	}
+
+	.navbar-item .navbar-dropdown {
+		border-radius: 0 0 5px 5px;
+		width: 100%;
+	}
+
+	.navbar-subitem .navbar-subitem-icon {
+		font-size: 1.2rem;
+		height: 40px;
+		margin-top: 0.3rem;
+		width: 40px;
+	}
+}
+
+@media screen and (max-width: 769px) {
+	.navbar-menu.is-active {
+		top: 6.6rem;
+	}
+}

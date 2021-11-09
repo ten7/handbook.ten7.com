@@ -1,0 +1,53 @@
+{% for item in site.nav %}
+
+	{% if item.subfolderitems %}
+	
+		{% assign nav_title = item.title %}
+	
+		{% for entry in item.subfolderitems.items %}
+			{% if entry.url == page.url %}
+				{% assign nav_title = entry.title %}
+			{% endif %}
+		{% endfor %}
+
+		<div id="thisNavBar" class="navbar-menu">
+			<div class="navbar-item has-dropdown">
+				<a class="navbar-link is-hidden-mobile is-hidden-touch">Start Here</a>
+				<div class="navbar-dropdown">
+					{% if item.subfolderitems.show_numbers %}
+						{% assign i = 1 %}
+					{% endif %}
+					{% for entry in item.subfolderitems.items %}
+
+					{% if entry.url == page.url %}
+						<a class="navbar-subitem is-active" href="{{ entry.url }}">
+					{% else %}
+						<a class="navbar-subitem" href="{{ entry.url }}">
+					{% endif %}
+
+							{% if item.subfolderitems.show_numbers %}
+								<strong class="navbar-subitem-icon">{{ i }}</strong>
+							{% endif %}
+							<span class="navbar-subitem-content">
+								<span class="navbar-subitem-title">{{ entry.title }}</span>
+								{% if entry.description %}
+									<span class="navbar-subitem-description">{{ entry.description }}</span>
+								{% endif %}
+							</span>
+						</a>
+						
+						{% if item.subfolderitems.show_numbers %}
+							{% assign i = i | plus:1 %}
+						{% endif %}
+					{% endfor %}
+				</div>
+			</div>
+		</div>        
+	
+	{% else %}
+	
+		<a class="navbar-item" href="{{ item.url }}">{{ item.title }}</a>
+	
+	{% endif %}
+
+{% endfor %}

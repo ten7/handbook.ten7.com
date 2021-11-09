@@ -1,0 +1,20 @@
+<div class="navbar nav container">
+  <div class="nav-container column is-8">
+    <div class="nav-brand navbar-brand">
+      <a href="/" title="{{ site.title}}" class="nav-brand-link">
+        <span class="nav-brand-logo">
+          <svg viewbox="0 0 67 22" fill="none" xmlns="http://www.w3.org/2000/svg"><title>TEN7</title><path d="M46.824.822H0V21.57h60.055l6.26-11.721V.822H46.825ZM15.416 7.976H11.45v9.53H7.263v-9.53h-3.73V4.46h11.848l.034 3.516Zm12.758 0h-6.706v1.361h5.537v3.293h-5.537v1.361h6.706v3.523H17.572V4.46h10.602v3.516Zm14.636 9.53h-3.833l-4.786-7.146v7.147h-3.91V4.46h4.89l3.639 5.396V4.46h3.916l.084 13.047Zm22.525-7.93L59.47 20.531H46.824V1.831h18.51v7.744Z" fill="#fff"/><path d="M52.523 17.748h4.838l4.744-9.228V4.098H50V7.79h7.657l-5.134 9.959Z" fill="#fff"/></svg>
+        </span>
+        <span class="nav-brand-title">{{ site.title }}</span>
+      </a>
+    </div>
+    <nav class="nav-main">
+      {% include navigation.html %}
+    </nav>
+    <button role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="thisNavBar">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </button>
+  </div>
+</div>
