@@ -163,7 +163,7 @@ We ask that you please keep all TEN7 tools and their contents separate from any 
         </tr>
         <tr>
             <td>Notion</td>
-            <td>Company Wiki, Documentation and non-technical ticket tracker</td>
+            <td>Company wiki, documentation and non-technical ticket tracker</td>
            <td><a href="https://ten7.harvestapp.com">https://www.notion.so/ten7/Company-Home</a></td>
         </tr>
     </tbody>
