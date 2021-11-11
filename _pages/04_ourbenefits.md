@@ -25,17 +25,17 @@ TEN7 covers 99% of the employee's monthly premium through our group plan. Becaus
 
 * **Health Savings Account (HSA) Options**<br/>
 [2022: BlueAccess HSA Silver $4250 Plan 645 - (HDHP)
-](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/bcbs/plans/2021/bcbs_blueaccess_hsa_silver_4250_plan_645_hdhp.pdf)
+](https://github.com/ten7/handbook.ten7.com/blob/main/assets/images/bcbs_blueaccess_hsa_silver_4250_plan_645_hdhp.pdf)
 
 [2022: BlueAccess High Value HSA Gold $2500 Plan 558 - (HDHP)
-](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/bcbs/plans/2021/bcbs_blueaccess_hsa_silver_4250_plan_645_hdhp.pdf)
+](https://github.com/ten7/handbook.ten7.com/blob/main/assets/images/bcbs_high_value_hsa_gold_2500_plan_558_hdhp.pdf)
     
 If you proceed with an HSA plan, TEN7 will send you a link to [Lively](https://livelyme.com/) to set up HSA contributions, which are deducted from each paycheck. 
 
 * **PPO Options**<br/>
-[2022: BlueAccess Silver $4000 Plan 626](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/bcbs/plans/2021/bcbs_blueaccess_gold_1000_plan_637.pdf)
+[2022: BlueAccess Silver $4000 Plan 626](https://github.com/ten7/handbook.ten7.com/blob/main/assets/images/bcbs_blueaccess_silver_4000_plan_626.pdf)
 
-[2022: BlueAccess Gold $1000 Plan 637](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/bcbs/plans/2021/bcbs_blueaccess_gold_1000_plan_637.pdf)
+[2022: BlueAccess Gold $1000 Plan 637](https://github.com/ten7/handbook.ten7.com/blob/main/assets/images/bcbs_blueaccess_gold_1000_plan_637.pdf)
 
 or
 
