@@ -161,6 +161,11 @@ We ask that you please keep all TEN7 tools and their contents separate from any 
             <td>Miscellaneous</td>
             <td><a href="https://sheets.google.com/">https://sheets.google.com</a></td>
         </tr>
+        <tr>
+            <td>Notion</td>
+            <td>Company Wiki, Documentation and non-technical ticket tracker</td>
+           <td><a href="https://ten7.harvestapp.com">https://www.notion.so/ten7/Company-Home</a></td>
+        </tr>
     </tbody>
 </table>
 
@@ -177,11 +182,6 @@ We ask that you please keep all TEN7 tools and their contents separate from any 
             <td>Zoom</td>
             <td>Video conferencing</td>
             <td><a href="https://zoom.us">https://zoom.us</a></td>
-        </tr>
-        <tr>
-            <td>Notion</td>
-            <td>Company Wiki, Documentation and non-technical ticket tracker</td>
-           <td><a href="https://ten7.harvestapp.com">https://www.notion.so/ten7/Company-Home</a></td>
         </tr>
     </tbody>
 </table>
