@@ -13,7 +13,7 @@ excited to offer.
 
 ## Health, Dental and Vision Insurance
 
-Your coverage goes into effect on the first day of the first month after you start at TEN7. For example, if you start on January 14th, your coverage starts February 1st. Our team is located across the country, so we’ve chosen nationwide carriers that have coverage in the state in which you reside.
+Your coverage goes into effect on your first day of employment with TEN7. Our team is located across the country, so we’ve chosen nationwide carriers that have coverage in the state in which you reside. (Hawaii is the one exception.)
 
 ### Health
 
@@ -21,14 +21,21 @@ For health coverage, you can either participate in TEN7’s pre-tax group health
 
 Choose either
 **TEN7’s Group Health Insurance**
-TEN7 covers 100% of the employee's monthly premium. You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis. When selecting Group Health, you have the option to choose one of two available plans:
+TEN7 covers 99% of the employee's monthly premium through our group plan. Because of a silly insurance rule, this is the highest we can cover. But, we make up the extra 1% as an addition to your paycheck. You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis. When selecting Group Health, you have the option to choose one of four available plans:
 
-* **Health Savings Account (HSA) Option**<br/>
-[2021: BlueAccess HSA Silver $4250 Plan 645 - (HDHP)
+* **Health Savings Account (HSA) Options**<br/>
+[2022: BlueAccess HSA Silver $4250 Plan 645 - (HDHP)
 ](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/bcbs/plans/2021/bcbs_blueaccess_hsa_silver_4250_plan_645_hdhp.pdf)
-    * If you proceed with the HSA plan, TEN7 will send you a link to [Lively](https://livelyme.com/) to set up HSA contributions, which are deducted from each paycheck. 
-* **PPO Option**<br/>
-[2021: BlueAccess Gold $1000 Plan 637](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/bcbs/plans/2021/bcbs_blueaccess_gold_1000_plan_637.pdf)
+
+[2022: BlueAccess High Value HSA Gold $2500 Plan 558 - (HDHP)
+](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/bcbs/plans/2021/bcbs_blueaccess_hsa_silver_4250_plan_645_hdhp.pdf)
+    
+If you proceed with an HSA plan, TEN7 will send you a link to [Lively](https://livelyme.com/) to set up HSA contributions, which are deducted from each paycheck. 
+
+* **PPO Options**<br/>
+[2022: BlueAccess Silver $4000 Plan 626](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/bcbs/plans/2021/bcbs_blueaccess_gold_1000_plan_637.pdf)
+
+[2022: BlueAccess Gold $1000 Plan 637](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/bcbs/plans/2021/bcbs_blueaccess_gold_1000_plan_637.pdf)
 
 or
 
@@ -156,8 +163,6 @@ Once you receive an email that your request has been approved, a calendar invite
 
 If you need to edit or delete your PTO request, adjust the Gusto request.
 
-Visit the following Google Drive document for the step-by-step process to [request PTO](https://drive.google.com/drive/u/1/folders/12uAPtkLc4Ek8JMxPoo63-M0rflV8j6r0). 
-
 ### Logging PTO in Harvest
 
-Log your PTO time using the "TEN7 Time Off" project in Harvest, and select the appropriate task depending on why you took the time off. 
+Log your PTO time using the "TEN7 Time Off" project in Harvest, and select the appropriate task depending on why you're taking the time off. 
