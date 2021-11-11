@@ -25,14 +25,14 @@ TEN7 covers 99% of the employee's monthly premium through our group plan. Becaus
 
 * **Health Savings Account (HSA) Options**<br/>
 [2022: BlueAccess HSA Silver $4250 Plan 645 - (HDHP)
-](https://github.com/ten7/handbook.ten7.com/blob/main/assets/images/bcbs_blueaccess_hsa_silver_4250_plan_645_hdhp.pdf)
+](https://drive.google.com/file/d/1uw3-UHxLen0snFiqA1ni4yfPIO6wu5QV/view?usp=sharing)
 
-  [2022: BlueAccess High Value HSA Gold $2500 Plan 558 - (HDHP)](https://github.com/ten7/handbook.ten7.com/blob/main/assets/images/bcbs_high_value_hsa_gold_2500_plan_558_hdhp.pdf)
+  [2022: BlueAccess High Value HSA Gold $2500 Plan 558 - (HDHP)](https://drive.google.com/file/d/1EnNew7nT2WGXOWs1b40tGAojzFmM99mu/view?usp=sharing)
     
 If you proceed with an HSA plan, TEN7 will send you a link to [Lively](https://livelyme.com/) to set up HSA contributions, which are deducted from each paycheck. 
 
 * **PPO Options**<br/>
-[2022: BlueAccess Silver $4000 Plan 626](https://github.com/ten7/handbook.ten7.com/blob/main/assets/images/bcbs_blueaccess_silver_4000_plan_626.pdf)
+[2022: BlueAccess Silver $4000 Plan 626](https://drive.google.com/file/d/1u6RqdvhdnLarSP1hUwcQxfepD-nYe-JJ/view?usp=sharing)
   
   [2022: BlueAccess Gold $1000 Plan 637](https://drive.google.com/file/d/10x5ilFDPuN2QlZOhLdFLEQf3VdwRq2l4/view?usp=sharing)
 
