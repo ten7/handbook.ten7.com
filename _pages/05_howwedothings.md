@@ -10,7 +10,7 @@ opener: Chapter 5 of 8
 
 ## Working Remotely
 
-TEN7 is a completely distributed company; we have no central office space. Though most of us live in the Minneapolis, Minnesota area, we all work from home (or various coffee shops).
+TEN7 is a completely distributed company; we have no central office space. Though most of us live in the Minneapolis, Minnesota area, we all work from home (or various other places).
 
 It took some trial and error, but we have this distributed office thing down. We depend on several tools to help us communicate and be virtually present to each other. The most important rule of thumb is that it’s better to over communicate than under communicate. Post on Slack, share your status in the #attendance channel, jump on Zoom (preferably using video)—do whatever you need to in order to be virtually known.
 
@@ -46,10 +46,10 @@ Here’s a cheat sheet for our most commonly used channels:
 
 * **\#attendance:** We use the Slack status function plus a check-in to this channel to let others know our workday presence. It’s a place to add extra detail about what you’re up to. Say hi when you start the day, note when you’re away from keyboard (AFK), back at keyboard (BAK), when you’re leaving to go a meeting, grabbing a cup of coffee or heading out for the day.
 * **\#general:** Mainly used for general company info and team reminders.
-* **\#random:** This is the distributed office water cooler; it’s used for, well, the most random things you can imagine. Check out what’s going on in #random when you’re working—there’s almost always something funny going on, and it’s a great chance to chat with and get to know other team members.
+* **\#random:** This is the distributed office water cooler; it’s used for, well, the most random things you can imagine! Check out what’s going on in #random when you’re working—there’s almost always something funny going on, and it’s a great chance to chat with and get to know other team members.
 * **Project channels:** Project channels are used internally to discuss work on client projects. If you’re working on client projects, you’ll be invited to each project’s channel. Channel names always start with an underscore before the project name. For example, **\#_pt** is the channel dedicated to Psychology Today.
 * **TEN7Care channels:** These are project channels that the client has access to. Names start with **\#t7care_**.
-* **Shared channels:** Sometimes a client has their own Slack account, so we’ll connect our accounts together in a shared Slack channel. For example, \#mnhs-ten7 is the Minnesota Historical Society and TEN7 shared channel.
+* **Shared channels:** Sometimes a client or a TEN7 partner has their own Slack account, so we’ll connect our accounts together in a shared Slack channel. You'll know it's a shared channel by the double-diamond shape in the channel name.
 
 To learn more about how we use Slack, listen to our podcast episode [“Blueprint Series #2: Slack.”](https://ten7.com/blog/post/episode-032-blueprint-series-2-slack)
 
@@ -107,7 +107,7 @@ We don’t believe in meetings for meetings’ sake. We’ll only hold meetings 
 
 We have a weekly company meeting each Monday at 9:30 a.m. CST. Ivan will share updates, the team can connect, and anyone can bring any topic to the table.
 
-You'll also have a daily [standup](https://en.wikipedia.org/wiki/Stand-up_meeting). These also happen at 9:30 a.m. CST sharp over Zoom.
+You'll also likely have a daily [standup](https://en.wikipedia.org/wiki/Stand-up_meeting), depending on which projects you're working on. 
 
 ## Money Things
 
@@ -133,7 +133,7 @@ We ask that you please keep all TEN7 tools and their contents separate from any 
     <tbody>
         <tr>
             <td>JIRA</td>
-            <td>Issue tracker</td>
+            <td>Technical ticket tracker</td>
             <td><a href="http://teamten7.atlassian.net">http://teamten7.atlassian.net</a></td>
         </tr>
         <tr>
@@ -177,6 +177,11 @@ We ask that you please keep all TEN7 tools and their contents separate from any 
             <td>Zoom</td>
             <td>Video conferencing</td>
             <td><a href="https://zoom.us">https://zoom.us</a></td>
+        </tr>
+        <tr>
+            <td>Notion</td>
+            <td>Company Wiki, Documentation and non-technical ticket tracker</td>
+           <td><a href="https://ten7.harvestapp.com">https://www.notion.so/ten7/Company-Home</a></td>
         </tr>
     </tbody>
 </table>
