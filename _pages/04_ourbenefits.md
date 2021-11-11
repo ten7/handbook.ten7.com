@@ -34,7 +34,7 @@ If you proceed with an HSA plan, TEN7 will send you a link to [Lively](https://l
 * **PPO Options**<br/>
 [2022: BlueAccess Silver $4000 Plan 626](https://github.com/ten7/handbook.ten7.com/blob/main/assets/images/bcbs_blueaccess_silver_4000_plan_626.pdf)
   
-  [2022: BlueAccess Gold $1000 Plan 637](https://github.com/ten7/handbook.ten7.com/blob/main/assets/images/bcbs_blueaccess_gold_1000_plan_637.pdf)
+  [2022: BlueAccess Gold $1000 Plan 637](https://drive.google.com/file/d/10x5ilFDPuN2QlZOhLdFLEQf3VdwRq2l4/view?usp=sharing)
 
 or
 
