@@ -8,7 +8,7 @@ opener: Chapter 3 of 8
 # next_title: 
 ---
 
-We’re proud of our values. We try to live and breathe them daily. We incorporate them into our work and communication with each other and our clients. They’re our foundation.
+We’re proud of our values. We do our best to live and breathe them daily. We incorporate them into our work and communication with each other and our clients. They’re our foundation.
 
 ## Our mission
 
@@ -80,17 +80,11 @@ Read more about what [we believe and value](https://ten7.com/blog/post/what-ten7
 
 ### DiSC Assessment
 
-If you’re not familiar with the DiSC personality profile tool, you’re about to be! It’s another part of the foundation of TEN7. We have every team member take the assessment. You’ll find out where you are on the DiSC model and how this depicts your work style. You’ll also find out where other TEN7 team members are on the DiSC profile, so you’ll learn how to better understand and collaborate with your team members.
+If you’re not familiar with the DiSC non-judgemental personality profile tool, you’re about to be! It’s another part of the foundation of TEN7. We have every team member take the assessment. You’ll find out where you are on the DiSC model and how this depicts your work style. You’ll also find out where other TEN7 team members are on the DiSC profile, so you’ll learn how to better understand and collaborate with your team members.
 
 TEN7 first went through the DiSC assessment for the entire team in 2016, and it’s really helped us iterate our processes and resolve team issues and pain points.
 
-The DiSC sorts people into four behavioral profiles. Can you guess what area best applies to you?
-
-### TEN7 Blueprint for Operations
-
-We've worked hard to create and refine an efficient, thorough and rigorous software development process at TEN7. We’re documenting our philosophy and procedures in a document, “The TEN7 Blueprint for Operations.” In the spirit of open source, we’re going to be releasing it for public consumption. Whether you're a developer or not, the Blueprint is worth a browse to see how even in software development, we pay attention to the people as much as the process.
-
 ### Who We Like to Work With
 
-We like to work with nice people who have interesting problems for us to solve, especially complex integrations.
+We like to work with nice people who have interesting problems for us to solve—especially complex integrations.
 We also like to work with companies who work for social good. At the end of the day, we want our work to have a net positive impact. We want to leave the world a better place.
