@@ -115,93 +115,18 @@ You'll also likely have a daily [standup](https://en.wikipedia.org/wiki/Stand-up
 
 Payroll is processed biweekly, and your salary will be direct deposited every other Friday. When you receive your first paycheck, please verify that taxes, insurance, and 401(k), were accurately deducted. 
 
-We use [Gusto](https:// gusto.com/) to keep track of payroll - you’ll receive an invitation to setup your account for direct deposit.
+We use [Gusto](https://gusto.com/) to keep track of payroll - you’ll receive an invitation to setup your account for direct deposit.
 
 ### Business Expenses
 
-You’ll receive a [corporate American Express](https://brex.com/) card to use on any TEN7 business-related expenses like travel, conferences, client lunches and so on. We don’t have hard and fast rules about things like _per diems; we just ask that you use your best judgement and keep expenses reasonable. It’s always okay to ask if you’re unsure.
+You’ll receive a corporate American Express card to use on any TEN7 business-related expenses like travel, conferences, client lunches and so on. We don’t have hard and fast rules about things like _per diems; we just ask that you use your best judgement and keep expenses reasonable. It’s always okay to ask if you’re unsure.
 
 ## Tools
 
-Here are the core tools we use at TEN7. Take some time to review and familiarize yourself with them, and [check out our handy diagram here.](https://ten7.com/blog/post/ten7s-tech-stack)
+We've written about the complete list of tools we use in a post titled [TEN7’s Tech Stack](https://t7.io/techstack) that you should read. We also [keep a list](https://t7.io/tools) of the most up-to-date stack as [a public Notion page](https://t7.io/tools) as well. 
 
 We ask that you please keep all TEN7 tools and their contents separate from any personal tools you might use. Please avoid using your personal email inbox for TEN7 purposes or connecting any personal tools with those of TEN7.
 
-### Project and Business Management
-
-<table>
-    <tbody>
-        <tr>
-            <td>JIRA</td>
-            <td>Technical ticket tracker</td>
-            <td><a href="http://teamten7.atlassian.net">http://teamten7.atlassian.net</a></td>
-        </tr>
-        <tr>
-            <td>Harvest</td>
-            <td>Time tracker</td>
-           <td><a href="https://ten7.harvestapp.com">https://ten7.harvestapp.com</a></td>
-        </tr>
-        <tr>
-            <td>1Password</td>
-            <td>Secure credentials database</td>
-            <td><a href="https://teamten7.1password.com">https://teamten7.1password.com</a></td>
-        </tr>
-        <tr>
-            <td>Hubspot</td>
-            <td>CRM and Marketing</td>
-            <td><a href="http://app.hubspot.com">http://app.hubspot.com</a></td>
-        </tr>
-        <tr>
-            <td>Google Calendar</td>
-            <td>Scheduling</td>
-            <td><a href="https://calendar.google.com">https://calendar.google.com</a></td>
-        </tr>
-        <tr>
-            <td>Google Sheets</td>
-            <td>Miscellaneous</td>
-            <td><a href="https://sheets.google.com/">https://sheets.google.com</a></td>
-        </tr>
-        <tr>
-            <td>Notion</td>
-            <td>Company wiki, documentation and non-technical ticket tracker</td>
-           <td><a href="https://ten7.harvestapp.com">https://www.notion.so/ten7/Company-Home</a></td>
-        </tr>
-    </tbody>
-</table>
-
-### Communication
-
-<table>
-    <tbody>
-        <tr>
-            <td>Slack</td>
-            <td>Team chat</td>
-            <td><a href="https://ten7.slack.com">https://ten7.slack.com</a></td>
-        </tr>
-        <tr>
-            <td>Zoom</td>
-            <td>Video conferencing</td>
-            <td><a href="https://zoom.us">https://zoom.us</a></td>
-        </tr>
-    </tbody>
-</table>
-
-### Client Support
-
-<table>
-    <tbody>
-        <tr>
-            <td>support@ten7.com</td>
-            <td>General support request intake</td>
-            <td><a href="https://mail.google.com">https://mail.google.com</a></td>
-        </tr>
-        <tr>
-            <td>Slack</td>
-            <td>Client chat</td>
-            <td>#t7care_CLIENTNAME channel</td>
-        </tr>
-    </tbody>
-</table>
 
 ## Website Accessibility
 
