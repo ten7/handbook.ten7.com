@@ -41,47 +41,12 @@ We recognize that our collective effort is more than just the sum of its parts. 
 We promise to always lead with empathy.
 
 
-## Above the Line and Below the Line
-
-It’s everyone’s duty to keep an eye out and hold each other accountable to these behaviors. When you observe behavior that’s above or below the imaginary line that our values define, you should say something, whether in person, via email, or in Slack. The line represents the threshold between laudable behavior ("above the line") and harmful behavior ("below the line"). Here are some examples of behaviors that are above and below the line:
-<table>
-<tbody>
-<tr>
-<td>Acknowledge Mistakes<br/>"My Mistake!"</td>
-<td>Teach Each Other</td>
-<td>Ask for Help</td>
-</tr>
-<tr>
-<td>Collective Success</td>
-<td>Perseverance</td>
-<td>"Ok—Let's do that"<br/>Getting others to consider advice</td>
-</tr>
-</tbody>
-</table>
-___
-
-<table>
-<tbody>
-<tr>
-<td>"That's not my fault"</td>
-<td>Not asking for help</td>
-<td>Whining</td>
-</tr>
-<tr>
-<td>Not taking the time to help someone understand</td>
-<td>Avoiding Ownership</td>
-<td>Hoarding Knowledge</td>
-</tr>
-</tbody>
-</table>
-
-
-### DiSC Assessment
+## DiSC Assessment
 
 If you’re not familiar with the DiSC non-judgemental personality profile tool, you’re about to be! It’s another part of the foundation of TEN7. We have every team member take the assessment. You’ll find out where you are on the DiSC model and how this depicts your work style. You’ll also find out where other TEN7 team members are on the DiSC profile, so you’ll learn how to better understand and collaborate with your team members.
 
 TEN7 first went through the DiSC assessment for the entire team in 2016, and it’s really helped us iterate our processes and resolve team issues and pain points.
 
-### Who We Like to Work With
+## Who We Like to Work With
 
 We like to work with nice people who have interesting problems for us to solve—especially complex integrations. We also like to work with companies who work for social good. At the end of the day, we want our work to have a net positive impact. We want to leave the world a better place.
