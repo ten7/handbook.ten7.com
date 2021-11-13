@@ -21,12 +21,12 @@ TEN7 covers 99% of the employee's monthly premium through our group plan. Becaus
 
 #### Health Savings Account (HSA) Options
 If you choose an HSA compatible plan, you'll also receive an account with [Lively](https://livelyme.com/) so you are able to set up pre-tax deductions for your savings.
-* [2022: BlueAccess HSA Silver $4250 Plan 645 - (HDHP)](https://drive.google.com/file/d/1uw3-UHxLen0snFiqA1ni4yfPIO6wu5QV/view?usp=sharing)
-* [2022: BlueAccess High Value HSA Gold $2500 Plan 558 - (HDHP)](https://drive.google.com/file/d/1EnNew7nT2WGXOWs1b40tGAojzFmM99mu/view?usp=sharing)
+* [2022: BlueAccess HSA Silver $4250 Plan 645 - (HDHP)](/assets/pdf/bcbs_blueaccess_hsa_silver_4250_plan_645_hdhp.pdf)
+* [2022: BlueAccess High Value HSA Gold $2500 Plan 558 - (HDHP)](/assets/pdf/bcbs_high_value_hsa_gold_2500_plan_558_hdhp.pdf)
 
 #### PPO Options
-* [2022: BlueAccess Silver $4000 Plan 626](https://drive.google.com/file/d/1u6RqdvhdnLarSP1hUwcQxfepD-nYe-JJ/view?usp=sharing)
-* [2022: BlueAccess Gold $1000 Plan 637](https://drive.google.com/file/d/10x5ilFDPuN2QlZOhLdFLEQf3VdwRq2l4/view?usp=sharing)
+* [2022: BlueAccess Silver $4000 Plan 626](/assets/pdf/bcbs_blueaccess_silver_4000_plan_626.pdf)
+* [2022: BlueAccess Gold $1000 Plan 637](/assets/pdf/bcbs_blueaccess_gold_1000_plan_637.pdf)
 
 
 ### Individual Coverage
@@ -34,15 +34,15 @@ TEN7 provides a stipend of up to $450 per month, on a post-tax basis. You buy he
 
 ## Dental
 
-TEN7 covers 100% of the employee's monthly premium for [2021: Delta Dental PPO plus Premier Dental Access](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/delta/plans/2019/delta_delta_dental_ppo_plus_premier_dental_access.pdf). You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis.
+TEN7 covers 100% of the employee's monthly premium for [2021: Delta Dental PPO plus Premier Dental Access](/assets/pdf/delta_delta_dental_ppo_plus_premier_dental_access.pdf). You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis.
 
 ## Vision
 
-TEN7 covers 100% of the employee's monthly premium for group vision coverage on the [2021: MN Premier Enhanced Eyewear Plan Opt II B](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/bcbs/plans/2019/bcbs_mn_premier_enhanced_eyewear_plan_opt_ii_b.pdf) through Blue Cross Blue Shield.
+TEN7 covers 100% of the employee's monthly premium for group vision coverage on the [2021: MN Premier Enhanced Eyewear Plan Opt II B](/assets/pdf/bcbs_mn_premier_enhanced_eyewear_plan_opt_ii_b.pdf) through Blue Cross Blue Shield.
 
 ## Life Insurance
 
-You’ll receive [$50,000 Basic Life insurance](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/principal/plans/2017/principal_mn_principal_life_50000.pdf) from Principal. You may purchase additional coverage at your own expense.
+You’ll receive [$50,000 Basic Life insurance](/assets/pdf/principal_mn_principal_life_50000.pdf) from Principal. You may purchase additional coverage at your own expense.
 
 ## 401(k)
 
