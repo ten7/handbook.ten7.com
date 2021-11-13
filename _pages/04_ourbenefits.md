@@ -34,11 +34,11 @@ TEN7 provides a stipend of up to $450 per month, on a post-tax basis. You buy he
 
 ## Dental
 
-TEN7 covers 100% of the employee's monthly premium for [2021: Delta Dental PPO plus Premier Dental Access](/assets/pdf/delta_delta_dental_ppo_plus_premier_dental_access.pdf). You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis.
+TEN7 covers 100% of the employee's monthly premium for [Delta Dental PPO plus Premier Dental Access](/assets/pdf/delta_delta_dental_ppo_plus_premier_dental_access.pdf). You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis.
 
 ## Vision
 
-TEN7 covers 100% of the employee's monthly premium for group vision coverage on the [2021: MN Premier Enhanced Eyewear Plan Opt II B](/assets/pdf/bcbs_mn_premier_enhanced_eyewear_plan_opt_ii_b.pdf) through Blue Cross Blue Shield.
+TEN7 covers 100% of the employee's monthly premium for group vision coverage on the [MN Premier Enhanced Eyewear Plan Opt II B](/assets/pdf/bcbs_mn_premier_enhanced_eyewear_plan_opt_ii_b.pdf) through Blue Cross Blue Shield.
 
 ## Life Insurance
 
