@@ -8,44 +8,35 @@ opener: Chapter 4 of 8
 # next_title: 
 ---
 
-Taking care of our employees is a top priority for us. Here’s a list of TEN7 benefits we’re
-excited to offer.
+Taking care of our employees is a top priority for us. Here’s a list of TEN7 benefits we’re excited to offer. Your coverage goes into effect on your first day of employment with TEN7. Our team is located across the country, so we’ve chosen nationwide carriers that have coverage in the state in which you reside. (Hawaii is the one exception.)
 
-## Health, Dental and Vision Insurance
 
-Your coverage goes into effect on your first day of employment with TEN7. Our team is located across the country, so we’ve chosen nationwide carriers that have coverage in the state in which you reside. (Hawaii is the one exception.)
+## Health
 
-### Health
+For health coverage, you can either participate in TEN7’s pre-tax group health insurance plan with Blue Cross Blue Shield of Minnesota (even if you don’t live in MN), or you can choose your own coverage on the Individual health insurance market, with a post-tax stipend that can be put towards coverage of your choice. Choose either **TEN7’s Group Health Insurance** or **Individual Coverage on the Open Market**
 
-For health coverage, you can either participate in TEN7’s pre-tax group health insurance plan with Blue Cross Blue Shield of Minnesota (even if you don’t live in MN), or you can choose your own coverage on the Individual health insurance market, with a post-tax stipend that can be put towards coverage of your choice.
 
-Choose either
-**TEN7’s Group Health Insurance**
+### TEN7’s Group Health Insurance**
 TEN7 covers 99% of the employee's monthly premium through our group plan. Because of a silly insurance rule, this is the highest we can cover. But, we make up the extra 1% as an addition to your paycheck. You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis. When selecting Group Health, you have the option to choose one of four available plans:
 
-* **Health Savings Account (HSA) Options**<br/>
-[2022: BlueAccess HSA Silver $4250 Plan 645 - (HDHP)
-](https://drive.google.com/file/d/1uw3-UHxLen0snFiqA1ni4yfPIO6wu5QV/view?usp=sharing)
+#### Health Savings Account (HSA) Options
+If you choose an HSA compatible plan, you'll also receive an account with [Lively](https://livelyme.com/) so you are able to set up pre-tax deductions for your savings.
+* [2022: BlueAccess HSA Silver $4250 Plan 645 - (HDHP)](https://drive.google.com/file/d/1uw3-UHxLen0snFiqA1ni4yfPIO6wu5QV/view?usp=sharing)
+* [2022: BlueAccess High Value HSA Gold $2500 Plan 558 - (HDHP)](https://drive.google.com/file/d/1EnNew7nT2WGXOWs1b40tGAojzFmM99mu/view?usp=sharing)
 
-  [2022: BlueAccess High Value HSA Gold $2500 Plan 558 - (HDHP)](https://drive.google.com/file/d/1EnNew7nT2WGXOWs1b40tGAojzFmM99mu/view?usp=sharing)
-    
-If you proceed with an HSA plan, TEN7 will send you a link to [Lively](https://livelyme.com/) to set up HSA contributions, which are deducted from each paycheck. 
+#### PPO Options
+* [2022: BlueAccess Silver $4000 Plan 626](https://drive.google.com/file/d/1u6RqdvhdnLarSP1hUwcQxfepD-nYe-JJ/view?usp=sharing)
+* [2022: BlueAccess Gold $1000 Plan 637](https://drive.google.com/file/d/10x5ilFDPuN2QlZOhLdFLEQf3VdwRq2l4/view?usp=sharing)
 
-* **PPO Options**<br/>
-[2022: BlueAccess Silver $4000 Plan 626](https://drive.google.com/file/d/1u6RqdvhdnLarSP1hUwcQxfepD-nYe-JJ/view?usp=sharing)
-  
-  [2022: BlueAccess Gold $1000 Plan 637](https://drive.google.com/file/d/10x5ilFDPuN2QlZOhLdFLEQf3VdwRq2l4/view?usp=sharing)
 
-or
-
-**Individual Coverage**<br/>
+### Individual Coverage
 TEN7 provides a stipend of up to $450 per month, on a post-tax basis. You buy healthcare coverage on the individual market and show us what you spent. We will re-imburse you for that spend every payroll period. 
 
-### Dental
+## Dental
 
 TEN7 covers 100% of the employee's monthly premium for [2021: Delta Dental PPO plus Premier Dental Access](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/delta/plans/2019/delta_delta_dental_ppo_plus_premier_dental_access.pdf). You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis.
 
-### Vision
+## Vision
 
 TEN7 covers 100% of the employee's monthly premium for group vision coverage on the [2021: MN Premier Enhanced Eyewear Plan Opt II B](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/bcbs/plans/2019/bcbs_mn_premier_enhanced_eyewear_plan_opt_ii_b.pdf) through Blue Cross Blue Shield.
 
