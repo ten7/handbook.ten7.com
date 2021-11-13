@@ -16,7 +16,7 @@ Taking care of our employees is a top priority for us. Here’s a list of TEN7 b
 For health coverage, you can either participate in TEN7’s pre-tax group health insurance plan with Blue Cross Blue Shield of Minnesota (even if you don’t live in MN), or you can choose your own coverage on the Individual health insurance market, with a post-tax stipend that can be put towards coverage of your choice. Choose either **TEN7’s Group Health Insurance** or **Individual Coverage on the Open Market**
 
 
-### TEN7’s Group Health Insurance**
+### TEN7’s Group Health Insurance
 TEN7 covers 99% of the employee's monthly premium through our group plan. Because of a silly insurance rule, this is the highest we can cover. But, we make up the extra 1% as an addition to your paycheck. You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis. When selecting Group Health, you have the option to choose one of four available plans:
 
 #### Health Savings Account (HSA) Options
