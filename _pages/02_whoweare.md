@@ -18,9 +18,9 @@ We asked our team to share what they would go back and tell themselves as a new 
 * “The TEN7 team is open, and we want to hear what you have to say.”
 
 
-## Our Company and Product Names
+## Our Company
 
-We're all brand ambassadors for TEN7. You can find our brand guidelines at https://t7.io/brandguidelines but since you might be writing about our company, please note a few things. 
+We're all brand ambassadors for TEN7. You can always find our brand guidelines at [https://t7.io/brandguidelines](https://t7.io/brandguidelines). Since you might be writing about our company, please note a few things. 
 
 ### Writing Our Company Name
 
@@ -33,12 +33,12 @@ It's correct to write:
 
 The rule of thumb is that "TEN7" should always be written in CAPS with NO space between the "TEN" and the number "7"—please don’t use lowercase, and don’t add spaces. The "TEN7" wordmark is geared to resemble the logo as closely as possible.
 
-Exception: Our company’s legal name is **Ten 7 Interactive, LLC**., but this will only be used on legal documents like signed contracts. Ivan talks about our company’s origin in episode 21 of our podcast “TEN7’s Origins” at https://t7.io/ep21.
+Exception: Our company’s legal name is **Ten 7 Interactive, LLC**., but this will only be used on legal documents like signed contracts. Ivan talks about our company’s origin in episode 21 of our podcast “TEN7’s Origins” at [https://t7.io/ep21](https://t7.io/ep21).
 
 
 ## Our Template
 
-When you start a new document in Google Docs, please choose from the multitude of branded templates we have. You can always find those at https://t7.io/templates.
+When you start a new document in Google Docs, please choose from the multitude of branded templates we have. You can always find those at [https://t7.io/templates](https://t7.io/templates).
 
 ## Our Contact Info
 
