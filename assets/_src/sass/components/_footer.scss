@@ -16,6 +16,11 @@
 		color: $link-footer-hover;
 		text-decoration: underline;
 	}
+
+	&-container {
+		margin: 0 auto;
+		max-width: $footer-width;
+	}
 }
 
 .ten7-link {

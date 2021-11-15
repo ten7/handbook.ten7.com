@@ -74,6 +74,10 @@
 		margin-bottom: 1.25rem;
 		text-transform: uppercase;
 	}
+
+	.post-content {
+		min-height: 70vh;
+	}
 }
 
 .post-content > ul > li {
