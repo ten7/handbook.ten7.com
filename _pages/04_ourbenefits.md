@@ -77,6 +77,10 @@ If your computer is on the fritz or in need of repair, TEN7 will provide you wit
 
 In addition, you'll have access to discounts from the Apple Store through TEN7. Contact [@dani](https://ten7.slack.com/team/UKEQ8DH9T) in Slack to get signed up.
 
+## 1Password for Families
+
+Through TEN7's 1Password Business account, you'll be able to sign up for a free 1Password for Families membership for you and up to 5 family members. We encourage you to take advantage of this in the name of better security for everyone! You can redeem your free account [here](https://support.1password.com/link-family/). 
+
 ## Carbon Offset
 
 TEN7 cares about our environment. To that end, we purchase an [Employee Renewable Energy Bundle](http://store.b-e-f.org/products/employee-renewable-energy-bundle/) and an [Employee Water Bundle](http://store.b-e-f.org/products/employee-water-bundle/) for every team member. Each quarter, you will receive a Renewable Energy Certificate and a Water Restoration Certificate, and each will note the details of the energy or water program that benefits from the offset.
@@ -85,17 +89,19 @@ TEN7 cares about our environment. To that end, we purchase an [Employee Renewabl
 
 ## Holidays
 
-We offer the following days as paid holidays to enjoy time with family and friends:
+Each year, we offer the following 9 days as paid holidays to enjoy time with family and friends. If the holiday falls on a Saturday, we'll be closed on the preceding Friday. If the holiday falls on a Sunday, we'll be closed on the following Monday. 
 
-* New Year’s Eve
+These 9 holidays include two "floating" days to be used anytime between Christmas Eve (December 24) and New Year's Eve (December 31).
+
+* New Year’s Day
 * Memorial Day
 * Independence Day
 * Labor Day
 * Thanksgiving Day
 * Day after Thanksgiving Day
-* Christmas Eve
 * Christmas
-* New Year’s Day
+* Floating Holiday #1 
+* Floating Holiday #2
 
 ## Paid Time Off (PTO)
 
