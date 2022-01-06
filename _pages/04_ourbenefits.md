@@ -30,7 +30,7 @@ If you choose an HSA compatible plan, you'll also receive an account with [Livel
 
 
 ### Individual Coverage
-TEN7 provides a stipend of up to $450 per month, on a post-tax basis. You buy healthcare coverage on the individual market and show us what you spent. We will re-imburse you for that spend every payroll period. 
+TEN7 provides a stipend of up to $500 per month, on a post-tax basis. You buy healthcare coverage on the individual market and show us what you spent. We will re-imburse you for that spend every payroll period. 
 
 ## Dental
 
