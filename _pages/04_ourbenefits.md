@@ -89,19 +89,15 @@ TEN7 cares about our environment. To that end, we purchase an [Employee Renewabl
 
 ## Holidays
 
-Each year, we offer the following 9 days as paid holidays to enjoy time with family and friends. If the holiday falls on a Saturday, we'll be closed on the preceding Friday. If the holiday falls on a Sunday, we'll be closed on the following Monday. 
+Each year, we offer the following 5 days as paid holidays to enjoy time with family and friends. If the holiday falls on a Saturday, we'll be closed on the preceding Friday. If the holiday falls on a Sunday, we'll be closed on the following Monday. 
 
-These 9 holidays include two "floating" days to be used anytime between Christmas Eve (December 24) and New Year's Eve (December 31).
+In addition to the 5 holidays below, TEN7 will be closed each year from Christmas Eve through New Year's Day.
 
-* New Year’s Day
 * Memorial Day
 * Independence Day
 * Labor Day
 * Thanksgiving Day
 * Day after Thanksgiving Day
-* Christmas
-* Floating Holiday #1 
-* Floating Holiday #2
 
 ## Paid Time Off (PTO)
 
