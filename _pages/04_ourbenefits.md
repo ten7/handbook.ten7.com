@@ -116,11 +116,11 @@ PTO is time for rest, travel and stepping away from your computer. Upon hire, yo
 
 In addition to your PTO days, you have two paid days off annually to use for professional development. You can find additional details about this in the Professional Development section of this handbook.
 
-## Personal Wellness time
+## Personal Wellness Time
 
 In addition to the PTO you accrue, you also receive 6 Personal Wellness days (48h) on the first of every year. This is for time you need to take for anything health-related: doctors appts, illness, mental health and/or rest. 
 
-## Post-Launch Rest time
+## Post-Launch Rest Time
 
 Related to Personal Wellness, if the majority of your time has been allocated to a particular larger project (e.g. the TEN7 Website Redesign), please take off the Friday after site launch. We want you to rest, to recharge, to reset. You can log this time in Harvest under the TEN7 Time Off project using the task “Post-Launch Rest."
 
