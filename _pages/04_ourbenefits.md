@@ -89,7 +89,7 @@ TEN7 cares about our environment. To that end, we purchase an [Employee Renewabl
 
 ## TEN7 Lunches
 
-From time to time, TEN7 may choose to buy you lunch — usually during a quarterly "All Hands...Are Welcome" meeting. When this happens, we ask that you please limit your lunch spend to no more than $35. 
+From time to time, TEN7 may choose to buy you lunch — usually during a quarterly "All Hands...Are Welcome" meeting. When this happens, TEN7 will cover up to $35. Anything above and beyond $35 is your responsibility to cover.
 
 ## Holidays
 
