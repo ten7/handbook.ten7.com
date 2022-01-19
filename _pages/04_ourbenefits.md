@@ -116,6 +116,10 @@ In addition to your PTO days, you have two paid days off annually to use for pro
 
 In addition to the PTO you accrue, you also receive 6 Personal Wellness days (48h) on the first of every year. This is for time you need to take for anything health-related: doctors appts, illness, mental health and/or rest. 
 
+## Post-Launch Rest time
+
+Related to Personal Wellness, if the majority of your time has been allocated to a particular larger project (e.g. the TEN7 Website Redesign), please take off the Friday after site launch. We want you to rest, to recharge, to reset. You can log this time in Harvest under the TEN7 Time Off project using the task “Post-Launch Rest."
+
 ## Vaccinations
 
 When it's time to get vaccinated — for COVID, the flu, or MMR — please take the time you need to do so. There's no need to request this time off in Gusto as long as you won't be away for more than 2 hours. Please make sure your time is blocked off on your calendar and then log it in Harvest under TEN7 Time Off 2021 > Vaccinations. 
