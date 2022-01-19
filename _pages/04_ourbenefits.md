@@ -87,6 +87,10 @@ TEN7 cares about our environment. To that end, we purchase an [Employee Renewabl
 
 * Listen to our podcast [episode #53](https://ten7.com/blog/post/episode-053-heather-schrock-bonneville-environmental-foundation) where Ivan interviews the BEF representative who manages our certificates to learn more.
 
+## TEN7 Lunches
+
+From time to time, TEN7 may choose to buy you lunch — usually during a quarterly "All Hands...Are Welcome" meeting. When this happens, we ask that you please limit your lunch spend to no more than $35. 
+
 ## Holidays
 
 Each year, we offer the following 5 days as paid holidays to enjoy time with family and friends. If the holiday falls on a Saturday, we'll be closed on the preceding Friday. If the holiday falls on a Sunday, we'll be closed on the following Monday. 
