@@ -118,7 +118,7 @@ In addition to your PTO days, you have two paid days off annually to use for pro
 
 ## Personal Wellness Time
 
-In addition to the PTO you accrue, you also receive 6 Personal Wellness days (48h) on the first of every year. This is for time you need to take for anything health-related: doctors appts, illness, mental health and/or rest. 
+In addition to the PTO you accrue, you also receive 6 Personal Wellness days (48h) on the first of every year. This is for time you need to take for anything health-related: doctors appointments, illness, mental health and rest. 
 
 Beyond your allocated Personal Wellness Time, TEN7 may ask you to take a day off from time to time if we know you've been working more than usual or a big site just launched. You can log this time in Harvest under the TEN7 Time Off project using the task "Misc. Time Off."
 
