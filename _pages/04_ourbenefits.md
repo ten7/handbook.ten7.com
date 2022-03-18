@@ -61,8 +61,10 @@ As a distributed agency, we know how important it is to have reliable technology
 We give you an annual $1,500 stipend to use towards technology or work-related services that best suits your needs. The stipend will be deposited on your [PEX](https://www.pexcard.com/) card on a monthly basis, beginning the first full month following your hire date. Please note:
 
 * The equipment or service you buy must be wholly funded by the stipend (i.e. you can’t use a $1,500 stipend towards a $3,000 computer).
-* If you’re a new employee, you may request an advance to purchase a major piece of equipment.
-* Any equipment purchased that costs more than $499, is the property of TEN7. 
+* You may request an advance of up to 2 years (or $3,000) to purchase a major piece of equipment.
+* In an effort to be kind to the environment, you'll be eligible to upgrade your major equipment purchase no earlier than 3 years following the purchase date. This also happens to align nicely with AppleCare.
+* TEN7 has a business partnership through Apple for recycling your equipment. When you're ready to recycle a piece of equipment, please let us know, and we will send you a box and a label to mail it in. 
+* Any equipment purchased that costs more than $250, is the property of TEN7. 
 
 Examples of appropriate uses of the stipend:
 
