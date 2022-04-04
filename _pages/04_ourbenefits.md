@@ -91,7 +91,7 @@ TEN7 cares about our environment. To that end, we purchase an [Employee Renewabl
 
 ## TEN7 Lunches
 
-From time to time, TEN7 may choose to buy you lunch — usually during a quarterly "All Hands...Are Welcome" meeting. When this happens, TEN7 will cover up to $30 for one person. Anything above and beyond $35 or for other people in your household is your responsibility to cover.
+From time to time, TEN7 may choose to buy you lunch — usually during a quarterly "All Hands...Are Welcome" meeting. When this happens, TEN7 will cover up to $30 for one person. Anything above and beyond $30 or for other people in your household is your responsibility to cover.
 
 ## Holidays
 
