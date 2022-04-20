@@ -48,7 +48,7 @@ Here’s a cheat sheet for our most commonly used channels:
 * **\#general:** Mainly used for general company info and team reminders.
 * **\#random:** This is the distributed office water cooler; it’s used for, well, the most random things you can imagine! Check out what’s going on in #random when you’re working—there’s almost always something funny going on, and it’s a great chance to chat with and get to know other team members.
 * **Project channels:** Project channels are used internally to discuss work on client projects. If you’re working on client projects, you’ll be invited to each project’s channel. Channel names always start with an underscore before the project name. For example, **\#_pt** is the channel dedicated to Psychology Today.
-* **TEN7Care channels:** These are project channels that the client has access to. Names start with **\#t7care_**.
+* **TEN7 Support channels:** These are project channels that the client has access to. Names start with **\#ten7-support**.
 * **Shared channels:** Sometimes a client or a TEN7 partner has their own Slack account, so we’ll connect our accounts together in a shared Slack channel. You'll know it's a shared channel by the double-diamond shape in the channel name.
 
 To learn more about how we use Slack, listen to our podcast episode [“Blueprint Series #2: Slack.”](https://ten7.com/blog/post/episode-032-blueprint-series-2-slack)
@@ -109,6 +109,8 @@ We have a weekly company meeting each Monday at 9:30 a.m. CST. Ivan will share u
 
 You'll also likely have a daily [standup](https://en.wikipedia.org/wiki/Stand-up_meeting), depending on which projects you're working on. 
 
+Wednesdays are meeting-free, focus days. We try to keep Fridays as clear as possible, too.
+
 ## Money Things
 
 ### Getting Paid
@@ -116,10 +118,6 @@ You'll also likely have a daily [standup](https://en.wikipedia.org/wiki/Stand-up
 Payroll is processed biweekly, and your salary will be direct deposited every other Friday. When you receive your first paycheck, please verify that taxes, insurance, and 401(k), were accurately deducted. 
 
 We use [Gusto](https://gusto.com/) to keep track of payroll - you’ll receive an invitation to setup your account for direct deposit.
-
-### Business Expenses
-
-You’ll receive a corporate American Express card to use on any TEN7 business-related expenses like travel, conferences, client lunches and so on. We don’t have hard and fast rules about things like _per diems; we just ask that you use your best judgement and keep expenses reasonable. It’s always okay to ask if you’re unsure.
 
 ## Tools
 
