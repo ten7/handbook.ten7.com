@@ -17,14 +17,15 @@ For health coverage, you can either participate in TEN7’s pre-tax group health
 
 
 ### TEN7’s Group Health Insurance
-TEN7 covers 99% of the employee's monthly premium through our group plan. Because of a silly insurance rule, this is the highest we can cover. But, we make up the extra 1% as an addition to your paycheck. You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis. When selecting Group Health, you have the option to choose one of three available plans (all PPO):
+TEN7 covers 99% of the employee's monthly premium through our group plan. Because of a silly insurance rule, this is the highest we can cover. But, we make up the extra 1% as an addition to your paycheck. You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis. When selecting Group Health, you have the option to choose one of four available plans (all PPO):
 
 #### Health Savings Account (HSA) Options
 If you choose an HSA compatible plan, you'll also receive an account with [Lively](https://livelyme.com/) so you are able to set up pre-tax deductions for your savings.
 * [2022: BlueAccess HSA Silver $4250 Plan 645 - (HDHP)](/assets/pdf/bcbs_blueaccess_hsa_silver_4250_plan_645_hdhp.pdf)
 * [2022: BlueAccess High Value HSA Gold $2500 Plan 558 - (HDHP)](/assets/pdf/bcbs_high_value_hsa_gold_2500_plan_558_hdhp.pdf)
 
-#### Non-HSA Option
+#### Non-HSA Options
+* [2022: BlueAccess Silver $4000 Plan 626](/assets/pdf/bcbs_blueaccess_silver_4000_plan_626.pdf)
 * [2022: BlueAccess Gold $1000 Plan 637](/assets/pdf/bcbs_blueaccess_gold_1000_plan_637.pdf)
 
 
