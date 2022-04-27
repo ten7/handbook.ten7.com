@@ -58,12 +58,12 @@ This is a free, no-fee way to access up to $500 between paydays. Use [Cashout](h
 
 As a distributed agency, we know how important it is to have reliable technology. We expect you to have current and working equipment so you’re able to effectively do your job.
 
-We give you a bi-annual $3,000 stipend to use towards technology or work-related services that best suits your needs. The stipend is not considered cash — it is a bi-annual budget available to you that expires and renews at the end of each 2-year period. If the item you want to purchase is less than $250, please use your personal credit card and submit the receipt for reimbursement via Compt. If the item is more than $250, please talk with Dani to work out purchase details. Please note:
+We give you a biennial $3,000 stipend to use towards technology or work-related services that best suits your needs. The stipend is not considered cash — it is a biennial budget available to you that expires and renews at the end of each 2-year period. If the item you want to purchase is less than $250, please use your personal credit card and submit the receipt for reimbursement via Compt. If the item is more than $250, please talk with Dani to work out purchase details. Please note:
 
 * The equipment or service you buy must be wholly funded by the stipend (i.e. you can’t use a $3,000 stipend towards a $4,000 computer).
 * In an effort to be kind to the environment, you'll be eligible to upgrade your major equipment purchase no earlier than 3 years following the purchase date. This also happens to align nicely with AppleCare.
 * TEN7 has a business partnership through Apple for recycling your equipment. When you're ready to recycle a piece of equipment, please let us know, and we will send you a box and a label to mail it in. 
-* If and when you decide to upgrade your device, we will verify the fair market value of recycling the device through an Apple-authorized vendor. You may choose to purchase the item from TEN7 for that value if you choose, OR you can recycle the device, and any dollars owed from the vendor belong to TEN7.
+* If and when you decide to upgrade your device, we will verify the fair market value of recycling the device through an Apple-authorized vendor. You may choose to purchase the item from TEN7 for that value if you'd like, OR you can recycle the device, and any dollars owed from the vendor belong to TEN7.
 * Any equipment purchased that costs more than $250 is the property of TEN7 and requires an extended warranty (3 years is preferred).
 * Because this stipend is a budget rather than cash, you are not owed any remaining balance if you leave the company for any reason.
 
