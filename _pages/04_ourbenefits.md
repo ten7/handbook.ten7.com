@@ -58,13 +58,14 @@ This is a free, no-fee way to access up to $500 between paydays. Use [Cashout](h
 
 As a distributed agency, we know how important it is to have reliable technology. We expect you to have current and working equipment so you’re able to effectively do your job.
 
-We give you an annual $1,500 stipend to use towards technology or work-related services that best suits your needs. The stipend will be deposited on your [PEX](https://www.pexcard.com/) card on a monthly basis, beginning the first full month following your hire date. Please note:
+We give you a bi-annual $3,000 stipend to use towards technology or work-related services that best suits your needs. The stipend is not considered cash — it is a bi-annual budget available to you that expires and renews at the end of each 2-year period. If the item you want to purchase is less than $250, please use your personal credit card and submit the receipt for reimbursement via Compt. If the item is more than $250, please talk with Dani to work out purchase details. Please note:
 
-* The equipment or service you buy must be wholly funded by the stipend (i.e. you can’t use a $1,500 stipend towards a $3,000 computer).
-* You may request an advance of up to 2 years (or $3,000) to purchase a major piece of equipment.
+* The equipment or service you buy must be wholly funded by the stipend (i.e. you can’t use a $3,000 stipend towards a $4,000 computer).
 * In an effort to be kind to the environment, you'll be eligible to upgrade your major equipment purchase no earlier than 3 years following the purchase date. This also happens to align nicely with AppleCare.
 * TEN7 has a business partnership through Apple for recycling your equipment. When you're ready to recycle a piece of equipment, please let us know, and we will send you a box and a label to mail it in. 
-* Any equipment purchased that costs more than $250, is the property of TEN7. 
+* If and when you decide to upgrade your device, we will verify the fair market value of recycling the device through an Apple-authorized vendor. You may choose to purchase the item from TEN7 for that value if you choose, OR you can recycle the device, and any dollars owed from the vendor belong to TEN7.
+* Any equipment purchased that costs more than $250 is the property of TEN7 and requires an extended warranty (3 years is preferred).
+* Because this stipend is a budget rather than cash, you are not owed any remaining balance if you leave the company for any reason.
 
 Examples of appropriate uses of the stipend:
 
@@ -91,7 +92,7 @@ TEN7 cares about our environment. To that end, we purchase an [Employee Renewabl
 
 ## TEN7 Lunches
 
-From time to time, TEN7 may choose to buy you lunch — usually during a quarterly "All Hands...Are Welcome" meeting. When this happens, TEN7 will cover up to $30 for one person. Anything above and beyond $30 or for other people in your household is your responsibility to cover.
+From time to time, TEN7 may choose to buy you lunch — usually during a quarterly "All Hands...Are Welcome" meeting. When this happens, TEN7 will cover up to $30 for one person. Anything above and beyond $30 or for other people in your household is your responsibility to cover. You will get a special lunch stipend for these. Please use your personal credit card and submit the receipt for reimbursement via Compt.
 
 ## Holidays
 
@@ -148,7 +149,17 @@ If you’re called to serve on a jury, you’ll receive your full pay for up to 
 
 ## Professional Development
 
-TEN7 encourages employees to keep learning and growing professionally. You'll receive a $1,500 annual stipend, plus two additional paid days off to use towards a conference or an educational experience of your choosing (including books).
+TEN7 encourages employees to keep learning and growing professionally. You'll receive a $1,500 annual stipend, plus two additional paid days off to use towards a conference or an educational experience of your choosing (including books). The stipend is not considered cash — it is an annual budget available to you that expires and renews at the end of each 1-year period. If the item you want to purchase is less than $250, please use your personal credit card and submit the receipt for reimbursement via Compt. If the item is more than $250, please talk with Dani to work out purchase details. Please note: 
+
+* The item or event ticket you buy must be wholly funded by the stipend (i.e. you can’t use a $1,500 stipend towards a $3,000 conference).
+* Any item purchased that costs more than $250 is the property of TEN7.
+* Because this stipend is a budget rather than cash, you are not owed any remaining balance if you leave the company for any reason.
+
+Examples of appropriate uses of the stipend:
+
+* Conference or workshop tickets
+* Travel and/or food related to any conferences you attend 
+* Books or other educational materials related to your job 
 
 ### Conferences
 If you are presenting at a conference or other event as a TEN7 representative, you can log up to 20 hours of time under the TEN7 Marketing project in Harvest for the time you need to prepare for your presentation. 
