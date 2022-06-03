@@ -16,7 +16,7 @@ It took some trial and error, but we have this distributed office thing down. We
 
 ### Flexible Hours
 
-We typically work during normal business hours: 9 a.m. to 5 p.m.-ish CST. That’s a big “ish.” We trust each other to put in 30 billable hours per week, whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, just keep everyone apprised of your status on Slack.
+We typically work during normal business hours: 9 a.m. to 5 p.m.-ish CST. That’s a big “ish.” We trust each other to put in a minimum of 30 hours per week, whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, make sure you're meeting the 30 hour minimum as a full-time employee, and keep everyone apprised of your status on Slack.
 
 ### Side Jobs
 
@@ -44,7 +44,7 @@ In Slack, topics are called “channels.” We have several types of channels: i
 
 Here’s a cheat sheet for our most commonly used channels:
 
-* **\#attendance:** We use the Slack status function plus a check-in to this channel to let others know our workday presence. It’s a place to add extra detail about what you’re up to. Say hi when you start the day, note when you’re away from keyboard (AFK) for more than an hour, back at keyboard (BAK), and when you’re heading out for the day.
+* **\#attendance:** We use the Slack status function plus a check-in to this channel to let others know our workday presence. It’s a place to add extra detail about what you’re up to. Say hi when you start the day, note when you’re away from keyboard (AFK) for more than an hour, back at keyboard (BAK), and when you’re heading out for the day. If we don't hear from you in Slack 
 * **\#general:** Mainly used for general company info and team reminders.
 * **\#random:** This is the distributed office water cooler; it’s used for, well, the most random things you can imagine! Check out what’s going on in #random when you’re working—there’s almost always something funny going on, and it’s a great chance to chat with and get to know other team members.
 * **Project channels:** Project channels are used internally to discuss work on client projects. If you’re working on client projects, you’ll be invited to each project’s channel. Channel names always start with an underscore before the project name. For example, **\#_pt** is the channel dedicated to Psychology Today.
