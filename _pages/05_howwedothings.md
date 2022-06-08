@@ -10,7 +10,7 @@ opener: Chapter 5 of 8
 
 ## Working Remotely
 
-TEN7 is a completely distributed company; we have no central office space. Though most of us live in the Minneapolis, Minnesota area, we all work from home (or various other places).
+TEN7 is a completely distributed company; we have no central office space. Though many of us live in the Minneapolis, Minnesota area, we all work from home (or various other places).
 
 It took some trial and error, but we have this distributed office thing down. We depend on several tools to help us communicate and be virtually present to each other. The most important rule of thumb is that it’s better to over communicate than under communicate. Post on Slack, share your status in the #attendance channel, jump on Zoom (preferably using video)—do whatever you need to in order to be virtually known.
 
@@ -77,15 +77,15 @@ Use Harvest to submit your hours (including any paid time off) on a weekly basis
 
 ### Billable Time Expectations
 
-The 40-hour workweek is split up into the following buckets: 
+The workweek is split up into the following buckets: 
 
 #### Billable Client Hours
 
-If you’re doing billable work on a project for a client, you should have around 30 billable hours per week. Sometimes, billable work on internal projects where TEN7 is the client is approved, such as development work on the ten7.com website. 
+If your role primarily involves working on client projects, you should log around 30 billable hours per week. Sometimes, billable work on internal projects where TEN7 is the client is approved, such as development work on the ten7.com website. 
 
 #### Internal Hours
 
-The remaining 10 hours could be spent on activities such as:
+The remaining hours of your day could be spent on activities such as:
 
 * Attending internal meetings and standups
 * Contributing to Open Source projects or Drupal on drupal.org
@@ -97,9 +97,10 @@ We’re all adults, and we trust each other to use good judgment.
 
 We hope you’ll spend 10% of your workweek giving back to the community by contributing your talents—whether design, development, content or otherwise—to open source projects.
 
+
 ### Harvest Project for Internal Tasks
 
-All internal hours should be tracked to tasks under the TEN7 Company Operations project in Harvest. As always, ask if you have questions on how to do this!
+Most internal hours should be tracked to tasks under the TEN7 Company Operations project in Harvest. As always, ask if you have questions on how to do this!
 
 ## Meetings
 
