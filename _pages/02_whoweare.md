@@ -56,8 +56,8 @@ The majority of our documents and communication are managed electronically, but 
 Beaverton OR 97008-7105
 
 Our social media accounts:
-* [LinkedIn](https://www.linkedin.com/company/ten-7-interactive-llc/)
-* [Twitter](http://twitter.com/TEN7)
+* [LinkedIn](https://www.linkedin.com/company/ten7)
+* [Twitter](twitter.com/TEN7)
 
 We publish a new podcast episode bi-weekly: [ten7.com/podcast](https://ten7.com/podcast)
 
