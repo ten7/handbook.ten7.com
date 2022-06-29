@@ -13,7 +13,7 @@ Taking care of our employees is a top priority for us. Here’s a list of TEN7 b
 
 ## Health
 
-For health coverage, you're welcome to participate in TEN7’s pre-tax group health insurance plan with Blue Cross Blue Shield of Minnesota (even if you don’t live in MN. 
+For health coverage, you're welcome to participate in TEN7’s pre-tax group health insurance plan with Blue Cross Blue Shield of Minnesota — even if you don’t live in MN. 
 
 
 ### TEN7’s Group Health Insurance
