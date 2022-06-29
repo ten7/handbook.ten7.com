@@ -13,7 +13,7 @@ Taking care of our employees is a top priority for us. Here’s a list of TEN7 b
 
 ## Health
 
-For health coverage, you can either participate in TEN7’s pre-tax group health insurance plan with Blue Cross Blue Shield of Minnesota (even if you don’t live in MN), or you can choose your own coverage on the Individual health insurance market, with a post-tax stipend that can be put towards coverage of your choice. Choose either **TEN7’s Group Health Insurance** or **Individual Coverage on the Open Market**
+For health coverage, you're welcome to participate in TEN7’s pre-tax group health insurance plan with Blue Cross Blue Shield of Minnesota (even if you don’t live in MN. 
 
 
 ### TEN7’s Group Health Insurance
@@ -27,10 +27,6 @@ If you choose an HSA compatible plan, you'll also receive an account with [Livel
 #### Non-HSA Options
 * [2022: BlueAccess Silver $4000 Plan 626](/assets/pdf/bcbs_blueaccess_silver_4000_plan_626.pdf)
 * [2022: BlueAccess Gold $1000 Plan 637](/assets/pdf/bcbs_blueaccess_gold_1000_plan_637.pdf)
-
-
-### Individual Coverage
-TEN7 provides a stipend of up to $500 per month, on a post-tax basis (this means you will be responsible for paying tax on that stipend). You buy healthcare coverage on the individual market and show us what you spent. We will reimburse you for that spend every payroll period. Please note that we can only reimburse you for your own coverage — not that of any family members or dependents. 
 
 ## Dental
 
