@@ -50,31 +50,34 @@ Upon hire, you can opt in to our 401(k) plan that has a 4% match, and no vesting
 
 This is a free, no-fee way to access up to $500 between paydays. Use [Cashout](https://app.gusto.com/ten-7-interactive-llc/employee/cashout/overview) to cover an unexpected expense or manage large bills.
 
-## Technology Stipend
+## Technology
+
+To ensure you've got the right equipment to do the work, TEN7 issues all new employees a leased computer that will be replaced every three years, along with a supplementary tech stipend. In addition, you'll have access to discounts from the Apple Store through TEN7. 
+
+### Computer
+All new employees will be issued their choice between a leased 13” Dell XPS with Linux or Windows or a 14” M1 MacBook Pro. We also will provide one  monitor if you need it. This equipment has a 3-year warranty that coincides with the lease. Please talk with Dani for more details and specs for each computer option.
+
+Please note:
+- You will get next day business support and accidental damage coverage on this equipment, so if you spill something on your machine or drop it or the cat jumps on it and fries it, we will get a replacement or a repair at your location on the next business day.
+- When it's time for a device upgrade after three years, we will verify the fair market value of your current device. At that time, you may choose to purchase the item from TEN7 for that value if you'd like, OR you can return the device to TEN7. In either case, you will receive a replacement machine and monitor.
+
+### Technology Stipend
 
 As a distributed agency, we know how important it is to have reliable technology. We expect you to have current and working equipment so you’re able to effectively do your job.
 
-We give you a biennial $3,000 stipend to use towards technology or work-related services that best suits your needs. The stipend is not considered cash — it is a biennial budget available to you that expires and renews at the end of each 2-year period. If the item you want to purchase is less than $250, please use your personal credit card and submit the receipt for reimbursement via Compt. If the item is more than $250, please talk with Dani to work out purchase details. Please note:
+You will have a $900 stipend available to you on your day of hire to use toward any technology or work-related services that best suit your needs. The stipend is not considered cash — it is an annual budget available to you that expires and renews at the end of each 1-year period. Please use your personal credit card for any item you want to purchase and submit the receipt for reimbursement via Compt. If for any reason it's not possible for you to purchase the item on your own, please talk with Dani to work out purchase details. Please note:
 
-* The equipment or service you buy must be wholly funded by the stipend (i.e. you can’t use a $3,000 stipend towards a $4,000 computer).
-* In an effort to be kind to the environment, you'll be eligible to upgrade your major equipment purchase no earlier than 3 years following the purchase date. This also happens to align nicely with AppleCare.
-* TEN7 has a business partnership through Apple for recycling your equipment. When you're ready to recycle a piece of equipment, please let us know, and we will send you a box and a label to mail it in. 
-* If and when you decide to upgrade your device, we will verify the fair market value of recycling the device through an Apple-authorized vendor. You may choose to purchase the item from TEN7 for that value if you'd like, OR you can recycle the device, and any dollars owed from the vendor belong to TEN7.
-* Any equipment purchased that costs more than $250 is the property of TEN7 and requires an extended warranty (3 years is preferred).
+* You will retain ownership of any item purchased with this stipend 
 * Because this stipend is a budget rather than cash, you are not owed any remaining balance if you leave the company for any reason.
 
 Examples of appropriate uses of the stipend:
 
-* Computer, tablet, monitor or phone
+* Tablet, monitor or phone
 * External hard drive, keyboard, mouse, microphone, headset
 * Setting up your home office (buying furniture, etc.)
 * Internet service, cell phone service
 
-TEN7 covers the cost for required software and tools, such as licenses for PHPStorm, the Adobe suite of products, JIRA, etc as well as a professional quality headset.
-
-If your computer is on the fritz or in need of repair, TEN7 will provide you with a temporary, loaner laptop at our discretion.
-
-In addition, you'll have access to discounts from the Apple Store through TEN7. Contact [@dani](https://ten7.slack.com/team/UKEQ8DH9T) in Slack to get signed up.
+TEN7 covers the cost for required software and tools, such as licenses for PHPStorm, the Adobe suite of products, JIRA, etc as well as a professional quality headset. Please talk with Dani if you need any of these things. 
 
 ## 1Password for Families
 
@@ -110,7 +113,6 @@ PTO is time for rest, travel and stepping away from your computer. Upon hire, yo
 * PTO requests should be in increments of 4 hours, or 1/2 day. If you need to take off less than 1/2 a day, there's no need to request that time as PTO. We trust that you'll make up the time later in the week. Although you accrue PTO hours throughout the year, it is not meant to be requested on an hourly basis, but rather on a daily or half-daily basis. 
 * If you request time off on a particular day and you end up working for part of that day (ex. you request 8 hours off on a Monday but for whatever reason you work for 2 hours that day), please feel free to take off a couple hours early later in the week to make sure you recoup your PTO, as it can't be added back to your total accrual after the fact. 
 * If you need more paid time off than you’ve earned, it’s okay for you to take a few days in advance of earning them, as long as it’s approved beforehand.
-* PTO increases are reviewed annually.
 * Any PTO you have remaining at the end of the year will roll over to the following year and will continue to accrue only until you've reached your avaialable maximum. As an example, let's say you have 10 days of available PTO per year. If, at the end of X year, you have 5 days remaining, those 5 days will roll over to the following year and will continue to accrue until you've accrued 10 total days for that year (your maximum).
 
 In addition to your PTO days, you have two paid days off annually to use for professional development. You can find additional details about this in the Professional Development section of this handbook.
@@ -129,7 +131,7 @@ TEN7 will pay for your transportation costs to and from getting your vaccination
 
 ## Parental Leave
 
-As a new parent, it’s important that you have time to spend with the new addition to your family. That’s why all new parents who’ve worked at TEN7 for six months may take two weeks paid parental leave. You may then use accumulated PTO and Short Term Disability for additional paid time off, up to 12 weeks. How you schedule the two weeks around the birth is up to you.
+As a new parent, it’s important that you have time to spend with the new addition to your family. That’s why all new parents who’ve worked at TEN7 for six months may take two weeks paid parental leave. How you schedule the two weeks around the birth is up to you. You may then use accumulated PTO and Short Term Disability for additional paid time off, up to 12 weeks. 
 
 ## Sabbatical
 
@@ -145,10 +147,8 @@ If you’re called to serve on a jury, you’ll receive your full pay for up to 
 
 ## Professional Development
 
-TEN7 encourages employees to keep learning and growing professionally. You'll receive a $1,500 annual stipend, plus two additional paid days off to use towards a conference or an educational experience of your choosing (including books). The stipend is not considered cash — it is an annual budget available to you that expires and renews at the end of each 1-year period. If the item you want to purchase is less than $250, please use your personal credit card and submit the receipt for reimbursement via Compt. If the item is more than $250, please talk with Dani to work out purchase details. Please note: 
+TEN7 encourages employees to keep learning and growing professionally. You'll receive a $1,500 annual stipend, plus two additional paid days off to use towards a conference or an educational experience of your choosing (including books). The stipend is not considered cash — it is an annual budget available to you that expires and renews at the end of each 1-year period. Please use your personal credit card for any item you want to purchase and submit the receipt for reimbursement via Compt. If for any reason it's not possible for you to purchase the item on your own, please talk with Dani to work out purchase details. Please note: 
 
-* The item or event ticket you buy must be wholly funded by the stipend (i.e. you can’t use a $1,500 stipend towards a $3,000 conference).
-* Any item purchased that costs more than $250 is the property of TEN7.
 * Because this stipend is a budget rather than cash, you are not owed any remaining balance if you leave the company for any reason.
 
 Examples of appropriate uses of the stipend:
@@ -158,7 +158,7 @@ Examples of appropriate uses of the stipend:
 * Books or other educational materials related to your job 
 
 ### Conferences
-If you are presenting at a conference or other event as a TEN7 representative, you can log up to 20 hours of time under the TEN7 Marketing project in Harvest for the time you need to prepare for your presentation. 
+If you are presenting at a conference or other event as a TEN7 representative, you can log up to 20 hours of time under the TEN7 Growth project in Harvest for the time you need to prepare for your presentation. 
 
 ## Planning for Time Off
 
