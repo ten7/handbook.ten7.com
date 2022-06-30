@@ -12,11 +12,11 @@ opener: Chapter 5 of 8
 
 TEN7 is a completely distributed company; we have no central office space. Though many of us live in the Minneapolis, Minnesota area, we all work from home (or various other places).
 
-It took some trial and error, but we have this distributed office thing down. We depend on several tools to help us communicate and be virtually present to each other. The most important rule of thumb is that it’s better to over communicate than under communicate. Post on Slack, share your status in the #attendance channel, jump on Zoom (preferably using video)—do whatever you need to in order to be virtually known.
+It took some trial and error, but we have this distributed office thing down. We depend on several tools to help us communicate and be virtually present for each other. The most important rule of thumb is that it’s better to over communicate than under communicate. Post on Slack, share your status in the #attendance channel, jump on Zoom (preferably using video)—do whatever you need to in order to be virtually known.
 
 ### Flexible Hours
 
-We typically work during normal business hours: 9 a.m. to 5 p.m.-ish CST. That’s a big “ish.” We trust each other to put in a minimum of 30 hours per week, whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, make sure you're meeting the 30 hour minimum as a full-time employee, and keep everyone apprised of your status on Slack.
+We typically work during normal business hours: 9 a.m. to 5 p.m.-ish CST. That’s a big “ish.” We trust each other to put in a minimum of 30 hours per week, whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, make sure you're meeting the 30 hour minimum as a full-time employee, and keep everyone apprised of your status on Slack. Please note: We all have different _billable_ hours expectations depending on our role; please talk with Dani if you're unclear on your specific hours expectation.
 
 ### Side Jobs
 
@@ -44,18 +44,18 @@ In Slack, topics are called “channels.” We have several types of channels: i
 
 Here’s a cheat sheet for our most commonly used channels:
 
-* **\#attendance:** We use the Slack status function plus a check-in to this channel to let others know our workday presence. It’s a place to add extra detail about what you’re up to. Say hi when you start the day, note when you’re away from keyboard (AFK) for more than an hour, back at keyboard (BAK), and when you’re heading out for the day. If we don't hear from you in Slack 
+* **\#attendance:** We use the Slack status function plus a check-in to this channel to let others know our workday presence. It’s a place to add extra detail about what you’re up to. Say hi when you start the day, note when you’re away from keyboard (AFK) for more than an hour, back at keyboard (BAK), and when you’re heading out for the day. If we don't hear from you in Slack on any given day, we'll assume you're not working. 
 * **\#general:** Mainly used for general company info and team reminders.
 * **\#random:** This is the distributed office water cooler; it’s used for, well, the most random things you can imagine! Check out what’s going on in #random when you’re working—there’s almost always something funny going on, and it’s a great chance to chat with and get to know other team members.
-* **Project channels:** Project channels are used internally to discuss work on client projects. If you’re working on client projects, you’ll be invited to each project’s channel. Channel names always start with an underscore before the project name. For example, **\#_pt** is the channel dedicated to Psychology Today.
-* **TEN7 Support channels:** These are project channels that the client has access to. Names start with **\#ten7-support**.
+* **Project channels:** Project channels are used internally to discuss work on client projects. If you’re working on client projects, you’ll be invited to each project’s channel. Channel names always use the client shortcode as the name. For example, **\#ahs** is the channel dedicated to Animal Humane Society.
+* **TEN7 Support channels:** These are project channels that the client has access to. Names start with **\#support-ten7**.
 * **Shared channels:** Sometimes a client or a TEN7 partner has their own Slack account, so we’ll connect our accounts together in a shared Slack channel. You'll know it's a shared channel by the double-diamond shape in the channel name.
 
-To learn more about how we use Slack, listen to our podcast episode [“Blueprint Series #2: Slack.”](https://ten7.com/blog/post/episode-032-blueprint-series-2-slack)
+To learn more about how we use Slack, listen to our podcast episode [“Blueprint Series #2: Slack.”](https://ten7.com/podcast/episode/blueprint-series-2-slack)
 
 ### Zoom Video Conferencing
 
-While we can do a lot of things over Slack, there are some things we just can’t do. We have a loose rule: if there are more than three back-and-forths on an issue in Slack, we take the conversation to Zoom to hash it out. We encourage regular check-in meetings over Zoom as well, as it’s just nice to see the faces of your coworkers if you’re staring at a screen all day.
+While we can do a lot of things over Slack, there are some things we just can’t do. We have a loose rule: if there are more than three back-and-forths on an issue in Slack, we take the conversation to a Slack Huddle or Zoom to hash it out. We encourage regular check-in meetings over Zoom as well, as it’s just nice to see the faces of your coworkers if you’re staring at a screen all day.
 
 Another thing that Zoom conferencing is great for is screen sharing. We share screens to review documents, presentations, or code. And I’m sure some of us are still pointing at the screen with our fingers.
 
@@ -63,13 +63,15 @@ Another thing that Zoom conferencing is great for is screen sharing. We share sc
 
 Being remote can be great (puppy time, yay!), but we also know it’s important to come together in person. If you live close to another TEN7 team member, we encourage you to grab a coffee or a meal together! Otherwise, we have in-person meet-ups a few times a year. Sometimes it will be a working session and other times it will be a meal, because we all understand the importance of good food (by the way, check out the **\#food** Slack channel).
 
+We hold weekly Friday coworking sessions over Zoom for those who want some company.
+
 For more information on working for a distributed company, read Yonder’s post [“The Anatomy of a Successful Remote Worker.”](https://www.yonder.io/post/anatomy-of-successful-remote-worker)
 
 ## Time Tracking
 
 We use JIRA for issue tracking, but we use Harvest for time tracking and — more importantly — client billing. If we make a code commit, the requirement is that there’s an issue in JIRA that maps to the corresponding Harvest project. It’s easy for us to stick to that, because if we make a code change and there isn't a Harvest entry associated with it, we can’t bill for it. We pull your hours and explanation of work and include it in the invoice to clients. Reporting is available at the account, project, team and user levels, which makes it invaluable for managing projects and client billing.
 
-Time entry is important. And accurate time entry is even more important. We challenge each other to enter time daily (ideally using the built-in Harvest timer) to ensure accuracy. While billable hours for clients are crucial, it’s also important to accurately log time spent on internal TEN7 work, such as meetings and administrative tasks. We’re always looking for ways to become more efficient and accountable, and time tracking helps us do that.
+Time entry is important. And accurate time entry is even more important. We challenge each other to enter time daily (ideally using the built-in Harvest timer) to ensure accuracy. While tracking billable hours for clients are crucial, it’s also important to accurately log time spent on internal TEN7 work, such as meetings and administrative tasks. We’re always looking for ways to become more efficient and accountable, and time tracking helps us do that.
 
 ### Workweek Time Period
 
@@ -95,6 +97,8 @@ The remaining hours of your day could be spent on activities such as:
 
 We’re all adults, and we trust each other to use good judgment.
 
+#### Giving Back to Open Source Projects
+
 We hope you’ll spend 10% of your workweek giving back to the community by contributing your talents—whether design, development, content or otherwise—to open source projects.
 
 
@@ -106,7 +110,7 @@ Most internal hours should be tracked to tasks under the TEN7 Company Operations
 
 We don’t believe in meetings for meetings’ sake. We’ll only hold meetings if we have a goal, if we need to meet with a client, or if it’s more efficient to hash things out in a meeting vs. doing it over Slack.
 
-We have a weekly company meeting each Monday at 9:30 a.m. CST. Ivan will share updates, the team can connect, and anyone can bring any topic to the table.
+We have a weekly company meeting each Monday at 9:30 a.m. CST. Ivan will share updates, the team can connect, and anyone can bring any topic to the table. We'll always record this meeting so you can watch it later if you're not able to join.
 
 You'll also likely have a daily [standup](https://en.wikipedia.org/wiki/Stand-up_meeting), depending on which projects you're working on. 
 
