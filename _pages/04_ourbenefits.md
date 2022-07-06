@@ -65,7 +65,7 @@ Please note:
 
 As a distributed agency, we know how important it is to have reliable technology. We expect you to have current and working equipment so you’re able to effectively do your job.
 
-You will have a $900 stipend available to you on your day of hire to use toward any technology or work-related services that best suit your needs. The stipend is not considered cash — it is an annual budget available to you that expires and renews at the end of each 1-year period. Please use your personal credit card for any item you want to purchase and submit the receipt for reimbursement via Compt. If for any reason it's not possible for you to purchase the item on your own, please talk with Dani to work out purchase details. Please note:
+You will have a $900 stipend available to you on your day of hire to use toward any technology or work-related services that best suit your needs. The stipend is not considered cash — it is an annual budget available to you that expires and renews at the end of each 1-year period. Please use your personal credit card for any item you want to purchase and submit the receipt for reimbursement via Compt. If for any reason it's not possible for you to purchase the item on your own or if any one item is more than $500, please talk with Dani to work out purchase details. Please note:
 
 * You will retain ownership of any item purchased with this stipend 
 * Because this stipend is a budget rather than cash, you are not owed any remaining balance if you leave the company for any reason.
@@ -147,7 +147,7 @@ If you’re called to serve on a jury, you’ll receive your full pay for up to 
 
 ## Professional Development
 
-TEN7 encourages employees to keep learning and growing professionally. You'll receive a $1,500 annual stipend, plus two additional paid days off to use towards a conference or an educational experience of your choosing (including books). The stipend is not considered cash — it is an annual budget available to you that expires and renews at the end of each 1-year period. Please use your personal credit card for any item you want to purchase and submit the receipt for reimbursement via Compt. If for any reason it's not possible for you to purchase the item on your own, please talk with Dani to work out purchase details. Please note: 
+TEN7 encourages employees to keep learning and growing professionally. You'll receive a $1,500 annual stipend, plus two additional paid days off to use towards a conference or an educational experience of your choosing (including books). The stipend is not considered cash — it is an annual budget available to you that expires and renews at the end of each 1-year period. Please use your personal credit card for any item you want to purchase and submit the receipt for reimbursement via Compt. If for any reason it's not possible for you to purchase the item on your own or if any one item is more than $500, please talk with Dani to work out purchase details. Please note: 
 
 * Because this stipend is a budget rather than cash, you are not owed any remaining balance if you leave the company for any reason.
 
