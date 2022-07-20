@@ -132,7 +132,7 @@ TEN7 will pay for your transportation costs to and from getting your vaccination
 
 ## Parental Leave
 
-As a new parent, it’s important that you have time to spend with the new addition to your family. That’s why all new parents who’ve worked at TEN7 for six months may take two weeks paid parental leave. How you schedule the two weeks around the birth is up to you. You may then use accumulated PTO and Short Term Disability for additional paid time off, up to 12 weeks. 
+As a new parent, it’s important that you have time to spend with the new addition to your family. That’s why all new parents who’ve worked at TEN7 for 180 days may take two weeks paid parental leave. How you schedule the two weeks around the birth is up to you. You may then use accumulated PTO and Short Term Disability for additional paid time off, up to 12 weeks. 
 
 ## Sabbatical
 
