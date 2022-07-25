@@ -124,6 +124,25 @@ In addition to the PTO you accrue, you also receive 6 Personal Wellness days (48
 
 Beyond your Personal Wellness Time, TEN7 may give you a day off from time to time if we know you've been working more than usual or a big site just launched. You can log this time in Harvest under the TEN7 Time Off project using the task "Misc. Time Off," and it will not count against your PTO or Personal Wellness Time.
 
+## Personal Leave of Absence
+
+If you need time off in addition to Paid Time Off and Personal Wellness time, and you’ve been employed with TEN7 for at least 12 months, you can request an unpaid personal leave of absence for up to a maximum of 13 weeks. Requests for unpaid personal leave **must be made in writing** to the CEO and the Director of Operations. You should indicate the reason and the length of leave you’re requesting, including the dates you will be away. Your request will be reviewed with the following factors in mind:
+
+- The purpose of your leave
+- The length of time you plan to be away, including the dates of your planned absence 
+- The effect your leave will have on the ability of your department to fulfill its responsibilities
+- The quality of your performance before the request is made
+
+We understand that sometimes a leave of absence is unavoidable. TEN7 will make every effort to keep your position open for you when you return, but cannot guarantee that the same position will be available at the same salary when you return. If your previous position is no longer available, your leave status will be changed to a voluntary resignation. Future reemployment would be as a new hire.
+
+Please note: 
+- An unpaid personal leave of absence is limited to one per year and must be approved by the CEO.
+- Your health, dental, vision, short-term disability and life insurance will remain active.
+- Your sabbatical start date will be postponed by the duration of your absence.
+- Any stipend amounts will be reduced proportionally according to the length of time you were absent.
+- Accepting employment elsewhere during your leave of absence will result in termination of employment with TEN7.
+- If you don’t return to work on the scheduled date, you’ll be considered to have voluntarily resigned from the company.
+
 ## Vaccinations
 
 When it's time to get vaccinated — for COVID, the flu, or MMR — please take the time you need to do so. There's no need to request this time off in Gusto as long as you won't be away for more than 2 hours. Please make sure your time is blocked off on your calendar and then log it in Harvest under TEN7 Time Off 2021 > Vaccinations. 
