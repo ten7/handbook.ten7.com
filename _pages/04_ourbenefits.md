@@ -40,6 +40,11 @@ TEN7 covers 100% of the employee's monthly premium for group vision coverage on 
 
 You’ll receive [$50,000 Basic Life insurance](/assets/pdf/principal_mn_principal_life_50000.pdf) from Principal. You may purchase additional coverage at your own expense.
 
+## Short-term Disability Insurance
+
+TEN7 covers 100% of the employee's monthly premium for [short-term disability coverage](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/guardian/plans/2022/guardian_guardian_em_std_1b_mn.pdf) through Guardian. 
+
+
 ## 401(k)
 
 Upon hire, you can opt in to our 401(k) plan that has a 4% match, and no vesting period. You can also [roll over funds](https://success.guideline.com/hc/en-us/articles/360007550292-Rollover-other-accounts-into-your-Guideline-401-k-) from other eligible accounts. When determining your 401(k) contribution amount, take into account what you’ve contributed during the calendar year so far, so you don’t go over the IRS contribution maximum.
@@ -105,6 +110,18 @@ In addition to the 5 holidays below, TEN7 will be closed each year from Christma
 * Labor Day
 * Thanksgiving Day
 * Day after Thanksgiving Day
+
+## Flexible Fridays (FlexFri)
+
+In general, your schedule can be flexible. But on Fridays we make it official. We expect you to keep your priorities on track and meet your hours requirement in order to take advantage of Flexible Fridays. As a full-time employee, you’re required to work a minimum of 30 hours per week, and we trust you to log your hours in any cadence that works for you. 
+
+- Depending on where you are in your hours requirement for the week, you can use Flexible Fridays to…
+    - Work a full day, per usual
+    - Work a partial day
+    - Work on a community contribution
+    - Take the day off, as long as you’re still reachable by Slack or email
+
+If you know in advance that you’ll need a Friday off, please use your PTO.
 
 ## Paid Time Off (PTO)
 
