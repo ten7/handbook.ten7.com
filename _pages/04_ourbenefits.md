@@ -154,7 +154,7 @@ We understand that sometimes a leave of absence is unavoidable. TEN7 will make e
 
 Please note: 
 - An unpaid personal leave of absence is limited to one per year and must be approved by the CEO.
-- During your leave, you're technically not employed with TEN7, so we will pause all of your TEN7 accounts, such as Slack, Email, 1Password and Jira.
+- During your leave, you're technically not employed with TEN7. For legal reasons we will disable all of your TEN7 accounts, such as Slack, Email, 1Password and Jira.
 - Your health, dental, vision, short-term disability and life insurance will remain active.
 - Your sabbatical start date will be postponed by the duration of your absence.
 - Any stipend amounts will be reduced proportionally according to the length of time you were absent.
