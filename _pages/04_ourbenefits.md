@@ -163,9 +163,15 @@ Please note:
 
 ## Vaccinations
 
-When it's time to get vaccinated — for COVID, the flu, or MMR — please take the time you need to do so. There's no need to request this time off in Gusto as long as you won't be away for more than 2 hours. Please make sure your time is blocked off on your calendar and then log it in Harvest under TEN7 Time Off 2021 > Vaccinations. 
+When it's time to get vaccinated — for COVID, the flu, or MMR — please take the time you need to do so. There's no need to request this time off in Gusto as long as you won't be away for more than 2 hours. Please make sure your time is blocked off on your calendar and then log it in Harvest under TEN7 Time Off 2022 > Vaccinations. 
 
 TEN7 will pay for your transportation costs to and from getting your vaccination: bus, Uber, train, or miles on a car. Please submit your transportation costs/mileage to: receipts@ten7.com, and we'll reimburse you $0.56/mile. 
+
+## Voting
+
+During election years — mid-terms and general election — please take the time you need to vote. There's no need to request this time off in Gusto as long as you won't be away for more than 2 hours. Please make sure your time is blocked off on your calendar and then log it in Harvest under TEN7 Time Off 2022 > Voting. 
+
+TEN7 will pay for your transportation costs to and from getting your voting place: bus, Uber, train, or miles on a car. Please submit your transportation costs/mileage to: receipts@ten7.com, and we'll reimburse you $0.56/mile. 
 
 ## Parental Leave
 
