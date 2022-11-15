@@ -21,20 +21,19 @@ TEN7 covers 99% of the employee's monthly premium through our group plan. Becaus
 
 #### Health Savings Account (HSA) Options
 If you choose an HSA compatible plan, you'll also receive an account with [Lively](https://livelyme.com/) so you are able to set up pre-tax deductions for your savings.
-* [2022: BlueAccess HSA Silver $4250 Plan 645 - (HDHP)](/assets/pdf/bcbs_blueaccess_hsa_silver_4250_plan_645_hdhp.pdf)
-* [2022: BlueAccess High Value HSA Gold $2500 Plan 558 - (HDHP)](/assets/pdf/bcbs_high_value_hsa_gold_2500_plan_558_hdhp.pdf)
+* [2023: BlueAccess HSA Silver $4850 Plan 645 - (HDHP)](/assets/pdf/bcbs_blueaccess_hsa_silver_4850_plan_645_hdhp.pdf)
+* [2023: BlueAccess High Value HSA Gold $2500 Plan 558 - (HDHP)](/assets/pdf/bcbs_high_value_hsa_gold_2500_plan_558_hdhp.pdf)
 
 #### Non-HSA Options
-* [2022: BlueAccess Silver $4000 Plan 626](/assets/pdf/bcbs_blueaccess_silver_4000_plan_626.pdf)
-* [2022: BlueAccess Gold $1000 Plan 637](/assets/pdf/bcbs_blueaccess_gold_1000_plan_637.pdf)
+* [2023: BlueAccess Gold $1000 Plan 637](/assets/pdf/bcbs_blueaccess_gold_1000_plan_637.pdf)
 
 ## Dental
 
-TEN7 covers 100% of the employee's monthly premium for [Delta Dental PPO plus Premier Dental Access](/assets/pdf/delta_delta_dental_ppo_plus_premier_dental_access.pdf). You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis.
+TEN7 covers 100% of the employee's monthly premium for [Guardian EM Dental 9A: MN](/assets/pdf/guardian_guardian_em_dental_9a_mn.pdf). You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis.
 
 ## Vision
 
-TEN7 covers 100% of the employee's monthly premium for group vision coverage on the [MN Premier Enhanced Eyewear Plan Opt II B](/assets/pdf/bcbs_mn_premier_enhanced_eyewear_plan_opt_ii_b.pdf) through Blue Cross Blue Shield.
+TEN7 covers 100% of the employee's monthly premium for group vision coverage on the [MN Premier Enhanced Eyewear Plan Opt II B](/assets/pdf/bcbs_mn_premier_enhanced_eyewear_plan_opt_ii_b (1).pdf) through Blue Cross Blue Shield.
 
 ## Life Insurance
 
