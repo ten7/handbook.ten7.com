@@ -33,7 +33,7 @@ TEN7 covers 100% of the employee's monthly premium for [Guardian EM Dental 9A: M
 
 ## Vision
 
-TEN7 covers 100% of the employee's monthly premium for group vision coverage on the [MN Premier Enhanced Eyewear Plan Opt II B](/assets/pdf/bcbs_mn_premier_enhanced_eyewear_plan_opt_ii_b (1).pdf) through Blue Cross Blue Shield.
+TEN7 covers 100% of the employee's monthly premium for group vision coverage on the [MN Premier Enhanced Eyewear Plan Opt II B](/assets/pdf/bcbs_mn_premier_enhanced_eyewear_plan_opt_ii_b_2023.pdf) through Blue Cross Blue Shield.
 
 ## Life Insurance
 
