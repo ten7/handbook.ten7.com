@@ -65,8 +65,6 @@ Being remote can be great (puppy time, yay!), but we also know it’s important 
 
 We hold weekly Friday coworking sessions over Zoom for those who want some company.
 
-For more information on working for a distributed company, read Yonder’s post [“The Anatomy of a Successful Remote Worker.”](https://www.yonder.io/post/anatomy-of-successful-remote-worker)
-
 ## Time Tracking
 
 We use JIRA for issue tracking, but we use Harvest for time tracking and — more importantly — client billing. If we make a code commit, the requirement is that there’s an issue in JIRA that maps to the corresponding Harvest project. It’s easy for us to stick to that, because if we make a code change and there isn't a Harvest entry associated with it, we can’t bill for it. We pull your hours and explanation of work and include it in the invoice to clients. Reporting is available at the account, project, team and user levels, which makes it invaluable for managing projects and client billing.
