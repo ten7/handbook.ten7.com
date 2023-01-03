@@ -24,7 +24,6 @@ We’ve put together an Onboarding Checklist that our Director of Operations, Da
 
 As a way to get to know each other, how about a few icebreaker questions? We use a service from [Know Your Team](https://knowyourteam.com/) to help us. It’s how we keep learning about each other, even though we’re distributed. You’ll receive an email from the service with instructions—don’t worry, it’s easy! And once you’ve answered the five questions, your answers will be shared with the team. You’ll receive a copy of what everyone else answered when they started, too.
 
-Additionally, Know Your Team sends out a company question every Wednesday and a social question every Friday. Each person’s answers are shared the following workday. We think it helps us keep a pulse on our culture. We take employee submissions for questions too—just send them to [hr@ten7.com](mailto:hr@ten7.com).
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjQ2Mjg5MzZdfQ==
 -->
