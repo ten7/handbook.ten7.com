@@ -37,14 +37,9 @@ We will provide you the details of your last paycheck and when to expect it (thi
 
 ### Turn in Your Stuff
 
-Within 14 days following your notice, please mail any TEN7 property and documents to:
+As part of your offboarding, we will provide a mailing address where we ask that you send any TEN7 property within 14 days following your notice.
 
-```
-TEN7
-9450 SW Gemini Dr #85756
-Beaverton OR 97008-7105
-```
-This may include things like laptops, cell phones, and other items purchased under the TEN7 tech stipend.
+This may include things like laptops, yubi keys, or other items purchased by TEN7.
 
 ### Exit Interview
 
