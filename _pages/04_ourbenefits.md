@@ -110,9 +110,11 @@ In addition to the 5 holidays below, TEN7 will be closed each year from Christma
 * Thanksgiving Day
 * Day after Thanksgiving Day
 
+You don't need to log holiday time off in Tempo.
+
 ## Flexible Fridays (FlexFri)
 
-In general, your schedule can be flexible. But on Fridays we make it official. We expect you to keep your priorities on track and meet your hours requirement in order to take advantage of Flexible Fridays. As a full-time employee, you’re required to work a minimum of 30 hours per week, and we trust you to log your hours in any cadence that works for you. 
+In general, your schedule can be flexible. But on Fridays we make it official. We expect you to keep your priorities on track and meet your billable hours requirement — as communicated by your manager — in order to take advantage of Flexible Fridays. As a full-time employee, you’re required to work a minimum of 30 hours per week, and we trust you to log your hours in any cadence that works for you. 
 
 - Depending on where you are in your hours requirement for the week, you can use Flexible Fridays to…
     - Work a full day, per usual
@@ -120,7 +122,7 @@ In general, your schedule can be flexible. But on Fridays we make it official. W
     - Work on a community contribution
     - Take the day off, as long as you’re still reachable by Slack or email
 
-If you know in advance that you’ll need a Friday off, please use your PTO.
+If you know in advance that you’ll need a Friday off, and you won't be reachable throughout the day, please use your PTO or Wellness Time.
 
 ## Paid Time Off (PTO)
 
@@ -138,7 +140,7 @@ In addition to your PTO days, you have two paid days off annually to use for pro
 
 In addition to the PTO you accrue, you also receive 6 Personal Wellness days (48h) on the first of every year. This is for time you need to take for anything health-related: doctors appointments, illness, mental health and rest.
 
-Beyond your Personal Wellness Time, TEN7 may give you a day off from time to time if we know you've been working more than usual or a big site just launched. You can log this time in Harvest under the TEN7 Time Off project using the task "Misc. Time Off," and it will not count against your PTO or Personal Wellness Time.
+Beyond your Personal Wellness Time, TEN7 may give you a day off from time to time if we know you've been working more than usual or a big site just launched. You can log this time in Harvest under the "Time Off: Misc." initiative with issue ID INT-35 in Tempo, and it will not count against your PTO or Personal Wellness Time.
 
 ## Personal Leave of Absence
 
@@ -174,7 +176,7 @@ TEN7 will pay for your transportation costs to and from getting your voting plac
 
 ## Parental Leave
 
-As a new parent, it’s important that you have time to spend with the new addition to your family. That’s why all new parents who’ve worked at TEN7 for 180 days may take two weeks paid parental leave. How you schedule the two weeks around the birth is up to you. You may then use accumulated PTO and Short Term Disability for additional paid time off, up to 12 weeks. 
+As a new parent, it’s important that you have time to spend with the new addition to your family. That’s why all new parents who’ve worked at TEN7 for 180 days may take two weeks paid parental leave. How you schedule the two weeks around the birth is up to you. You may then use accumulated PTO and Short Term Disability for additional paid time off, up to 12 weeks in total. 
 
 ## Sabbatical
 
@@ -212,8 +214,8 @@ To request time off, you will log in to your Gusto account and enter the dates n
 
 Once you receive an email that your request has been approved, a calendar invite will automatically be set up for you, so everyone else can see you'll be out. 
 
-If you need to edit or delete your PTO request, adjust the Gusto request.
+If you need to edit or delete your PTO request, you can do that in Gusto.
 
-### Logging PTO in Harvest
+### Logging time off in Tempo
 
-Log your PTO time using the "TEN7 Time Off" project in Harvest, and select the appropriate task depending on why you're taking the time off. 
+Log your time off using one of the "Time Off" initiatives in Tempo. There are six in total with issue IDs INT-1 thru INT-6, depending on the type of time off you're logging. 
