@@ -16,7 +16,7 @@ It took some trial and error, but we have this distributed office thing down. We
 
 ### Flexible Hours
 
-We typically work during normal business hours: 9 a.m. to 5 p.m.-ish CST. That’s a big “ish.” We trust each other to put in a minimum of 30 hours per week, whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, make sure you're meeting the 30 hour minimum as a full-time employee, and keep everyone apprised of your status on Slack. Please note: We all have different _billable_ hours expectations depending on our role; please talk with Dani if you're unclear on your specific hours expectation.
+We typically work during normal business hours: 9 a.m. to 5 p.m.-ish CST. That’s a big “ish.” We trust each other to put in a minimum of 30 hours per week, whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, make sure you're meeting the 30 hour minimum as a full-time employee, and keep everyone apprised of your status on Slack. Please note: We all have different _billable_ hours expectations depending on our role; please talk with your direct manager if you're unclear on your specific hours expectation.
 
 ### Side Jobs
 
@@ -67,13 +67,13 @@ We hold weekly Friday coworking sessions over Zoom for those who want some compa
 
 ## Time Tracking
 
-We use JIRA for issue tracking, but we use Harvest for time tracking and — more importantly — client billing. If we make a code commit, the requirement is that there’s an issue in JIRA that maps to the corresponding Harvest project. It’s easy for us to stick to that, because if we make a code change and there isn't a Harvest entry associated with it, we can’t bill for it. We pull your hours and explanation of work and include it in the invoice to clients. Reporting is available at the account, project, team and user levels, which makes it invaluable for managing projects and client billing.
+We use JIRA for issue tracking, and we use Tempo (integrated with Jira) for time tracking and — more importantly — client billing. If we make a code commit, the requirement is that there’s an issue in JIRA that maps to the corresponding Tempo client account. It’s easy for us to stick to that, because if we make a code change and there isn't a Tempo account associated with it, we can’t bill for it. We pull your hours and explanation of work and include it in the invoice to clients. Reporting is available at the account, project, team and user levels, which makes it invaluable for managing projects and client billing.
 
-Time entry is important. And accurate time entry is even more important. We challenge each other to enter time daily (ideally using the built-in Harvest timer) to ensure accuracy. While tracking billable hours for clients are crucial, it’s also important to accurately log time spent on internal TEN7 work, such as meetings and administrative tasks. We’re always looking for ways to become more efficient and accountable, and time tracking helps us do that.
+Time entry is important. And accurate time entry is even more important. We challenge each other to enter time daily (ideally using the built-in Tempo timer) to ensure accuracy. While tracking billable hours for clients are crucial, it’s also important to accurately log time spent on internal TEN7 work, such as meetings and administrative tasks. We’re always looking for ways to become more efficient and accountable, and time tracking helps us do that.
 
 ### Workweek Time Period
 
-Use Harvest to submit your hours (including any paid time off) on a weekly basis. The Harvest workweek starts on Sunday at 12:00:00 a.m. and ends on Saturday 11:59:59 p.m. Please submit your hours by first thing Monday morning, at least before the staff meeting at 9:30 a.m. CST.
+Use Tempo to submit your hours (including any paid time off) on a weekly basis. The Tempo workweek starts on Monday at 12:00:00 a.m. and ends on Sunday at 11:59:59 p.m. Please submit your hours by Monday afternoon.
 
 ### Billable Time Expectations
 
@@ -81,7 +81,7 @@ The workweek is split up into the following buckets:
 
 #### Billable Client Hours
 
-If your role primarily involves working on client projects, you should log around 30 billable hours per week. Sometimes, billable work on internal projects where TEN7 is the client is approved, such as development work on the ten7.com website. 
+If your role primarily involves working on client projects, you should log around 30 billable hours per week. We all have different _billable_ hours expectations depending on our role. Sometimes, billable work on internal projects where TEN7 is the client is approved, such as development work on the ten7.com website. 
 
 #### Internal Hours
 
@@ -100,9 +100,9 @@ We’re all adults, and we trust each other to use good judgment.
 We hope you’ll spend 10% of your workweek giving back to the community by contributing your talents—whether design, development, content or otherwise—to open source projects.
 
 
-### Harvest Project for Internal Tasks
+### Tempo Ticket for Internal Tasks
 
-Most internal hours should be tracked to tasks under the TEN7 Company Operations project in Harvest. As always, ask if you have questions on how to do this!
+Most internal hours should be tracked to your department's Admin task (e.g. Operations: Admin or Development: Admin) in Tempo. As always, ask if you have questions on how to do this!
 
 ## Meetings
 
@@ -112,7 +112,7 @@ We have a weekly company meeting each Monday at 9:30 a.m. CST. Ivan will share u
 
 You'll also likely have a daily [standup](https://en.wikipedia.org/wiki/Stand-up_meeting), depending on which projects you're working on. 
 
-Wednesdays are meeting-free, focus days. We try to keep Fridays as clear as possible, too.
+Wednesdays are typically meeting-free, focus days. We try to keep Fridays as clear as possible, too.
 
 ## Money Things
 
