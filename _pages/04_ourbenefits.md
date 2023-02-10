@@ -176,7 +176,13 @@ TEN7 will pay for your transportation costs to and from getting your voting plac
 
 ## Parental Leave
 
-As a new parent, it’s important that you have time to spend with the new addition to your family. That’s why all new parents who’ve worked at TEN7 for 180 days may take two weeks paid parental leave. How you schedule the two weeks around the birth is up to you. You may then use accumulated PTO and Short Term Disability for additional paid time off, up to 12 weeks in total. 
+As a new parent, it’s important that you have time to spend with the new addition to your family. That’s why all new parents who’ve worked at TEN7 for 180 days may take two weeks paid parental leave. How you schedule the two weeks around the birth or adoption is up to you. You may then use accumulated PTO, Short Term Disability or your state's parental leave benefit for additional paid time off, up to 12 weeks in total. 
+
+Requests for Parental Leave **must be made in writing** to the CEO and the Director of Operations. You should indicate the length of leave you’re requesting, including the dates you plan to be away. 
+
+Please note: 
+- All of your benefits will remain active during your leave.
+- Provided you return to work within 12 weeks of when your leave started, you'll have your same or similar position with equal pay and seniority when you return.
 
 ## Sabbatical
 
