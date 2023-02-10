@@ -126,7 +126,7 @@ If you know in advance that you’ll need a Friday off, and you won't be reachab
 
 ## Paid Time Off (PTO)
 
-PTO is time for rest, travel and stepping away from your computer. Upon hire, you’ll accrue paid time off at a rate of 0.25 days per week worked, which is equivalent to 13 days annually. 
+PTO is time requested at least 2 weeks in advance for rest, travel and stepping away from your computer. Upon hire, you’ll accrue paid time off at a rate of 0.25 days per week worked, which is equivalent to 13 days annually. 
 
 * You may use PTO for vacation, personal days and sick days.
 * PTO requests should be in increments of 4 hours, or 1/2 day. If you need to take off less than 1/2 a day, there's no need to request that time as PTO. We trust that you'll make up the time later in the week. Although you accrue PTO hours throughout the year, it is not meant to be requested on an hourly basis, but rather on a daily or half-daily basis. 
