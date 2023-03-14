@@ -14,9 +14,13 @@ TEN7 is a completely distributed company; we have no central office space. Thoug
 
 It took some trial and error, but we have this distributed office thing down. We depend on several tools to help us communicate and be virtually present for each other. The most important rule of thumb is that it’s better to over communicate than under communicate. Post on Slack, share your status in the #attendance channel, jump on Zoom (preferably using video)—do whatever you need to in order to be virtually known.
 
+### Canonical Time Zone
+
+Our canonical time zome is CST, which means that we expect that business is done sometime during CST hours. We're also a flexible company and work to accommodate each other's schedules across time zones. 
+
 ### Flexible Hours
 
-We typically work during normal business hours: 9 a.m. to 5 p.m.-ish CST. That’s a big “ish.” We trust each other to put in a minimum of 30 hours per week, whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, make sure you're meeting the 30 hour minimum as a full-time employee, and keep everyone apprised of your status on Slack. Please note: We all have different _billable_ hours expectations depending on our role; please talk with your direct manager if you're unclear on your specific hours expectation.
+We trust each other to put in somewhere between 32-40 hours per week, depending on the week — whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, make sure you're meeting the 32 hour minimum as a full-time employee, and keep everyone apprised of your status on Slack. Please note: We all have different _billable_ hours expectations depending on our role; please talk with your direct manager if you're unclear on your specific hours expectation.
 
 ### Side Jobs
 
