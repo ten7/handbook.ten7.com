@@ -8,7 +8,7 @@ opener: Chapter 2 of 8
 # next_title: 
 ---
 
-[TEN7](https://ten7.com/) is a values drive web design and Drupal development agency whose mission is to [Make Things That Matter](https://ten7.com/mission). We provide strategy, design, development and support services and have deep expertise in Drupal. We value being on a team that is honest, inclusive, open and mindful. We promise to always lead with empathy.
+[TEN7](https://ten7.com/) is a values driven web design and Drupal development agency whose mission is to [Make Things That Matter](https://ten7.com/mission). We provide strategy, design, development and support services and have deep expertise in Drupal. We value being on a team that is honest, inclusive, open and mindful. We promise to always lead with empathy.
 
 We asked our team to share what they would go back and tell themselves as a new hire at TEN7. Here is what a few of us said:
 
