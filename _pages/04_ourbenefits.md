@@ -46,13 +46,9 @@ TEN7 covers 100% of the employee's monthly premium for [short-term disability co
 
 ## 401(k)
 
-Upon hire, you can opt in to our 401(k) plan that has a 4% match, and no vesting period. You can also [roll over funds](https://success.guideline.com/hc/en-us/articles/360007550292-Rollover-other-accounts-into-your-Guideline-401-k-) from other eligible accounts. When determining your 401(k) contribution amount, take into account what you’ve contributed during the calendar year so far, so you don’t go over the IRS contribution maximum.
+Upon hire, you can opt in to our 401(k) plan that has a 4% match, and no vesting period. You can also [roll over funds](https://success.guideline.com/helpcenter/s/article/rollover-retirement-account-to-Guideline) from other eligible accounts. When determining your 401(k) contribution amount, take into account what you’ve contributed during the calendar year so far, so you don’t go over the IRS contribution maximum.
 
 [Guideline](https://www.guideline.com/) can help you with 401(k) issues as well.
-
-## Gusto Cashout
-
-This is a free, no-fee way to access up to $500 between paydays. Use [Cashout](https://app.gusto.com/ten-7-interactive-llc/employee/cashout/overview) to cover an unexpected expense or manage large bills.
 
 ## Technology
 
@@ -112,17 +108,9 @@ In addition to the 5 holidays below, TEN7 will be closed each year from Christma
 
 You don't need to log holiday time off in Tempo.
 
-## Flexible Fridays (FlexFri)
+## Flexibility
 
-In general, your schedule can be flexible. But on Fridays we make it official. We expect you to keep your priorities on track and meet your billable hours requirement — as communicated by your manager — in order to take advantage of Flexible Fridays. As a full-time employee, you’re required to work a minimum of 30 hours per week, and we trust you to log your hours in any cadence that works for you. 
-
-- Depending on where you are in your hours requirement for the week, you can use Flexible Fridays to…
-    - Work a full day, per usual
-    - Work a partial day
-    - Work on a community contribution
-    - Take the day off, as long as you’re still reachable by Slack or email
-
-If you know in advance that you’ll need a Friday off, and you won't be reachable throughout the day, please use your PTO or Wellness Time.
+In general, your schedule can be flexible. We expect you to keep your priorities on track and meet your billable hours requirement — as communicated by your manager — in order to take advantage of schedule flexibility. As a full-time employee, you’re required to work somewhere between 32-40 hours per week (it'll vary depending on the week), and we trust you to log your hours in any cadence that works for you. 
 
 ## Paid Time Off (PTO)
 
@@ -132,15 +120,13 @@ PTO is time requested at least 2 weeks in advance for rest, travel and stepping 
 * PTO requests should be in increments of 4 hours, or 1/2 day. If you need to take off less than 1/2 a day, there's no need to request that time as PTO. We trust that you'll make up the time later in the week. Although you accrue PTO hours throughout the year, it is not meant to be requested on an hourly basis, but rather on a daily or half-daily basis. 
 * If you request time off on a particular day and you end up working for part of that day (ex. you request 8 hours off on a Monday but for whatever reason you work for 2 hours that day), please feel free to take off a couple hours early later in the week to make sure you recoup your PTO, as it can't be added back to your total accrual after the fact. 
 * If you need more paid time off than you’ve earned, it’s okay for you to take a few days in advance of earning them, as long as it’s approved beforehand.
-* Any PTO you have remaining at the end of the year will roll over to the following year and will continue to accrue only until you've reached your avaialable maximum. As an example, let's say you have 10 days of available PTO per year. If, at the end of X year, you have 5 days remaining, those 5 days will roll over to the following year and will continue to accrue until you've accrued 10 total days for that year (your maximum).
+* Any PTO you have remaining at the end of the year will roll over to the following year and will continue to accrue only until you've reached your avaialable maximum. As an example, let's say you have 13 days of available PTO per year. If, at the end of X year, you have 5 days remaining, those 5 days will roll over to the following year and will continue to accrue until you've accrued 13 total days for that year (your maximum).
 
 In addition to your PTO days, you have two paid days off annually to use for professional development. You can find additional details about this in the Professional Development section of this handbook.
 
 ## Personal Wellness Time
 
 In addition to the PTO you accrue, you also receive 6 Personal Wellness days (48h) on the first of every year. This is for time you need to take for anything health-related: doctors appointments, illness, mental health and rest.
-
-Beyond your Personal Wellness Time, TEN7 may give you a day off from time to time if we know you've been working more than usual or a big site just launched. You can log this time in Harvest under the "Time Off: Misc." initiative with issue ID INT-35 in Tempo, and it will not count against your PTO or Personal Wellness Time.
 
 ## Personal Leave of Absence
 
@@ -164,13 +150,13 @@ Please note:
 
 ## Vaccinations
 
-When it's time to get vaccinated — for COVID, the flu, or MMR — please take the time you need to do so. There's no need to request this time off in Gusto as long as you won't be away for more than 2 hours. Please make sure your time is blocked off on your calendar and then log it in Harvest under TEN7 Time Off 2022 > Vaccinations. 
+When it's time to get vaccinated — for COVID, the flu, or MMR — please take the time you need to do so. There's no need to request this time off in Gusto as long as you won't be away for more than 2 hours. Please make sure your time is blocked off on your calendar and then log it in Tempo under INT-32 Time Off: Misc.
 
 TEN7 will pay for your transportation costs to and from getting your vaccination: bus, Uber, train, or miles on a car. Please submit your transportation costs/mileage to: receipts@ten7.com, and we'll reimburse you $0.56/mile. 
 
 ## Voting
 
-During election years — mid-terms and general election — please take the time you need to vote. There's no need to request this time off in Gusto as long as you won't be away for more than 2 hours. Please make sure your time is blocked off on your calendar and then log it in Harvest under TEN7 Time Off 2022 > Voting. 
+During election years — mid-terms and general election — please take the time you need to vote. There's no need to request this time off in Gusto as long as you won't be away for more than 2 hours. Please make sure your time is blocked off on your calendar and then log it in Tempo under INT-32 Time Off: Misc.
 
 TEN7 will pay for your transportation costs to and from getting your voting place: bus, Uber, train, or miles on a car. Please submit your transportation costs/mileage to: receipts@ten7.com, and we'll reimburse you $0.56/mile. 
 
@@ -190,11 +176,12 @@ We’re excited to offer paid sabbatical leave to long-term TEN7 employees. Afte
 
 ## Bereavement
 
-In the unfortunate event that you experience the loss of a family member or friend, TEN7 will pay for up to three days of leave.
+In the unfortunate event that you experience the loss of a family member or friend, TEN7 will pay for up to three days of leave. Please make sure to request the time off in Gusto and then log it in Tempo under INT-5 Time Off: Bereavement.
 
 ## Jury Duty
 
-If you’re called to serve on a jury, you’ll receive your full pay for up to five days while you’re serving. However, if jury duty runs longer than five days, TEN7 won’t cover your pay starting on the sixth business day of jury duty.
+If you’re called to serve on a jury, you’ll receive your full pay for up to five days while you’re serving. However, if jury duty runs longer than five days, TEN7 won’t cover your pay starting on the sixth business day of jury duty. Please make sure to request the time off in Gusto and then log it in Tempo under INT-6 Time Off: Jury Duty.
+
 
 ## Professional Development
 
@@ -210,7 +197,7 @@ Examples of appropriate uses of the stipend:
 * Books or other educational materials related to your job 
 
 ### Conferences
-If you are presenting at a conference or other event as a TEN7 representative, you can log up to 20 hours of time under the TEN7 Growth project in Harvest for the time you need to prepare for your presentation. 
+If you are presenting at a conference or other event as a TEN7 representative, you can log up to 20 hours of time under issue INT-4 Growth: Admin in Tempo for the time you need to prepare for your presentation. 
 
 ## Planning for Time Off
 
