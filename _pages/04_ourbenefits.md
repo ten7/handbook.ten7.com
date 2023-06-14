@@ -17,7 +17,7 @@ For health coverage, you're welcome to participate in TEN7’s pre-tax group hea
 
 
 ### TEN7’s Group Health Insurance
-TEN7 covers 99% of the employee's monthly premium through our group plan. Because of a silly insurance rule, this is the highest we can cover. But, we make up the extra 1% as an addition to your paycheck. You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis. When selecting Group Health, you have the option to choose one of four available plans (all PPO):
+TEN7 covers 99% of the employee's monthly premium through our group plan. Because of a silly insurance rule, this is the highest we can cover. But, we make up the extra 1% as an addition to your paycheck. You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis. When selecting Group Health, you have the option to choose one of the following plans:
 
 #### Health Savings Account (HSA) Options
 If you choose an HSA compatible plan, you'll also receive an account with [Lively](https://livelyme.com/) so you are able to set up pre-tax deductions for your savings.
@@ -126,7 +126,7 @@ In addition to your PTO days, you have two paid days off annually to use for pro
 
 ## Personal Wellness Time
 
-In addition to the PTO you accrue, you also receive 6 Personal Wellness days (48h) on the first of every year. This is for time you need to take for anything health-related: doctors appointments, illness, mental health and rest.
+In addition to the PTO you accrue, you also receive 6 Personal Wellness days (48h) annually, on the anniversary of your employment. This is for time you need to take for anything health-related: doctors appointments, illness, mental health and rest.
 
 ## Personal Leave of Absence
 
