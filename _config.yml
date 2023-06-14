@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Employee Handbook"
-subtitle: "Version 2.1.15, 05/02/23"
+subtitle: "Version 2.1.16, 06/14/23"
 
 nav:
   - title: "Start Here"
