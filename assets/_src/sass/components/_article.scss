@@ -6,7 +6,7 @@
 	margin: 0 auto 2.5rem;
 	padding: 3.75rem;
 	position: relative;
-	
+
 	h1 {
 		color: $color-mediumpurple;
 		font-family: $font-family;
@@ -17,7 +17,7 @@
 		line-height: 105%;
 		text-align: left;
 	}
-	
+
 	h2 {
 		color: $color-mediumpurple;
 		font-family: $font-family;
@@ -50,7 +50,7 @@
 		line-height: 106%;
 		text-align: left;
 		text-transform: uppercase;
-	}	
+	}
 
 	p,
 	li,
@@ -80,11 +80,23 @@
 	}
 }
 
+.post-content a {
+	text-decoration: underline;
+
+	&:hover {
+		text-decoration: underline;
+	}
+
+	&:visited {
+		text-decoration: underline;
+	}
+}
+
 .post-content > ul > li {
 	list-style: none;
 }
 
-.post-content>ul>li::before {
+.post-content > ul > li::before {
 	color: $color-electricpurple;
 	content: '•';
 	display: inline-block;
@@ -129,7 +141,7 @@ li > ul > li::before {
 			line-height: 105%;
 			text-align: left;
 		}
-	
+
 		h2 {
 			font-size: 1.5rem;
 			letter-spacing: 0.5px;

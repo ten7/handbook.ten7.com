@@ -99,11 +99,11 @@ body {
 
 a {
 	color: $link-color;
-	text-decoration: underline;
+	text-decoration: none;
 
 	&:hover {
 		color: $link-hover;
-		text-decoration: underline;
+		text-decoration: none;
 	}
 
 	&:visited {

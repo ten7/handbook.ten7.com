@@ -22,14 +22,14 @@ If you are trying to run this from a MAC M1 (arm64 processor), you may have to
 go through these steps at your root:
 
 1. make sure you have Homebrew
-2. run `ruby --verion` if nothing some up run `brew install ruby@3.0`
+2. run `ruby --version` if nothing some up run `brew install ruby@3.0`
 3. once ruby is installed, run `gem install --user-install bundler jekyll`
-4. if you get an error about evventmachine (1.2.7), run
+4. if you get an error about eventmachine (1.2.7), run
    `gem install eventmachine -v '1.2.7' --source 'https://rubygems.org/'` at
    your **root** and a second time at the **project root**,
 5. `bundle config set --local path 'vendor/bundle'`
 6. `bundle install`
-7. `bundle exec jekyll s.` (to get you Jekyll site up locally, and in file watch
+7. `bundle exec jekyll s` (to get your Jekyll site up locally, and in file watch
    mode)
 8. `npm install`
 9. Get the Jekyll site up locally: `npm run dev`

@@ -52,9 +52,16 @@ nav:
           url: "/legalese.html"
 
 # Build settings
-theme: minima
+# theme: TBD
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+
+collections:
+  pages:
+    output: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -63,14 +70,21 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - assets/_src/
+  - Gemfile
+  - Gemfile.lock
+  - imagemin.js
+  - LICENSE
+  - node_modules/
+  - npm-debug.log
+  - package.json
+  - package-lock.json
+  - README.md
+  - tsconfig.json
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - webpack.config.js
+  - yarn.lock
