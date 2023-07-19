@@ -128,6 +128,15 @@ In addition to your PTO days, you have two paid days off annually to use for pro
 
 In addition to the PTO you accrue, you also receive 6 Personal Wellness days (48h) annually, on the anniversary of your employment. This is for time you need to take for anything health-related: doctors appointments, illness, mental health and rest.
 
+## Mental Wellness Stipend
+
+In addition to time off for Personal Wellness, you'll receive a $100 annual stipend to use toward a mental wellness app of your choice. Examples include: Headspace, Calm or BetterHelp Therapy. 
+
+The stipend is not considered cash — it is an annual budget available to you that expires and renews at the end of each 1-year period. Please use your personal credit card for any item you want to purchase and submit the receipt for reimbursement via Compt within 60 days of the date on your receipt. If for any reason it's not possible for you to purchase the item on your own, please talk with Dani before you purchase. Please note: 
+
+* Compt submissions get approved on the Tuesday of every pay week. If you have submitted your expenses by then, they'll show up on your next paycheck.
+* Because this stipend is a budget rather than cash, you are not owed any remaining balance if you leave the company for any reason.
+
 ## Personal Leave of Absence
 
 If you need time off in addition to Paid Time Off and Personal Wellness time, and you’ve been employed with TEN7 for at least 12 months, you can request an unpaid personal leave of absence for up to a maximum of 13 weeks. Requests for unpaid personal leave **must be made in writing** to the CEO and the Director of Operations. You should indicate the reason and the length of leave you’re requesting, including the dates you will be away. Your request will be reviewed with the following factors in mind:
