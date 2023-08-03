@@ -11,15 +11,16 @@ This handbook is open source and licensed under the
 [fork the repo](https://github.com/ten7/handbook.ten7.com) and use this for your
 own organization.
 
+## Installing locally
+
 To get running, clone the repo, then:
 
 - `npm install`
 - `npm run dev`
 
-## To run on an Mac with an arm64 processor (M1)
 
-If you are trying to run this from a MAC M1 (arm64 processor), you may have to
-go through these steps at your root:
+If you are trying to run this from a MAC M1 (arm64 processor), you might be run
+into some issues. Here are a few things to try to resolve things we've seen before:
 
 1. Make sure you have Homebrew
 2. Run `ruby --version` and if nothing comes up, then run `brew install ruby@3.0`
@@ -35,11 +36,8 @@ go through these steps at your root:
 9. Get the Jekyll site up locally: `npm run dev`
 
 Sould you run into issues restarting the Jekyll server, you might have to re-run
-steps 4-9.
+steps 4-9. Here's a video resource that might help: https://www.youtube.com/watch?v=UKB9ylw0G4U
 
-Resource: https://www.youtube.com/watch?v=UKB9ylw0G4U
-
-### Result
-
-You should be able to see the site at: backend: http://localhost:3001 frontend:
-http://localhost:4000
+You should be able to see the site at: 
+* http://localhost:3001 for the backend
+* http://localhost:4000 for the frontend
