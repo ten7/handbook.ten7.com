@@ -2,7 +2,7 @@
 layout: page
 title: Our Culture 
 permalink: /ourculture.html
-opener: Chapter 3 of 8
+opener: Chapter 3 of 9
 # Footer cards title control
 # back_title:
 # next_title: 

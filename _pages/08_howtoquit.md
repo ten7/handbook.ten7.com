@@ -2,7 +2,7 @@
 layout: page
 title: How To Quit
 permalink: /howtoquit.html
-opener: Chapter 7 of 8
+opener: Chapter 8 of 9
 # Footer cards title control
 # back_title:
 # next_title: 

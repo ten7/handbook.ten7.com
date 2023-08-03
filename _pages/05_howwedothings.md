@@ -2,7 +2,7 @@
 layout: page
 title: How We Do Things
 permalink: /howwedothings.html
-opener: Chapter 5 of 8
+opener: Chapter 5 of 9
 # Footer cards title control
 # back_title:
 # next_title: 

@@ -2,7 +2,7 @@
 layout: page
 title: Who We Are
 permalink: /whoweare.html
-opener: Chapter 2 of 8
+opener: Chapter 2 of 9
 # Footer cards title control
 # back_title:
 # next_title: 

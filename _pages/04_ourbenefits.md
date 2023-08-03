@@ -2,7 +2,7 @@
 layout: page
 title: Our Benefits
 permalink: /ourbenefits.html
-opener: Chapter 4 of 8
+opener: Chapter 4 of 9
 # Footer cards title control
 # back_title:
 # next_title: 

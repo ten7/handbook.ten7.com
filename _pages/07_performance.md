@@ -2,7 +2,7 @@
 layout: page
 title: Performance
 permalink: /performance.html
-opener: Chapter 6 of 8
+opener: Chapter 7 of 9
 # Footer cards title control
 # back_title:
 # next_title: 
