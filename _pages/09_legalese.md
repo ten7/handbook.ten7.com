@@ -2,7 +2,7 @@
 layout: page
 title: Legalese
 permalink: /legalese.html
-opener: Chapter 8 of 8
+opener: Chapter 9 of 9
 # Footer cards title control
 # back_title:
 # next_title: 
