@@ -55,6 +55,10 @@ Any form of retaliation or reprisal against an individual who reports or assists
 
 TEN7 is required to comply with its legal obligation to employ only United States citizens and aliens who are authorized to work in the United States. We do not unlawfully discriminate based on citizenship or national origin. Each new team member, as a condition of employment, must complete the Employment Eligibility Verification Form I-9 and present documentation establishing identity and employment eligibility. Former team members who are rehired must also complete the form if they have not completed an I-9 with TEN7 within the past three years, or if their previous I-9 is no longer retained or valid.
 
+## E-verify
+TEN7 participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S.
+If E-Verify can't confirm that you're authorized to work, TEN7 is required to give you written instructions and an opportunity to contact the Department of Homeland Security (DHS) or Social Security Administration (SSA) so you can take steps to resolve the issue. If the issue is not resolved in the required time, this may be cause for termination. TEN7 is only authorized to use E-Verify once you've accepted a job offer and completed the Form I-9.
+
 ## Personnel File Access Policy
 
 TEN7 keeps personnel files on all team members. The personnel files include employment-related documentation such as your resume, wage or salary history, direct deposit information, health insurance information, PTO records, and background check information.
