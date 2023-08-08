@@ -22,7 +22,9 @@ All expenses must be approved in advance by our Director of Operations.  Reques
 
 ### Cancellations/No-Shows
 
-Any cancellations must have prior approval; otherwise employees must reimburse TEN7 for paid expenses. In the case of a travel cancellation, where credit is provided in lieu of a refund, the credit should be applied toward the next business trip or transferred to TEN7. The credit may also be paid as cash to TEN7 directly if it is associated with a personal account.
+Any cancellations must have prior approval; otherwise employees must reimburse TEN7 for paid expenses. In the case of a travel cancellation, where credit is provided in lieu of a refund, the credit should be transferred to TEN7. The credit may also be paid as cash to TEN7 directly if it is associated with a personal account.
+
+Employees are responsible for any no-shows or otherwise missed transportation (flight, train, etc.) to a work event and must reimburse TEN7 for any associated non-refundable fees for transportation and accommodations (hotels, home stays, etc.). If this happens due to a circumstance out of your control, please talk with our Director of Operations, and we'll work with you to do what's fair.
 
 ### Airfare
 
