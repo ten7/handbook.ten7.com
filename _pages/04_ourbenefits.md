@@ -206,7 +206,7 @@ Examples of appropriate uses of the stipend:
 * Books or other educational materials related to your job 
 
 ### Conferences
-If you are presenting at a conference or other event as a TEN7 representative, you can log up to 20 hours of time under issue INT-4 Growth: Admin in Tempo for the time you need to prepare for your presentation. 
+If you are presenting at a conference or other event as a TEN7 representative, you can log up to 12 hours of time under issue INT-4 Growth: Admin in Tempo for the time you need to prepare for your presentation. 
 
 ## Planning for Time Off
 
