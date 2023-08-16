@@ -52,7 +52,6 @@ Here’s a cheat sheet for our most commonly used channels:
 * **\#general:** Mainly used for general company info and team reminders.
 * **\#random:** This is the distributed office water cooler; it’s used for, well, the most random things you can imagine! Check out what’s going on in #random when you’re working—there’s almost always something funny going on, and it’s a great chance to chat with and get to know other team members.
 * **Project channels:** Project channels are used internally to discuss work on client projects. If you’re working on client projects, you’ll be invited to each project’s channel. Channel names always use the client shortcode as the name. For example, **\#ahs** is the channel dedicated to Animal Humane Society.
-* **TEN7 Support channels:** These are project channels that the client has access to. Names start with **\#support-ten7**.
 * **Shared channels:** Sometimes a client or a TEN7 partner has their own Slack account, so we’ll connect our accounts together in a shared Slack channel. You'll know it's a shared channel by the double-diamond shape in the channel name.
 
 To learn more about how we use Slack, listen to our podcast episode [“Blueprint Series #2: Slack.”](https://ten7.com/podcast/episode/blueprint-series-2-slack)
@@ -131,6 +130,8 @@ We use [Gusto](https://gusto.com/) to keep track of payroll - you’ll receive a
 We've written about the complete list of tools we use in a post titled [TEN7’s Tech Stack](https://t7.io/techstack) that you should read. We also [keep a list](https://t7.io/tools) of the most up-to-date stack as [a public Notion page](https://t7.io/tools) as well. 
 
 We ask that you please keep all TEN7 tools and their contents separate from any personal tools you might use. Please avoid using your personal email inbox for TEN7 purposes or connecting any personal tools with those of TEN7.
+
+Please also avoid storing anything personal on TEN7 services (example: Google Drive, Google Calendar or Google Contacts). Anything stored on TEN7 services is property of TEN7. 
 
 
 ## Website Accessibility
