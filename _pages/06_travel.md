@@ -92,5 +92,5 @@ Additional costs for travel, lodging, meal or other travel expenses for spouses 
 - Laundry and dry cleaning
 - Toiletries or personal products
 - In-Room and on-flight entertainment (e.g. movies, health club facilities, incidental costs)
-- Minbar or in-room charges
+- Minibar or in-room charges
 - Other expenses not directly related to the business travel
