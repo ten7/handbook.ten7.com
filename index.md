@@ -8,7 +8,7 @@ opener: Introduction
 
 Your first day can be intimidating and full of unknowns. Trust us, we’ve all been there. You’re in a safe space. We’re here to help you get acclimated to TEN7, the team, and how we work.
 
-This handbook is divided into eight sections. We hope you'll read them all. Please tell us you did so by signing the acknowledgement.
+This handbook is divided into eight sections. We hope you'll read them all. 
 
 * [Welcome!](/welcome.html)
 * [Who We Are](/whoweare.html)
