@@ -98,11 +98,6 @@ The remaining hours of your day could be spent on activities such as:
 
 We’re all adults, and we trust each other to use good judgment.
 
-#### Giving Back to Open Source Projects
-
-We hope you’ll spend 10% of your workweek giving back to the community by contributing your talents—whether design, development, content or otherwise—to open source projects.
-
-
 ### Tempo Ticket for Internal Tasks
 
 Most internal hours should be tracked to your department's Admin task (e.g. Operations: Admin or Development: Admin) in Tempo. As always, ask if you have questions on how to do this!
