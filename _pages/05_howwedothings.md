@@ -84,7 +84,7 @@ The workweek is split up into the following buckets:
 
 #### Billable Client Hours
 
-If your role primarily involves working on client projects, you should log around 30 billable hours per week. We all have different _billable_ hours expectations depending on our role. Sometimes, billable work on internal projects where TEN7 is the client is approved, such as development work on the ten7.com website. 
+If your role primarily involves working on client projects, you should log 32 billable hours per week. We all have different _billable_ hours expectations depending on our role. Sometimes, billable work on internal projects where TEN7 is the client is approved, such as development work on the ten7.com website. 
 
 #### Internal Hours
 
