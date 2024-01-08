@@ -20,7 +20,7 @@ Our canonical time zome is CST, which means that we expect that business is done
 
 ### Flexible Hours
 
-We trust each other to put in somewhere between 32-40 hours per week, depending on the week — whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, make sure you're meeting the 32 hour minimum as a full-time employee, and keep everyone apprised of your status on Slack. Please note: We all have different _billable_ hours expectations depending on our role; please talk with your direct manager if you're unclear on your specific hours expectation.
+We trust each other to put in somewhere between 32-40 hours per week, depending on the week — whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, make sure you're meeting the 32 hour minimum as a full-time employee, and keep everyone apprised of your status on Slack. Please note: We all have different amounts of planned _billable_ hours depending on our role; please talk with your direct manager if you're unclear on your number of planned hours.
 
 ### Side Jobs
 
@@ -66,8 +66,6 @@ Another thing that Zoom conferencing is great for is screen sharing. We share sc
 
 Being remote can be great (puppy time, yay!), but we also know it’s important to come together in person. If you live close to another TEN7 team member, we encourage you to grab a coffee or a meal together! Otherwise, we have in-person meet-ups a few times a year. Sometimes it will be a working session and other times it will be a meal, because we all understand the importance of good food (by the way, check out the **\#food** Slack channel).
 
-We hold weekly Friday coworking sessions over Zoom for those who want some company.
-
 ## Time Tracking
 
 We use JIRA for issue tracking, and we use Tempo (integrated with Jira) for time tracking and — more importantly — client billing. If we make a code commit, the requirement is that there’s an issue in JIRA that maps to the corresponding Tempo client account. It’s easy for us to stick to that, because if we make a code change and there isn't a Tempo account associated with it, we can’t bill for it. We pull your hours and explanation of work and include it in the invoice to clients. Reporting is available at the account, project, team and user levels, which makes it invaluable for managing projects and client billing.
@@ -78,13 +76,13 @@ Time entry is important. And accurate time entry is even more important. We chal
 
 Use Tempo to submit your hours (including any paid time off) on a weekly basis. The Tempo workweek starts on Monday at 12:00:00 a.m. and ends on Sunday at 11:59:59 p.m. Please submit your hours by Monday afternoon.
 
-### Billable Time Expectations
+### Billable Time 
 
 The workweek is split up into the following buckets: 
 
 #### Billable Client Hours
 
-If your role primarily involves working on client projects, you should log 32 billable hours per week. We all have different _billable_ hours expectations depending on our role. Sometimes, billable work on internal projects where TEN7 is the client is approved, such as development work on the ten7.com website. 
+If your role primarily involves working on client projects, you will be planned for 32 billable hours per week. We all have different amounts of planned _billable_ hours depending on our role. 
 
 #### Internal Hours
 

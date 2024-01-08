@@ -21,11 +21,11 @@ TEN7 covers 99% of the employee's monthly premium through our group plan. Becaus
 
 #### Health Savings Account (HSA) Options
 If you choose an HSA compatible plan, you'll also receive an account with [Lively](https://livelyme.com/) so you are able to set up pre-tax deductions for your savings.
-* [2023: BlueAccess HSA Silver $4850 Plan 645 - (HDHP)](/assets/pdf/bcbs_blueaccess_hsa_silver_4850_plan_645_hdhp.pdf)
-* [2023: BlueAccess High Value HSA Gold $2500 Plan 558 - (HDHP)](/assets/pdf/bcbs_high_value_hsa_gold_2500_plan_558_hdhp.pdf)
+* [2024: BlueAccess HSA Silver $5150 Plan 645 - (HDHP)](/assets/pdf/2024%20bcbs_blueaccess_hsa_silver_5150_plan_645_hdhp.pdf)
+* [2024: BlueAccess High Value HSA Gold $2600 Plan 558 - (HDHP)](/assets/pdf/2024%20bcbs_high_value_hsa_gold_2600_plan_558_hdhp.pdf)
 
 #### Non-HSA Options
-* [2023: BlueAccess Gold $1000 Plan 637](/assets/pdf/bcbs_blueaccess_gold_1000_plan_637.pdf)
+* [2024: BlueAccess Gold $1000 Plan 637](/assets/pdf/2024%20bcbs_blueaccess_gold_1000_plan_637.pdf)
 
 ## Dental
 
