@@ -39,11 +39,6 @@ TEN7 covers 100% of the employee's monthly premium for group vision coverage on 
 
 You’ll receive [$50,000 Basic Life insurance](/assets/pdf/principal_mn_principal_life_50000.pdf) from Principal. You may purchase additional coverage at your own expense.
 
-## Short-term Disability Insurance
-
-TEN7 covers 100% of the employee's monthly premium for [short-term disability coverage](https://s3.amazonaws.com/hawaiian-ice/production/public/carriers/ca/guardian/plans/2022/guardian_guardian_em_std_1b_mn.pdf) through Guardian. 
-
-
 ## 401(k)
 
 Upon hire, you can opt in to our 401(k) plan that has a 4% match, and no vesting period. You can also [roll over funds](https://success.guideline.com/helpcenter/s/article/rollover-retirement-account-to-Guideline) from other eligible accounts. When determining your 401(k) contribution amount, take into account what you’ve contributed during the calendar year so far, so you don’t go over the IRS contribution maximum.
@@ -126,7 +121,7 @@ In addition to your PTO days, you have two paid days off annually to use for pro
 
 ## Personal Wellness Time
 
-In addition to the PTO you accrue, you also receive 6 Personal Wellness days (48h) annually, on the anniversary of your employment. This is for time you need to take for anything health-related: doctors appointments, illness, mental health and rest.
+In addition to the PTO you accrue, you may also request Personal Wellness days throughout the year. We trust you to request these as you need them for anything health-related: doctors appointments, illness, mental health and rest.
 
 ## Mental Wellness Stipend
 
@@ -171,7 +166,7 @@ TEN7 will pay for your transportation costs to and from getting your voting plac
 
 ## Parental Leave
 
-As a new parent, it’s important that you have time to spend with the new addition to your family. That’s why all new parents who’ve worked at TEN7 for 180 days may take two weeks paid parental leave. How you schedule the two weeks around the birth or adoption is up to you. You may then use accumulated PTO, Short Term Disability or your state's parental leave benefit for additional paid time off, up to 12 weeks in total. 
+As a new parent, it’s important that you have time to spend with the new addition to your family. That’s why all new parents who’ve worked at TEN7 for 180 days may take four weeks paid parental leave. How you schedule the four weeks around the birth or adoption is up to you. You may then use accumulated PTO or your state's parental leave benefit for additional paid time off, up to 12 weeks in total. 
 
 Requests for Parental Leave **must be made in writing** to the CEO and the Director of Operations. You should indicate the length of leave you’re requesting, including the dates you plan to be away. 
 
