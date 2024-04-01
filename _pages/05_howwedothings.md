@@ -20,7 +20,7 @@ Our canonical time zome is CST, which means that we expect that business is done
 
 ### Flexible Hours
 
-We trust each other to put in somewhere between 32-40 hours per week, depending on the week — whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, make sure you're meeting the 32 hour minimum as a full-time employee, and keep everyone apprised of your status on Slack. Please note: We all have different amounts of planned _billable_ hours depending on our role; please talk with your direct manager if you're unclear on your number of planned hours.
+We trust each other to put in at least 32 hours per week — whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, make sure you're meeting the 32 hour minimum as a full-time employee, and keep everyone apprised of your status on Slack. Please note: We all have different amounts of planned _billable_ hours depending on our role; please talk with your direct manager if you're unclear on your number of planned hours.
 
 ### Side Jobs
 
@@ -82,7 +82,7 @@ The workweek is split up into the following buckets:
 
 #### Billable Client Hours
 
-If your role primarily involves working on client projects, you will be planned for 32 billable hours per week. We all have different amounts of planned _billable_ hours depending on our role. 
+If your role primarily involves working on client projects, we will do our best to plan you for 32 billable hours per week. We all have different amounts of planned _billable_ hours depending on our role. 
 
 #### Internal Hours
 
