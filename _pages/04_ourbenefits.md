@@ -105,7 +105,7 @@ You don't need to log holiday time off in Tempo.
 
 ## Flexibility
 
-In general, your schedule can be flexible. We expect you to keep your priorities on track and meet your billable hours requirement — as communicated by your manager — in order to take advantage of schedule flexibility. As a full-time employee, you’re required to work at least hours per week, and we trust you to log your hours in any cadence that works for you. 
+In general, your schedule can be flexible. We expect you to keep your priorities on track and meet your billable hours requirement — as communicated by your manager — in order to take advantage of schedule flexibility. As a full-time employee, you’re required to work at least 32 hours per week, and we trust you to log your hours in any cadence that works for you. 
 
 ## Paid Time Off (PTO)
 
