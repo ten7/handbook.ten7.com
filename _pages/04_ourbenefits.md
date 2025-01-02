@@ -28,15 +28,15 @@ If you choose an HSA compatible plan, you'll also receive an account with Gusto 
 
 ## Dental
 
-TEN7 covers 100% of the employee's monthly premium for [Guardian EM Dental 9A: MN](/assets/pdf/guardian_guardian_em_dental_9a_mn.pdf). You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis.
+TEN7 covers 100% of the employee's monthly premium for [Principal Dental Plan 19: MN](/assets/pdf/principal_principal_dental_plan_19_mn.pdf). You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis.
 
 ## Vision
 
-TEN7 covers 100% of the employee's monthly premium for group vision coverage on the [MN Premier Enhanced Eyewear Plan Opt II B](/assets/pdf/bcbs_mn_premier_enhanced_eyewear_plan_opt_ii_b_2023.pdf) through Blue Cross Blue Shield.
+TEN7 covers 100% of the employee's monthly premium for group vision coverage on the [Guardian Vision Plan](/assets/pdf/guardian_guardian_em_vision_14_mn.pdf) through Guardian.
 
 ## Life Insurance
 
-You’ll receive [$50,000 Basic Life insurance](/assets/pdf/principal_mn_principal_life_50000.pdf) from Principal. You may purchase additional coverage at your own expense.
+You’ll receive [$50,000 Basic Life insurance](/assets/pdf/principal_principal_life_50000_mn_2025.pdf) from Principal. You may purchase additional coverage at your own expense.
 
 ## 401(k)
 
@@ -94,6 +94,7 @@ Each year, we offer the following 5 days as paid holidays to enjoy time with fam
 
 In addition to the 5 holidays below, TEN7 will be closed each year from Christmas Eve through New Year's Day.
 
+* Martin Luther King Jr. Day 
 * Memorial Day
 * Independence Day
 * Labor Day
