@@ -15,3 +15,4 @@ We understand the importance of feedback, and you’ll likely hear a lot of it d
 
 * Regular check-ins with your project lead.
 * At least once a month, you’ll have a one-on-one 30-minute Zoom chat with whomever you report to. You can use this time to talk about how your life is going—both at work and at home. Use this opportunity to discuss whatever is on your mind.
+* Around your date of hire anniversary each year, you'll have an official annual review with whomever you report to. 
