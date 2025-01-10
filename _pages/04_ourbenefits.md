@@ -109,13 +109,13 @@ In general, your schedule can be flexible. We expect you to keep your priorities
 
 ## Paid Time Off (PTO)
 
-PTO is time requested at least 2 weeks in advance for rest, travel and stepping away from your computer. Upon hire, you’ll accrue paid time off at a rate of 0.25 days per week worked, which is equivalent to 13 days annually. 
+PTO is time requested at least 2 weeks in advance for rest, travel and stepping away from your computer. Upon hire, you’ll accrue paid time off at a rate of ~0.29 days per week worked, which is equivalent to 15 days annually. On your hire date anniversary each year, you'll accrue one additional day per year until you max out at 25 days.
 
 * You may use PTO for vacation, personal days and sick days.
 * PTO requests should be in increments of 4 hours, or 1/2 day. If you need to take off less than 1/2 a day, there's no need to request that time as PTO. We trust that you'll make up the time later in the week. Although you accrue PTO hours throughout the year, it is not meant to be requested on an hourly basis, but rather on a daily or half-daily basis. 
 * If you request time off on a particular day and you end up working for part of that day (ex. you request 8 hours off on a Monday but for whatever reason you work for 2 hours that day), please feel free to take off a couple hours early later in the week to make sure you recoup your PTO, as it can't be added back to your total accrual after the fact. 
 * If you need more paid time off than you’ve earned, it’s okay for you to take a few days in advance of earning them, as long as it’s approved beforehand.
-* Any PTO you have remaining at the end of the year will roll over to the following year and will continue to accrue only until you've reached your avaialable maximum. As an example, let's say you have 13 days of available PTO per year. If, at the end of X year, you have 5 days remaining, those 5 days will roll over to the following year and will continue to accrue until you've accrued 13 total days for that year (your maximum).
+* Any PTO you have remaining at the end of the year will roll over to the following year and will continue to accrue only until you've reached your avaialable maximum. As an example, let's say you have 15 days of available PTO per year. If, at the end of X year, you have 5 days remaining, those 5 days will roll over to the following year and will continue to accrue until you've accrued 15 total days for that year (your maximum).
 
 In addition to your PTO days, you have two paid days off annually to use for professional development. You can find additional details about this in the Professional Development section of this handbook.
 
@@ -173,10 +173,6 @@ Requests for Parental Leave **must be made in writing** to the CEO and the Direc
 Please note: 
 - All of your benefits will remain active during your leave.
 - Provided you return to work within 12 weeks of when your leave started, you'll have your same or similar position with equal pay and seniority when you return.
-
-## Sabbatical
-
-We’re excited to offer paid sabbatical leave to long-term TEN7 employees. After you’ve been working at TEN7 as a full-time employee for four years, you can take a four-week — that's 20 business days — paid sabbatical during your fifth year of employment. Sabbaticals should be taken within one year of eligibility and won't roll over beyond that time period. We kindly ask that you give us at least 3 months of notice before you take your sabbatical, and we encourage you to take this time to go on an adventure, follow a passion, or work on a creative project—just grow and rejuvenate. This benefit repeats for every four years that you’re a full time employee. Listen to our podcast on [Employee Sabbaticals](https://ten7.com/podcast/episode/employee-sabbaticals-and-why-ten7-offers-them) to learn more.
 
 ## Bereavement
 
