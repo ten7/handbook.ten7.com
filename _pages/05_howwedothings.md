@@ -112,6 +112,22 @@ Wednesdays are typically meeting-free, focus days. We try to keep Fridays as cle
 
 ## Money Things
 
+### Pay Bands
+
+TEN7 has six established annual salary pay bands for different experience levels on our team. These are set in line with market rates and are reassessed every few years. They are currently set as follows:
+* Entry: $60-70k
+* Junior: $65-80k
+* Mid-Level: $75-90k
+* Senior: $85-110k
+* Director: $100-125k
+* Partner: $125-150k
+
+Each year during your Annual Review (sometime around your date of hire anniversary), we'll reassess your pay band based on additional responsibilities you may have and/or whether it's time for a title change or merit-based change.
+
+### COLA 
+
+Every year in January, each team member will get a salary adjustment based on the goverment-provided COLA percentage for that year. This allows us to keep salaries on pace with inflation.
+
 ### Getting Paid
 
 Payroll is processed biweekly, and your salary will be direct deposited every other Friday. When you receive your first paycheck, please verify that taxes, insurance, and 401(k), were accurately deducted. 
