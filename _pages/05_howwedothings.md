@@ -20,7 +20,7 @@ Our canonical time zome is CST, which means that we expect that business is done
 
 ### Flexible Hours
 
-We trust each other to put in somewhere between 32-40 hours per week, depending on the week — whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, make sure you're meeting the 32 hour minimum as a full-time employee, and keep everyone apprised of your status on Slack. Please note: We all have different amounts of planned _billable_ hours depending on our role; please talk with your direct manager if you're unclear on your number of planned hours.
+We trust each other to put in at least 32 hours per week — whether those hours are before the sun rises or after the kids have gone to bed. It’s not uncommon that a personal appointment runs long during the day, so you log a few evening hours. This is ok! We understand life happens. Do what you need to do, make sure you're meeting the 32 hour minimum as a full-time employee, and keep everyone apprised of your status on Slack. Please note: We all have different amounts of planned _billable_ hours depending on our role; please talk with your direct manager if you're unclear on your number of planned hours.
 
 ### Side Jobs
 
@@ -82,7 +82,7 @@ The workweek is split up into the following buckets:
 
 #### Billable Client Hours
 
-If your role primarily involves working on client projects, you will be planned for 32 billable hours per week. We all have different amounts of planned _billable_ hours depending on our role. 
+If your role primarily involves working on client projects, we will do our best to plan you for 32 billable hours per week. We all have different amounts of planned _billable_ hours depending on our role. 
 
 #### Internal Hours
 
@@ -111,6 +111,22 @@ You'll also likely have a daily [standup](https://en.wikipedia.org/wiki/Stand-up
 Wednesdays are typically meeting-free, focus days. We try to keep Fridays as clear as possible, too.
 
 ## Money Things
+
+### Pay Bands
+
+TEN7 has six established annual salary pay bands for different experience levels on our team. These are set in line with market rates and are reassessed every few years. They are currently set as follows:
+* Entry: $60-70k
+* Junior: $65-80k
+* Mid-Level: $75-90k
+* Senior: $85-110k
+* Director: $100-125k
+* Partner: $125-150k
+
+Each year during your Annual Review (sometime around your date of hire anniversary), we'll reassess your pay band based on additional responsibilities you may have and/or whether it's time for a title change or merit-based change.
+
+### COLA 
+
+Every year in January, each team member will get a salary adjustment based on the goverment-provided COLA percentage for that year. This allows us to keep salaries on pace with inflation.
 
 ### Getting Paid
 
