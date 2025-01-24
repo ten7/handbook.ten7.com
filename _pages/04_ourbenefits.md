@@ -164,15 +164,24 @@ During election years — mid-terms and general election — please take the tim
 
 TEN7 will pay for your transportation costs to and from getting your voting place: bus, Uber, train, or miles on a car. Please submit your transportation costs/mileage to: receipts@ten7.com, and we'll reimburse you $0.56/mile. 
 
-## Parental Leave
+## Significant Life Event Leave
 
-As a new parent, it’s important that you have time to spend with the new addition to your family. That’s why all new parents who’ve worked at TEN7 for 180 days may take four weeks paid parental leave. How you schedule the four weeks around the birth or adoption is up to you. You may then use accumulated PTO or your state's parental leave benefit for additional paid time off, up to 12 weeks in total. 
+In addition to the PTO Policy documented in this handbook, as someone experiencing a significant life event, such as welcoming a new child into your family or tending to a prolonged medical issue of you or a family member, it’s important that you have time away from work — whether it’s for taking care of yourself, your family, or someone you love. That’s why anyone who has worked at TEN7 for 180 days may take up to **four weeks** paid life-event leave  (“Life Event Leave”). How you schedule the Life Event Leave around the care is up to you. You may then use accumulated PTO or your state’s benefit (if applicable) for additional paid time off, up to 12 weeks in total, in accordance with state and federal laws, though additional leave beyond accrued PTO may not be paid.
 
-Requests for Parental Leave **must be made in writing** to the CEO and the Director of Operations. You should indicate the length of leave you’re requesting, including the dates you plan to be away. 
+Requests for Life Event Leave **must be made in writing** to the CEO and the Director of Operations. You should indicate the length of leave you’re requesting, including the dates you plan to be away. For health-related leaves, a doctor’s note or any other relevant info might be required. For things like family care or loss, we’re pretty flexible.
 
-Please note: 
+Some examples of qualifying Life Event Leave situations include (but are not limited to):
+
+- **Personal Health**: If you need time off to recover from a major illness, surgery or injury.
+- **Family Care**: If you need to care for a loved one (like a partner, child, parent, or close family member) who’s dealing with a major health issue.
+- **Grief or Loss**: If you’ve lost a parent, guardian or child.
+- **Pregnancy or Adoption**: If you’re welcoming a new child into your life, whether through birth or adoption.
+
+Please note:
+
+- This benefit can only be used once in a 12-month period.
 - All of your benefits will remain active during your leave.
-- Provided you return to work within 12 weeks of when your leave started, you'll have your same or similar position with equal pay and seniority when you return.
+- Provided you return to work within 12 weeks of when your leave started, you’ll have your same or similar position with equal pay and seniority when you return.
 
 ## Bereavement
 
