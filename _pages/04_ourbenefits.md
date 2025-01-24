@@ -179,6 +179,7 @@ Some examples of qualifying Life Event Leave situations include (but are not lim
 
 Please note:
 
+- This benefit can only be used once in a 12-month period.
 - All of your benefits will remain active during your leave.
 - Provided you return to work within 12 weeks of when your leave started, you’ll have your same or similar position with equal pay and seniority when you return.
 
