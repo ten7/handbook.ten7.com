@@ -92,7 +92,7 @@ From time to time, TEN7 may choose to buy you lunch — usually during a quarter
 
 Each year, we offer the following 5 days as paid holidays to enjoy time with family and friends. If the holiday falls on a Saturday, we'll be closed on the preceding Friday. If the holiday falls on a Sunday, we'll be closed on the following Monday. 
 
-In addition to the 5 holidays below, TEN7 will be closed each year from Christmas Eve through New Year's Day.
+In addition to the 6 holidays below, TEN7 will be closed each year from Christmas Eve through New Year's Day.
 
 * Martin Luther King Jr. Day 
 * Memorial Day
