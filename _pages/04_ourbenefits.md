@@ -176,9 +176,11 @@ Some examples of qualifying Life Event Leave situations include (but are not lim
 - **Family Care**: If you need to care for a loved one (like a partner, child, parent, or close family member) who’s dealing with a major health issue.
 - **Grief or Loss**: If you’ve lost a parent, guardian or child.
 - **Pregnancy or Adoption**: If you’re welcoming a new child into your life, whether through birth or adoption.
+- **Child Foster Care**:  If you'll be fostering a child/children.
 
 Please note:
 
+- All examples above are only examples and not an exhaustive list of how this benefit can be used. If you feel you have a signficant life event that's not listed above, please talk with us.
 - This benefit can only be used once in a 12-month period.
 - All of your benefits will remain active during your leave.
 - Provided you return to work within 12 weeks of when your leave started, you’ll have your same or similar position with equal pay and seniority when you return.
