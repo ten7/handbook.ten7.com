@@ -90,7 +90,7 @@ From time to time, TEN7 may choose to buy you lunch — usually during a quarter
 
 ## Holidays
 
-Each year, we offer the following 5 days as paid holidays to enjoy time with family and friends. If the holiday falls on a Saturday, we'll be closed on the preceding Friday. If the holiday falls on a Sunday, we'll be closed on the following Monday. 
+Each year, we offer the following 6 days as paid holidays to enjoy time with family and friends. If the holiday falls on a Saturday, we'll be closed on the preceding Friday. If the holiday falls on a Sunday, we'll be closed on the following Monday. 
 
 In addition to the 6 holidays below, TEN7 will be closed each year from Christmas Eve through New Year's Day.
 
@@ -147,7 +147,6 @@ Please note:
 - An unpaid personal leave of absence is limited to one per year and must be approved by the CEO.
 - During your leave, you're technically not employed with TEN7. For legal reasons we will disable all of your TEN7 accounts, such as Slack, Email, 1Password and Jira.
 - Your health, dental, vision, short-term disability and life insurance will remain active.
-- Your sabbatical start date will be postponed by the duration of your absence.
 - Any stipend amounts will be reduced proportionally according to the length of time you were absent.
 - Accepting employment elsewhere during your leave of absence will result in termination of employment with TEN7.
 - If you don’t return to work on the scheduled date, you’ll be considered to have voluntarily resigned from the company.
