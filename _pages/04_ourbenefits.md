@@ -177,7 +177,7 @@ TEN7 will pay for your transportation costs to and from getting your voting plac
 Once TEN7 approves your leave, we'll work out the details together, but you'll follow this general process:
 
 - You'll apply for leave via the MN Paid Leave program
-- You'll receive at least 55% of your salary for up to 12 weeks through the state of MN 
+- You'll receive at least 55% of your salary for up to 12 weeks through the state of MN, which you can [calculate here](https://pl.mn.gov/resources/calculators/estimate-your-payments)
 - Provided you've worked for TEN7 for at least 180 consecutive days, TEN7 will supplement the first 4 weeks of your leave to ensure you receive 100% of your salary during that time, per our Significant Life Event Leave
 
 Please note:
