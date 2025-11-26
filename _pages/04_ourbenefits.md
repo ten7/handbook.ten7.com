@@ -164,55 +164,15 @@ During election years — mid-terms and general election — please take the tim
 
 TEN7 will pay for your transportation costs to and from getting your voting place: bus, Uber, train, or miles on a car. Please submit your transportation costs/mileage to: receipts@ten7.com, and we'll reimburse you $0.56/mile. 
 
-## Minnesota Paid Family & Medical Leave 
-[Minnesota’s Paid Family and Medical Leave](https://pl.mn.gov/) program is in effect as of 1/1/2026. The details are as follows:
-- Anyone who resides at least 50% of the time in MN is eligible.
-- It covers all the same things as TEN7’s Life Event Leave policy with all the same protections in place (see below for details).
-- If you need to use it, the state pays you a portion of your salary for up to 12 weeks for one leave type (either Family Leave or Medical Leave). 
-- You can take leave for more than one qualifying reason in the same year. For example, you could take 8 weeks of Medical Leave to recover from surgery, and then later take 12 weeks of Family Leave to welcome a child. You could also take, for instance, two separate Medical Leaves in one year, for different qualifying events. You cannot exceed 12 weeks in total for either Medical or Family Leave, or more than 20 weeks total combined in a benefit year.
-- To pay for this, the state requires employers to make a contribution of 0.66% of your salary per payroll. TEN7 covers this cost in full.
-- Our [Significant Life Event Leave](https://handbook.ten7.com/ourbenefits.html#significant-life-event-leave) is still valid and in place.
-- Requests for MN Paid Family & Medical Leave  **must be made in writing** to the CEO and the Director of Operations. You should indicate the length of leave you’re requesting, including the dates you plan to be away. For health-related leaves, a doctor’s note or any other relevant info might be required. For things like family care or loss, we’re pretty flexible.
-
-Once TEN7 approves your leave, we'll work out the details together, but you'll follow this general process:
-
-- You'll apply for leave via the MN Paid Leave program
-- You'll receive at least 55% of your salary for up to 12 weeks through the state of MN, which you can [calculate here](https://pl.mn.gov/resources/calculators/estimate-your-payments)
-- Provided you've worked for TEN7 for at least 180 consecutive days, TEN7 will supplement the first 4 weeks of your leave to ensure you receive 100% of your salary during that time, per our Significant Life Event Leave
-
-Please note:
-- This benefit can only be used once in a 12-month period.
-- Your leave must be requested in increments of 1 day (for TEN7, that's 8h). 
-- All of your benefits will remain active during your leave.
-- Provided you've worked for TEN7 for at least 90 consecutive days and that you return to work within 12 weeks of when your leave started, you’ll have your same or similar position with equal pay and seniority when you return.
-
-## Oregon Paid Family & Medical Leave 
-[Oregon’s Paid Family and Medical Leave](https://paidleave.oregon.gov/) program is in effect as of 1/1/2025. The details are as follows:
-- Anyone who currently works in Oregon is eligible.
-- It covers all the same things as TEN7’s Life Event Leave policy with all the same protections in place (see below for details).
-- If you need to use it, the state pays you a portion of your salary for up to 12 weeks. If pregnant, in some situations, an employee may be able to take up to 2 more weeks for a total of 14 weeks.
-- To pay for this, the state requires employees to pay 60% of the contribution rate (1% in 2025) from their salary per payroll. The Oregon Employment Department decides the amount before the beginning of each year, and it won’t be more than 1% of an employee’s gross wages. TEN7 covers this cost in full beginning 1/1/2026.
-- Our [Significant Life Event Leave](https://handbook.ten7.com/ourbenefits.html#significant-life-event-leave) is still valid and in place.
-- Requests for OR Paid Family & Medical Leave  **must be made in writing** to the CEO and the Director of Operations. You should indicate the length of leave you’re requesting, including the dates you plan to be away. For health-related leaves, a doctor’s note or any other relevant info might be required. For things like family care or loss, we’re pretty flexible.
-
-Once TEN7 approves your leave, we'll work out the details together, but you'll follow this general process:
-
-- You'll apply for leave via the OR Paid Leave program
-- You'll receive a percentage of your salary for up to 12 weeks through the state of OR, which you can [calculate here](https://paidleave.oregon.gov/employees/benefits-calculator.html)
-- Provided you've worked for TEN7 for at least 180 consecutive days, TEN7 will supplement the first 4 weeks of your leave to ensure you receive 100% of your salary during that time, per our Significant Life Event Leave
-
-Please note:
-- This benefit can only be used once in a 12-month period.
-- Your leave must be requested in increments of 1 day (for TEN7, that's 8h). 
-- All of your benefits will remain active during your leave.
-- Provided you've worked for TEN7 for at least 90 consecutive days and that you return to work within 12 weeks of when your leave started, you’ll have your same or similar position with equal pay and seniority when you return.
-
-
 ## Significant Life Event Leave
 
-In addition to the PTO Policy documented in this handbook, as someone experiencing a significant life event, such as welcoming a new child into your family or tending to a prolonged medical issue of you or a family member, it’s important that you have time away from work — whether it’s for taking care of yourself, your family, or someone you love. That’s why anyone who has worked at TEN7 for 180 days may take up to **four weeks** paid life-event leave  (“Life Event Leave”). How you schedule the Life Event Leave around the care is up to you. You may then use accumulated PTO or your state’s benefit (if applicable) for additional paid time off, up to 12 weeks in total, in accordance with state and federal laws, though additional leave beyond accrued PTO may not be paid.
+In addition to the PTO and individual state policies documented in this handbook, as someone experiencing a significant life event, such as welcoming a new child into your family or tending to a prolonged medical issue of you or a family member, it’s important that you have time away from work — whether it’s for taking care of yourself, your family, or someone you love. That’s why anyone who has worked at TEN7 for 90 days may take up to **four weeks** paid life-event leave  (“Life Event Leave”). How you schedule the Life Event Leave around the care is up to you. You may also use accumulated PTO for additional paid time off, up to 12 weeks in total, in accordance with state and federal laws, though additional leave beyond accrued PTO may not be paid. If you're eligible for paid leave through your state, you will use your state's benefit, and TEN7 will supplement the first 4 weeks of your leave to ensure you receive 100% of your salary during that time.
 
-Requests for Life Event Leave **must be made in writing** to the CEO and the Director of Operations. You should indicate the length of leave you’re requesting, including the dates you plan to be away. For health-related leaves, a doctor’s note or any other relevant info might be required. For things like family care or loss, we’re pretty flexible.
+Current paid state benefits that apply to TEN7 employees include:
+[Oregon’s Paid Family and Medical Leave](https://paidleave.oregon.gov/) - effective 1/1/2025.
+[Minnesota’s Paid Family and Medical Leave](https://pl.mn.gov/) - effective 1/1/2026.
+
+Requests for Life Event Leave **must be made in writing** to the CEO and the Director of Operations. You should indicate the length of leave you’re requesting (in 8h increments), including the dates you plan to be away. For health-related leaves, a doctor’s note or any other relevant info might be required. For things like family care or loss, we’re pretty flexible.
 
 Some examples of qualifying Life Event Leave situations include (but are not limited to):
 
@@ -223,6 +183,7 @@ Some examples of qualifying Life Event Leave situations include (but are not lim
 
 Please note:
 - This benefit can only be used once in a 12-month period.
+- TEN7 will only supplement 4 weeks of state benefit pay once in a 12-month period. 
 - All of your benefits will remain active during your leave.
 - Provided you return to work within 12 weeks of when your leave started, you’ll have your same or similar position with equal pay and seniority when you return.
 
