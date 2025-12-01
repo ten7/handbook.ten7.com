@@ -59,7 +59,7 @@ Please note:
 
 As a distributed agency, we know how important it is to have reliable technology. We expect you to have current and working equipment so you’re able to effectively do your job.
 
-You will have a $900 stipend available to you on your day of hire to use toward any technology or work-related services that best suit your needs. The stipend is not considered cash — it is an annual budget available to you that expires and renews at the end of each 1-year period. Please get pre-approval from Dani for all purchases. If you submit a receipt in Compt without pre-approval, we may not be able to reimburse you. You'll use your personal credit card for any item you want to purchase and submit the receipt for reimbursement via Compt within 60 days of the date on your receipt.  Please note:
+You will have a $900 stipend available to you on your day of hire to use toward any technology or work-related services that best suit your needs. The stipend is not considered cash — it is an annual budget available to you that expires and renews at the end of each 1-year period. You'll use your personal credit card for any item you want to purchase and submit the receipt for reimbursement via Compt within 60 days of the date on your receipt.  Please note:
 
 * Compt submissions get approved on the 1st of each month. If you have submitted your expenses by then, they'll show up by your last paycheck of that month.
 * You will retain ownership of any item purchased with this stipend. 
@@ -90,9 +90,9 @@ From time to time, TEN7 may choose to buy you lunch — usually during a quarter
 
 ## Holidays
 
-Each year, we offer the following 5 days as paid holidays to enjoy time with family and friends. If the holiday falls on a Saturday, we'll be closed on the preceding Friday. If the holiday falls on a Sunday, we'll be closed on the following Monday. 
+Each year, we offer the following 6 days as paid holidays to enjoy time with family and friends. If the holiday falls on a Saturday, we'll be closed on the preceding Friday. If the holiday falls on a Sunday, we'll be closed on the following Monday. 
 
-In addition to the 5 holidays below, TEN7 will be closed each year from Christmas Eve through New Year's Day.
+In addition to the 6 holidays below, TEN7 will be closed each year from Christmas Eve through New Year's Day.
 
 * Martin Luther King Jr. Day 
 * Memorial Day
@@ -127,7 +127,7 @@ In addition to the PTO you accrue, you may also request Personal Wellness days t
 
 In addition to time off for Personal Wellness, you'll receive a $100 annual stipend to use toward a mental wellness app of your choice. Examples include: Headspace, Calm or BetterHelp Therapy. 
 
-The stipend is not considered cash — it is an annual budget available to you that expires and renews at the end of each 1-year period. Please get pre-approval from Dani for all purchases. If you submit a receipt in Compt without pre-approval, we may not be able to reimburse you. You'll use your personal credit card for any item you want to purchase and submit the receipt for reimbursement via Compt within 60 days of the date on your receipt. Please note: 
+The stipend is not considered cash — it is an annual budget available to you that expires and renews at the end of each 1-year period. You'll use your personal credit card for any item you want to purchase and submit the receipt for reimbursement via Compt within 60 days of the date on your receipt. Please note: 
 
 * Compt submissions get approved on the 1st of each month. If you have submitted your expenses by then, they'll show up by your last paycheck of that month.
 * Because this stipend is a budget rather than cash, you are not owed any remaining balance if you leave the company for any reason.
@@ -147,7 +147,6 @@ Please note:
 - An unpaid personal leave of absence is limited to one per year and must be approved by the CEO.
 - During your leave, you're technically not employed with TEN7. For legal reasons we will disable all of your TEN7 accounts, such as Slack, Email, 1Password and Jira.
 - Your health, dental, vision, short-term disability and life insurance will remain active.
-- Your sabbatical start date will be postponed by the duration of your absence.
 - Any stipend amounts will be reduced proportionally according to the length of time you were absent.
 - Accepting employment elsewhere during your leave of absence will result in termination of employment with TEN7.
 - If you don’t return to work on the scheduled date, you’ll be considered to have voluntarily resigned from the company.
@@ -180,8 +179,11 @@ Some examples of qualifying Life Event Leave situations include (but are not lim
 - **Family Care**: If you need to care for a loved one (like a partner, child, parent, or close family member) who’s dealing with a major health issue.
 - **Grief or Loss**: If you’ve lost a parent, guardian or child.
 - **Pregnancy or Adoption**: If you’re welcoming a new child into your life, whether through birth or adoption.
+- **Child Foster Care**:  If you'll be fostering a child/children.
 
 Please note:
+
+- All examples above are only examples and not an exhaustive list of how this benefit can be used. If you feel you have a signficant life event that's not listed above, please talk with us.
 - This benefit can only be used once in a 12-month period.
 - TEN7 will only supplement 4 weeks of state benefit pay once in a 12-month period. 
 - All of your benefits will remain active during your leave.
@@ -198,7 +200,7 @@ If you’re called to serve on a jury, you’ll receive your full pay for up to 
 
 ## Professional Development
 
-TEN7 encourages employees to keep learning and growing professionally. You'll receive a $1,500 annual stipend, plus two additional paid days off to use towards a conference or an educational experience of your choosing (including books). The stipend is not considered cash — it is an annual budget available to you that expires and renews at the end of each 1-year period. Please get pre-approval from Dani for all purchases. If you submit a receipt in Compt without pre-approval, we may not be able to reimburse you. You'll use your personal credit card for any item you want to purchase and submit the receipt for reimbursement via Compt within 60 days of the date on your receipt. Please note: 
+TEN7 encourages employees to keep learning and growing professionally. You'll receive a $250 annual stipend to use towards a conference or an educational experience of your choosing (including books). The stipend is not considered cash — it is an annual budget available to you that expires and renews at the end of each 1-year period. You'll use your personal credit card for any item you want to purchase and submit the receipt for reimbursement via Compt within 60 days of the date on your receipt. Please note: 
 
 * Compt submissions get approved on the 1st of each month. If you have submitted your expenses by then, they'll show up by your last paycheck of that month.
 * Because this stipend is a budget rather than cash, you are not owed any remaining balance if you leave the company for any reason.
