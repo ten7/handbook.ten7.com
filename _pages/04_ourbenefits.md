@@ -177,7 +177,7 @@ Some examples of qualifying Life Event Leave situations include (but are not lim
 
 - **Personal Health**: If you need time off to recover from a major illness, surgery or injury.
 - **Family Care**: If you need to care for a loved one (like a partner, child, parent, or close family member) who’s dealing with a major health issue.
-- **Grief or Loss**: If you’ve lost a parent, guardian or child.
+- **Grief or Loss**: If you’ve lost a partner, parent, guardian or child.
 - **Pregnancy or Adoption**: If you’re welcoming a new child into your life, whether through birth or adoption.
 - **Child Foster Care**:  If you'll be fostering a child/children.
 
