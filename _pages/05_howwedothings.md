@@ -138,10 +138,11 @@ We use [Gusto](https://gusto.com/) to keep track of payroll - you’ll receive a
 
 We've written about the complete list of tools we use in a post titled [TEN7’s Tech Stack](https://t7.io/techstack) that you should read. We also [keep a list](https://t7.io/tools) of the most up-to-date stack as [a public Notion page](https://t7.io/tools) as well. 
 
+We sometimes use AI as a tool, but we always put humans first. As a newer addition to our company, we admit that we're still figuring out our exact stance on this topic, and we'll continue to learn and adjust our policies accordingly. No matter where we land, we take full responsibility for any and all of the work we do.
+
 We ask that you please keep all TEN7 tools and their contents separate from any personal tools you might use. Please avoid using your personal email inbox for TEN7 purposes or connecting any personal tools with those of TEN7.
 
 Please also avoid storing anything personal on TEN7 services (example: Google Drive, Google Calendar or Google Contacts). Anything stored on TEN7 services is property of TEN7. 
-
 
 ## Website Accessibility
 
