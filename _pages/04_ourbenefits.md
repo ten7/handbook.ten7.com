@@ -49,7 +49,7 @@ Upon hire, you can opt in to our 401(k) plan that has a 4% match, and no vesting
 To ensure you've got the right equipment to do the work, TEN7 issues all new employees a leased computer that will be replaced every three years, along with a supplementary tech stipend. In addition, you'll have access to discounts from the Apple Store through TEN7. 
 
 ### Computer
-All new employees will be issued their choice between a leased 13” Dell XPS with Linux or Windows or a 14” M1 MacBook Pro. We also will provide one  monitor if you need it. Please talk with Dani for more details and specs for each computer option. This equipment has a 3-year warranty that coincides with the lease, and you will have the option to purchase it after the 3 years for the fair market value that Dell or Apple inform us at that time. 
+All new employees will be issued a 14” M1 MacBook Pro. We also will provide one  monitor if you need it. Please talk with Dani for more details and specs for your equipment. This equipment has a 3-year warranty that coincides with the lease, and you will have the option to purchase it after the 3 years for the fair market value that Apple informs us at that time. 
 
 Please note:
 - You will get next day business support and accidental damage coverage on this equipment, so if you spill something on your machine or drop it or the cat jumps on it and fries it, we will get a replacement or a repair at your location on the next business day.
