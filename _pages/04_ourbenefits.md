@@ -21,22 +21,22 @@ TEN7 covers 99% of the employee's monthly premium through our group plan. Becaus
 
 #### Health Savings Account (HSA) Options
 If you choose an HSA compatible plan, you'll also receive an account with Gusto so you are able to set up pre-tax deductions for your savings.
-* [2025: BlueAccess High Value HSA Gold $2600 Plan 558 - (HDHP)](/assets/pdf/bcbs_high_value_hsa_gold_2700_plan_558_hdhp_2025.pdf)
+* [2026: BlueAccess High Value HSA Gold $3050 Plan 558 - (HDHP)](/assets/pdf/bcbs_high_value_hsa_gold_3050_plan_558_hdhp%20(1).pdf)
 
 #### Non-HSA Options
-* [2025: BlueAccess Gold $1000 Plan 637](/assets/pdf/bcbs_blueaccess_gold_1000_plan_637_2025.pdf)
+* [2026: BlueAccess Gold $1000 Plan 637](/assets/pdf/bcbs_blueaccess_gold_1000_plan_637%20(1).pdf)
 
 ## Dental
 
-TEN7 covers 100% of the employee's monthly premium for [Principal Dental Plan 19: MN](/assets/pdf/principal_principal_dental_plan_19_mn_2025.pdf). You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis.
+TEN7 covers 100% of the employee's monthly premium for [Principal Dental Plan 19: MN](/assets/pdf/principal_principal_dental_plan_19_mn%20(1).pdf). You're welcome to cover any number of family members on the same policy, at your own expense. Premium differences are automatically deducted from your paycheck on a pre-tax basis.
 
 ## Vision
 
-TEN7 covers 100% of the employee's monthly premium for group vision coverage on the [Guardian Vision Plan](/assets/pdf/guardian_guardian_em_vision_14_mn_2025.pdf) through Guardian.
+TEN7 covers 100% of the employee's monthly premium for group vision coverage on the [Guardian Vision Plan](/assets/pdf/guardian_guardian_em_vision_14_mn%20(1).pdf) through Guardian.
 
 ## Life Insurance
 
-You’ll receive [$50,000 Basic Life insurance](/assets/pdf/principal_principal_life_50000_mn_2025.pdf) from Principal. You may purchase additional coverage at your own expense.
+You’ll receive [$50,000 Basic Life insurance](/assets/pdf/principal_principal_life_50000_mn.pdf) from Principal. You may purchase additional coverage at your own expense.
 
 ## 401(k)
 
