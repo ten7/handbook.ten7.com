@@ -80,7 +80,7 @@ Through TEN7's 1Password Business account, you'll be able to sign up for a free 
 
 ## Carbon Offset
 
-TEN7 cares about our environment. To that end, we purchase an [Employee Renewable Energy Bundle](http://store.b-e-f.org/products/employee-renewable-energy-bundle/) and an [Employee Water Bundle](http://store.b-e-f.org/products/employee-water-bundle/) for every team member. Each quarter, you will receive a Renewable Energy Certificate and a Water Restoration Certificate, and each will note the details of the energy or water program that benefits from the offset.
+TEN7 cares about our environment. To that end, we purchase 5 [Renewable Energy Certificates](https://store.b-e-f.org/business/) and 2 [Water Restoration Certificates](https://store.b-e-f.org/household/) each quarter. This helps contribute to carbon neutrality for us as a company.
 
 * Listen to our podcast [episode #53](https://ten7.com/blog/post/episode-053-heather-schrock-bonneville-environmental-foundation) where Ivan interviews the BEF representative who manages our certificates to learn more.
 
