@@ -49,7 +49,7 @@ Upon hire, you can opt in to our 401(k) plan that has a 4% match, and no vesting
 To ensure you've got the right equipment to do the work, TEN7 issues all new employees a leased computer that will be replaced every three years, along with a supplementary tech stipend. In addition, you'll have access to discounts from the Apple Store through TEN7. 
 
 ### Computer
-All new employees will be issued a 14” M1 MacBook Pro. We also will provide one  monitor if you need it. Please talk with Dani for more details and specs for your equipment. This equipment has a 3-year warranty that coincides with the lease, and you will have the option to purchase it after the 3 years for the fair market value that Apple informs us at that time. 
+All new employees will be issued a MacBook Pro or Macbook Air. We also will provide one  monitor if you need it. Please talk with Dani for more details and specs for your equipment. This equipment has a 3-year warranty that coincides with the lease, and you will have the option to purchase it after the 3 years for the fair market value that Apple informs us at that time. 
 
 Please note:
 - You will get next day business support and accidental damage coverage on this equipment, so if you spill something on your machine or drop it or the cat jumps on it and fries it, we will get a replacement or a repair at your location on the next business day.
@@ -80,9 +80,9 @@ Through TEN7's 1Password Business account, you'll be able to sign up for a free 
 
 ## Carbon Offset
 
-TEN7 cares about our environment. To that end, we purchase 5 [Renewable Energy Certificates](https://store.b-e-f.org/business/) and 2 [Water Restoration Certificates](https://store.b-e-f.org/household/) each quarter. This helps contribute to carbon neutrality for us as a company.
+TEN7 cares about our environment. To that end, we purchase 5 Renewable Energy Certificates and 2 Water Restoration Certificates per person each quarter from [BEF] (https://store.b-e-f.org/business/). This helps contribute to carbon neutrality for us as a company.
 
-* Listen to our podcast [episode #53](https://ten7.com/blog/post/episode-053-heather-schrock-bonneville-environmental-foundation) where Ivan interviews the BEF representative who manages our certificates to learn more.
+* Listen to our podcast [episode #53](https://ten7.com/podcast/episode/heather-schrock-bonneville-environmental-foundation) where Ivan interviews the BEF representative who manages our certificates to learn more.
 
 ## TEN7 Lunches
 
