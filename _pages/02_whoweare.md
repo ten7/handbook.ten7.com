@@ -52,6 +52,6 @@ General email inquiries can be sent to:<br/>
 Our social media accounts:
 * [LinkedIn](https://www.linkedin.com/company/ten7)
 
-We publish a new podcast episode bi-weekly: [ten7.com/podcast](https://ten7.com/podcast)
+Check out our podcast: [ten7.com/podcast](https://ten7.com/podcast)
 
 And last but not least, our website: [ten7.com](https://ten7.com)
