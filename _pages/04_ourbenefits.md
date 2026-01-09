@@ -161,7 +161,7 @@ TEN7 will pay for your transportation costs to and from getting your vaccination
 
 During election years — mid-terms and general election — please take the time you need to vote. There's no need to request this time off in Gusto as long as you won't be away for more than 2 hours. Please make sure your time is blocked off on your calendar and then log it in Tempo under INT-32 Time Off: Misc.
 
-TEN7 will pay for your transportation costs to and from getting your voting place: bus, Uber, train, or miles on a car. Please submit your transportation costs/mileage to: receipts@ten7.com, and we'll reimburse you $0.56/mile. 
+TEN7 will pay for your transportation costs to and from getting your voting place: bus, Uber, train, or miles on a car. Please submit your transportation costs/mileage to: receipts@ten7.com, and we'll reimburse you based on the [IRS Standard Business Mileage Rate] (https://www.irs.gov/tax-professionals/standard-mileage-rates) for the current year.
 
 ## Significant Life Event Leave
 
