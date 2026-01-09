@@ -52,7 +52,7 @@ Original receipts are required.
 
 Personal vehicle use may be authorized only if it’s more economical compared to other forms of transportation. If you need to park at the airport consider the total costs of mileage/parking fees versus other forms of transportation (taxi or public transit).
 
-Mileage reimbursement is based on the [IRS Standard Business Mileage Rate](https://www.irs.gov/tax-professionals/standard-mileage-rates) for the most recent year.  This rate covers all expenses associated with the use of a personal vehicle for business purposes.
+Mileage reimbursement is based on the [IRS Standard Business Mileage Rate](https://www.irs.gov/tax-professionals/standard-mileage-rates) for the current year.  This rate covers all expenses associated with the use of a personal vehicle for business purposes.
 
 Travelers can submit driving directions (ie Google Maps) as proof of distance traveled for mileage reimbursement. Document on the driving directions the date the travel took place.  Bridge tolls are a reimbursable expense (no receipts are required).
 
