@@ -104,11 +104,11 @@ Most internal hours should be tracked to your department's Admin task (e.g. Oper
 
 We don’t believe in meetings for meetings’ sake. We’ll only hold meetings if we have a goal, if we need to meet with a client, or if it’s more efficient to hash things out in a meeting vs. doing it over Slack.
 
-We have a weekly company meeting each Monday at 9:30 a.m. CST. Ivan will share updates, the team can connect, and anyone can bring any topic to the table. We'll always record this meeting so you can watch it later if you're not able to join.
+We have a weekly company meeting each Monday at 9:30 a.m. CST. Ivan or the Leadership team will share updates, the team can connect, and anyone can bring any topic to the table. We'll always record this meeting so you can watch it later if you're not able to join.
 
 You'll also likely have a daily [standup](https://en.wikipedia.org/wiki/Stand-up_meeting), depending on which projects you're working on. 
 
-Wednesdays are typically meeting-free, focus days. We try to keep Fridays as clear as possible, too.
+Wednesdays are typically meeting-free, focus days except for our team standup at 10:00 a.m. CST. We try to keep Fridays as clear as possible, too.
 
 ## Money Things
 
