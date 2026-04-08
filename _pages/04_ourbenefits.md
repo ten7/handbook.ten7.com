@@ -53,7 +53,7 @@ All new employees will be issued a MacBook Pro or Macbook Air. We also will prov
 
 Please note:
 - You will get next day business support and accidental damage coverage on this equipment, so if you spill something on your machine or drop it or the cat jumps on it and fries it, we will get a replacement or a repair at your location on the next business day.
-- When it's time for a device upgrade after three years, we will verify the fair market value of your current device. At that time, you may choose to purchase the item from TEN7 for that value if you'd like, OR you can return the device to TEN7. In either case, you will receive a replacement machine and monitor.
+- When it's time for a device upgrade after three years, we will verify the fair market value of your current device. At that time, you may choose to purchase the item from TEN7 for that value if you'd like, OR you can return the device to TEN7. In either case, you will receive a replacement machine.
 
 ### Technology Stipend
 
@@ -80,7 +80,7 @@ Through TEN7's 1Password Business account, you'll be able to sign up for a free 
 
 ## Carbon Offset
 
-TEN7 cares about our environment. To that end, we purchase 5 Renewable Energy Certificates and 2 Water Restoration Certificates per person each quarter from [BEF] (https://store.b-e-f.org/business/). This helps contribute to carbon neutrality for us as a company.
+TEN7 cares about our environment. To that end, we purchase 2 Renewable Energy Certificates and 5 Water Restoration Certificates per person each quarter from [BEF] (https://store.b-e-f.org/business/). This helps contribute to carbon neutrality for us as a company.
 
 * Listen to our podcast [episode #53](https://ten7.com/podcast/episode/heather-schrock-bonneville-environmental-foundation) where Ivan interviews the BEF representative who manages our certificates to learn more.
 
@@ -155,7 +155,7 @@ Please note:
 
 When it's time to get vaccinated — for COVID, the flu, or MMR — please take the time you need to do so. There's no need to request this time off in Gusto as long as you won't be away for more than 2 hours. Please make sure your time is blocked off on your calendar and then log it in Tempo under INT-35 Time Off: Misc.
 
-TEN7 will pay for your transportation costs to and from getting your vaccination: bus, Uber, train, or miles on a car. Please submit your transportation costs/mileage to: receipts@ten7.com, and we'll reimburse you $0.56/mile. 
+TEN7 will pay for your transportation costs to and from getting your vaccination: bus, Uber, train, or miles on a car. Please submit your transportation costs/mileage to: receipts@ten7.com, and we'll reimburse you $0.725/mile. 
 
 ## Voting
 
