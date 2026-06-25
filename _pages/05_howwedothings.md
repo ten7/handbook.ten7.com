@@ -144,7 +144,7 @@ Please also avoid storing anything personal on TEN7 services (example: Google Dr
 
 ## Using AI
 
-We use AI as a tool, and we've standardized on **[Claude](https://claude.ai)** as our primary AI assistant across the team. We use Claude because it's best in class and it integrates directly with our codebase through Claude Code.
+We use AI as a tool, and we've standardized on **[Claude](https://claude.ai)** as our primary AI assistant across the team. We use Claude because it's the best tool we've found for code and writing, and it integrates directly with our codebase through Claude Code.
 
 At our core, we'll always believe in the importance of the open web and in putting humans first, and that shapes how we approach AI, just as it shapes how we work as a team. So what don't we do? We don't let AI substitute for human oversight. We don't publish, send, or build anything AI-generated without a human reviewing it first. We don't use AI to cut corners on our work; we use it to free up time so we can use our human brains to think more deeply where it matters.
 
