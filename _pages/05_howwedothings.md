@@ -138,11 +138,17 @@ We use [Gusto](https://gusto.com/) to keep track of payroll - you’ll receive a
 
 We've written about the complete list of tools we use in a post titled [TEN7’s Tech Stack](https://t7.io/techstack) that you should read. We also [keep a list](https://t7.io/tools) of the most up-to-date stack as [a public Notion page](https://t7.io/tools) as well. 
 
-We sometimes use AI as a tool, but we always put humans first. As a newer addition to our company, we admit that we're still figuring out our exact stance on this topic, and we'll continue to learn and adjust our policies accordingly. No matter where we land, we take full responsibility for any and all of the work we do.
-
 We ask that you please keep all TEN7 tools and their contents separate from any personal tools you might use. Please avoid using your personal email inbox for TEN7 purposes or connecting any personal tools with those of TEN7.
 
 Please also avoid storing anything personal on TEN7 services (example: Google Drive, Google Calendar or Google Contacts). Anything stored on TEN7 services is property of TEN7. 
+
+## Using AI
+
+We use AI as a tool, and we've standardized on **[Claude](https://claude.ai)** as our primary AI assistant across the team. We use Claude because it's best in class and it integrates directly with our codebase through Claude Code.
+
+At our core, we'll always believe in the importance of the open web and in putting humans first, and that shapes how we approach AI, just as it shapes how we work as a team. So what don't we do? We don't let AI substitute for human oversight. We don't publish, send, or build anything AI-generated without a human reviewing it first. We don't use AI to cut corners on our work; we use it to free up time so we can use our human brains to think more deeply where it matters.
+
+As a newer addition to our company, we admit that we're still figuring out our exact stance on this topic, and we'll continue to learn and adjust our policies accordingly. No matter where we land, we take full responsibility for any and all of the work we do.
 
 ## Website Accessibility
 
