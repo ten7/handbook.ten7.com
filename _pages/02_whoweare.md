@@ -33,7 +33,7 @@ It's correct to write:
 
 The rule of thumb is that "TEN7" should always be written in CAPS with NO space between the "TEN" and the number "7"—please don’t use lowercase, and don’t add spaces. The "TEN7" wordmark is geared to resemble the logo as closely as possible.
 
-Exception: Our company’s legal name is **Ten 7 Interactive, LLC**., but this will only be used on legal documents like signed contracts. Ivan talks about our company’s origin in episode 21 of our podcast “TEN7’s Origins” at [https://t7.io/ep21](https://t7.io/ep21).
+Exception: Our company’s legal name is **Ten 7 Interactive, LLC**., but this will only be used on legal documents like signed contracts. <span id="ivan-stegic">Ivan Stegic, our CEO,</span> talks about our company’s origin in episode 21 of our podcast “TEN7’s Origins” at [https://t7.io/ep21](https://t7.io/ep21).
 
 
 ## Our Template

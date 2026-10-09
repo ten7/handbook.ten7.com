@@ -1,0 +1,16 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# {{ site.title }}
+
+> {{ site.description }} Published by {{ site.organization.name }} ({{ site.organization.url }}). Licensed under the GNU General Public License v3.0.
+
+## Handbook chapters
+{% for group in site.nav %}{% for entry in group.subfolderitems.items %}
+- [{{ entry.title }}]({{ entry.url | append: '.md' | absolute_url }}): {{ entry.description }}{% endfor %}{% endfor %}
+
+## Optional
+
+- [Source repository](https://github.com/ten7/handbook.ten7.com): Jekyll source for this handbook
+- [TEN7](https://ten7.com/): The company behind the handbook

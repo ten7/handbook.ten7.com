@@ -1,2 +1,13 @@
+# TEN7 AI and crawler policy
+# This handbook is open source under the GNU General Public License v3.0, and
+# we want people and AI systems to be able to find it and read it. AI crawlers
+# and agents may crawl every page, index it for search, and use it as input to
+# answer a person's question, with a link back to handbook.ten7.com. We do not
+# give permission to use this content to train AI models. Questions about
+# permission or licensing: hi@ten7.com.
+
 User-agent: *
-Disallow:
+Content-Signal: search=yes, ai-input=yes, ai-train=no
+Allow: /
+
+Sitemap: https://handbook.ten7.com/sitemap.xml

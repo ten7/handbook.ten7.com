@@ -1,0 +1,100 @@
+{%- comment -%}
+  One linked entity graph per page. Every value is mapped from site config
+  (_config.yml), the page's front matter, or the menu (site.nav), never typed
+  per page. Organization keeps the same @id it has on ten7.com.
+{%- endcomment -%}
+{%- assign org = site.organization -%}
+{%- assign person = site.person -%}
+{%- assign canonical = page.url | absolute_url -%}
+{%- assign website_id = site.url | append: "/#website" -%}
+{%- assign webpage_id = canonical | append: "#webpage" -%}
+{%- assign page_description = page.description | default: site.description -%}
+{%- for group in site.nav -%}
+  {%- for entry in group.subfolderitems.items -%}
+    {%- if entry.url == page.url -%}
+      {%- assign page_description = entry.description | default: page_description -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endfor -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["Organization", "ProfessionalService"],
+      "@id": {{ org.id | jsonify }},
+      "name": {{ org.name | jsonify }},
+      "legalName": {{ org.legal_name | jsonify }},
+      "url": {{ org.url | jsonify }},
+      "description": {{ org.description | jsonify }},
+      "foundingDate": {{ org.founding_date | jsonify }},
+      "telephone": {{ org.telephone | jsonify }},
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": {{ org.address_region | jsonify }},
+        "addressCountry": {{ org.address_country | jsonify }}
+      },
+      "areaServed": {{ org.area_served | jsonify }},
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "telephone": {{ org.telephone | jsonify }},
+        "email": {{ org.email | jsonify }}
+      },
+      "employee": { "@id": {{ person.id | jsonify }} },
+      "sameAs": {{ org.same_as | jsonify }}
+    },
+    {
+      "@type": "Person",
+      "@id": {{ person.id | jsonify }},
+      "name": {{ person.name | jsonify }},
+      "jobTitle": {{ person.job_title | jsonify }},
+      "affiliation": { "@id": {{ org.id | jsonify }} },
+      "worksFor": { "@id": {{ org.id | jsonify }} }
+    },
+    {
+      "@type": "WebSite",
+      "@id": {{ website_id | jsonify }},
+      "url": {{ site.url | append: "/" | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "description": {{ site.description | jsonify }},
+      "publisher": { "@id": {{ org.id | jsonify }} },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "WebPage",
+      "@id": {{ webpage_id | jsonify }},
+      "url": {{ canonical | jsonify }},
+      "name": {{ page.title | strip | jsonify }},
+      "description": {{ page_description | jsonify }},
+      "isPartOf": { "@id": {{ website_id | jsonify }} },
+      "about": { "@id": {{ org.id | jsonify }} },
+      "author": { "@id": {{ org.id | jsonify }} },
+      "publisher": { "@id": {{ org.id | jsonify }} },
+      "isAccessibleForFree": true,
+      "inLanguage": "en-US"{% if page.date_published %},
+      "datePublished": {{ page.date_published | jsonify }}{% endif %}{% if page.date_modified %},
+      "dateModified": {{ page.date_modified | jsonify }}{% endif %}{% if page.url != '/' %},
+      "breadcrumb": { "@id": {{ canonical | append: "#breadcrumb" | jsonify }} }{% endif %}
+    }{% if page.url != '/' %},
+    {
+      "@type": "BreadcrumbList",
+      "@id": {{ canonical | append: "#breadcrumb" | jsonify }},
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": {{ site.title | jsonify }},
+          "item": {{ site.url | append: "/" | jsonify }}
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": {{ page.title | strip | jsonify }},
+          "item": {{ canonical | jsonify }}
+        }
+      ]
+    }{% endif %}
+  ]
+}
+</script>

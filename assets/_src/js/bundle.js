@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // the "navbar-burger" and the "navbar-menu"
         el.classList.toggle('is-active');
         $target.classList.toggle('is-active');
+        el.setAttribute('aria-expanded', el.classList.contains('is-active') ? 'true' : 'false');
       });
     });
   }

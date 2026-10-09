@@ -19,6 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "Employee Handbook"
+url: "https://handbook.ten7.com"
+description: "TEN7's employee handbook: who we are, our culture, benefits, how we work, travel, performance, and how to quit."
 subtitle: "Version 5.3.0, 10/01/26"
 
 nav:
@@ -53,6 +55,27 @@ nav:
         - title: "Legalese"
           description: "Legal details"
           url: "/legalese.html"
+
+# Entities used by the JSON-LD graph (_includes/schema.html).
+organization:
+  id: "https://ten7.com"
+  name: "TEN7"
+  legal_name: "Ten 7 Interactive, LLC"
+  url: "https://ten7.com"
+  description: "TEN7 is a digital agency that builds, rescues and cares for Drupal sites and their teams."
+  founding_date: "2007"
+  telephone: "+1-612-868-7884"
+  email: "hi@ten7.com"
+  address_region: "MN"
+  address_country: "US"
+  area_served: "US"
+  same_as:
+    - "https://www.linkedin.com/company/TEN7"
+    - "https://github.com/TEN7"
+person:
+  id: "https://handbook.ten7.com/whoweare.html#ivan-stegic"
+  name: "Ivan Stegic"
+  job_title: "CEO"
 
 # Build settings
 # theme: TBD
