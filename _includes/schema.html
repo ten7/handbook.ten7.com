@@ -31,7 +31,10 @@
       "telephone": {{ org.telephone | jsonify }},
       "address": {
         "@type": "PostalAddress",
+        "streetAddress": {{ org.street_address | jsonify }},
+        "addressLocality": {{ org.address_locality | jsonify }},
         "addressRegion": {{ org.address_region | jsonify }},
+        "postalCode": {{ org.postal_code | jsonify }},
         "addressCountry": {{ org.address_country | jsonify }}
       },
       "areaServed": {{ org.area_served | jsonify }},

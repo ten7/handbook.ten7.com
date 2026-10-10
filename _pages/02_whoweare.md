@@ -49,6 +49,10 @@ Our main phone number is:<br/>
 General email inquiries can be sent to:<br/> 
 >[hi@ten7.com](hi@ten7.com)
 
+Our mailing address is:<br/>
+
+>Ten 7 Interactive, LLC<br/>1904 James Ave S<br/>Minneapolis, MN 55403
+
 Our social media accounts:
 * [LinkedIn](https://www.linkedin.com/company/ten7)
 
