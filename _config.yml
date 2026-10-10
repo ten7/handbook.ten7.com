@@ -61,6 +61,7 @@ organization:
   id: "https://ten7.com"
   name: "TEN7"
   legal_name: "Ten 7 Interactive, LLC"
+  tax_id: "20-8886158"
   url: "https://ten7.com"
   description: "TEN7 is a digital agency that builds, rescues and cares for Drupal sites and their teams."
   founding_date: "2007"
@@ -79,6 +80,7 @@ person:
   id: "https://handbook.ten7.com/whoweare.html#ivan-stegic"
   name: "Ivan Stegic"
   job_title: "CEO"
+  url: "https://ten7.com/about/team/ivan-stegic"
 
 # Build settings
 # theme: TBD

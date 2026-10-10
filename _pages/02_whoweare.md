@@ -51,7 +51,7 @@ General email inquiries can be sent to:<br/>
 
 Our mailing address is:<br/>
 
->Ten 7 Interactive, LLC<br/>1904 James Ave S<br/>Minneapolis, MN 55403
+>Ten 7 Interactive, LLC<br/>1904 James Ave S<br/>Minneapolis, MN 55403<br/>EIN 20-8886158
 
 Our social media accounts:
 * [LinkedIn](https://www.linkedin.com/company/ten7)

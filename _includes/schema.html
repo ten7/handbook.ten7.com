@@ -25,6 +25,7 @@
       "@id": {{ org.id | jsonify }},
       "name": {{ org.name | jsonify }},
       "legalName": {{ org.legal_name | jsonify }},
+      "taxID": {{ org.tax_id | jsonify }},
       "url": {{ org.url | jsonify }},
       "description": {{ org.description | jsonify }},
       "foundingDate": {{ org.founding_date | jsonify }},
@@ -51,6 +52,8 @@
       "@type": "Person",
       "@id": {{ person.id | jsonify }},
       "name": {{ person.name | jsonify }},
+      "url": {{ person.url | jsonify }},
+      "sameAs": [{{ person.url | jsonify }}],
       "jobTitle": {{ person.job_title | jsonify }},
       "affiliation": { "@id": {{ org.id | jsonify }} },
       "worksFor": { "@id": {{ org.id | jsonify }} }
