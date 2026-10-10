@@ -13,31 +13,52 @@ own organization.
 
 ## Installing locally
 
-To get running, clone the repo, then:
+You need:
 
-- `npm install`
+- **Ruby 3.3.6** (see `.ruby-version`; use rbenv, asdf, mise or similar so the
+  right version is picked up automatically)
+- **Node.js** 12 or newer (we've tested with Node 22) and npm
+- Bundler (`gem install bundler`)
+
+Then clone the repo and run:
+
+- `npm install` (this also runs `bundle install` for the Jekyll gems, via the
+  `preinstall` script)
 - `npm run dev`
 
+`npm run dev` builds the images, CSS and JS, builds the Jekyll site, and
+watches all of it for changes. When it's up you can see the site at:
 
-If you are trying to run this from a MAC M1 (arm64 processor), you might be run
-into some issues. Here are a few things to try to resolve things we've seen before:
+* http://localhost:4000 for the handbook (served by Browsersync, reloads on change)
+* http://localhost:3001 for the Browsersync control panel
 
-1. Make sure you have Homebrew
-2. Run `ruby --version` and if nothing comes up, then run `brew install ruby@3.3`
-3. Once ruby is installed, run `gem install --user-install bundler jekyll`
-4. If you get an error about eventmachine (1.2.7), run
-   `gem install eventmachine -v '1.2.7' --source 'https://rubygems.org/'` at
-   your **root** and a second time at the **project root**,
-5. `bundle config set --local path 'vendor/bundle'`
-6. `bundle install`
-7. `bundle exec jekyll s` (to get your Jekyll site up locally, and in file watch
-   mode)
-8. `npm install`
-9. Get the Jekyll site up locally: `npm run dev`
+Don't run `bundle exec jekyll serve` alongside `npm run dev`: both want port
+4000.
 
-Sould you run into issues restarting the Jekyll server, you might have to re-run
-steps 4-9. Here's a video resource that might help: https://www.youtube.com/watch?v=UKB9ylw0G4U
+`npm run build` does a one-off build into `_site`.
 
-You should be able to see the site at: 
-* http://localhost:3001 for the backend
-* http://localhost:4000 for the frontend
+### Troubleshooting
+
+If `npm install` fails during `bundle install`, run `ruby --version`. It should
+say 3.3.6. If it doesn't, install it (for example `brew install rbenv ruby-build`,
+then `rbenv install 3.3.6`) and run `npm install` again.
+
+On an Apple Silicon Mac, if you get an error about eventmachine (1.2.7), run
+`gem install eventmachine -v '1.2.7' --source 'https://rubygems.org/'` and then
+`npm install` again.
+
+If you can't get `npm run dev` running, you can start the pieces by hand:
+
+1. `bundle config set --local path 'vendor/bundle'`
+2. `bundle install`
+3. `npm install`
+4. `npm run dev`
+
+Here's a video resource that might help: https://www.youtube.com/watch?v=UKB9ylw0G4U
+
+## Deploying
+
+The site is built and deployed by GitHub Actions
+(`.github/workflows/pages.yml`) on every push to `main`. In the repository
+settings, Pages must use "GitHub Actions" as its source. The build reads the git
+history to set each page's last-modified date, so it needs a full checkout.
