@@ -148,7 +148,7 @@ We use AI as a tool, and we've standardized on **[Claude](https://claude.ai)** a
 
 At our core, we'll always believe in the importance of the open web and in putting humans first, and that shapes how we approach AI, just as it shapes how we work as a team. So what don't we do? We don't let AI substitute for human oversight. We don't publish, send, or build anything AI-generated without a human reviewing it first. We don't use AI to cut corners on our work; we use it to free up time so we can use our human brains to think more deeply where it matters.
 
-As a newer addition to our company, we admit that we're still figuring out our exact stance on this topic, and we'll continue to learn and adjust our policies accordingly. No matter where we land, we take full responsibility for any and all of the work we do.
+Because the world of AI is constantly evolving, we'll continue to learn and adjust our policies accordingly. Regardless, we take full responsibility for any and all of the work we do.
 
 ## Website Accessibility
 
